@@ -1,0 +1,47 @@
+<h1>Clientes</h1>
+<br>
+<div class="table-responsive">
+  <!--<div class="panel panel-default"> -->
+    <!-- Default panel contents -->
+    <!--<div class="panel-heading">Panel heading</div>-->
+
+      <!-- Table -->
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Data nascimento</th>
+            <th>Telefone</th>
+            <th>Telefone 2</th>
+            <th>Endereço</th>
+            <th>Bairro</th>
+            <th>Cidade</th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <% @clientes.each do |cliente| %>
+            <tr>
+              <td><%= cliente.nome %></td>
+              <td><%= cliente.email %></td>
+              <td><%= cliente.data_nascimento %></td>
+              <td><%= cliente.telefone01 %></td>
+              <td><%= cliente.telefone02 %></td>
+              <td><%= cliente.endereco %></td>
+              <td><%= cliente.bairro %></td>
+              <td><%= cliente.cidade %></td>
+              <td><%= link_to 'Exibir', cliente %></td>
+              <td><%= link_to 'Editar', edit_cliente_path(cliente) %></td>
+              <td><%= link_to 'Deletar', cliente, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+  <!--</div>-->
+</div>
+
+<%= link_to 'Novo Cliente', new_cliente_path %>

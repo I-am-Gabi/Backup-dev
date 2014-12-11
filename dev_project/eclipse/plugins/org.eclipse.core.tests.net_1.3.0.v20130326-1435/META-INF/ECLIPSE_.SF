@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 7DJheACderm2JJm7ppTI3gA5K3E=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: i+Xtt4PeQXZQRM1oafaUs9nI2wU=
+
+Name: org/eclipse/core/tests/net/AllNetTests.class
+SHA1-Digest: zYIN7bBvN9K10Cwl4cTfJB4lP4A=
+
+Name: org/eclipse/core/tests/net/Activator.class
+SHA1-Digest: tXLzAAjz5xR4JRqCpbHbPracnLk=
+
+Name: .api_description
+SHA1-Digest: FnJ1eOmB1pO3PzmMYUwQYtAuVWI=
+
+Name: test.xml
+SHA1-Digest: yohN+ixGVr3G+I1d1boPEcIWC0g=
+
+Name: org/eclipse/core/tests/net/NetTest.class
+SHA1-Digest: 3IlBSb35s9Zhc/WYIhyrLpegYeU=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/core/tests/net/SystemProxyTest.class
+SHA1-Digest: xIBCnNzGzRk7VVQJVYQTiw6kP+w=
+

@@ -1,0 +1,1613 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: yy9kRxF5hPWex/a7ghBAN/yONNg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 00qARZQ1Boc+E9bYOGvnBFseDDI=
+
+Name: data/cheatsheet/valid/tolerate/SubItemElement_ExtraElement.xml
+SHA1-Digest: qjn0qIxmJMa4JFoD8cs9qaraFTc=
+
+Name: data/help/toc/helpData.xml
+SHA1-Digest: Xs4dle3cCNEk9RypYW9PJE6FtgE=
+
+Name: data/help/performance/org.eclipse.platform.doc.user/topics_Refer
+ ence.xml
+SHA1-Digest: 57eIv0iN+Ww3YC9Ogs0d2y//LhI=
+
+Name: data/help/performance/search/ua_help.htm
+SHA1-Digest: zznOGEiwHmz+jfpen3txOP/uB24=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/javad
+ ev_obj.gif
+SHA1-Digest: hcxNnCrGIW0/JBzR1ZglQ0Nx6go=
+
+Name: data/help/preferences/helpData1.xml
+SHA1-Digest: jVFBs0AbiS0lakYf4B0wlJu+/v4=
+
+Name: data/intro/html/static3.html
+SHA1-Digest: lAGX+AAODo7GNBJ1W7y08n8cphk=
+
+Name: data/cheatsheet/valid/tolerate/CheatSheetElement_ExtraAttr_expec
+ ted.txt
+SHA1-Digest: iZAR0QPFWfPctTHdgBfl/GXdnZA=
+
+Name: data/help/performance/search/ua_help_content_manifest.htm
+SHA1-Digest: QvjYZAo1vJ2UwL0/pk8THHsK+C0=
+
+Name: data/help/performance/org.eclipse.platform.doc.isv/topics_Sample
+ s.xml
+SHA1-Digest: hUhb7t3axych1dDlWuKHkd4pYmg=
+
+Name: data/intro/performance/org.eclipse.pde/css/swt.properties
+SHA1-Digest: Lgv0o1RV0XzthoB7tRyEmryKLHw=
+
+Name: data/help/performance/search/ua_help_setup_about.htm
+SHA1-Digest: CpEKRhwoNvFqiyobddYX4/+DNlg=
+
+Name: non_junit/cheatsheets/tasks/helpA2.xml
+SHA1-Digest: WItjdZHn3HX0KALoWzHxzwgFVew=
+
+Name: data/help/index/assembler/c.xml
+SHA1-Digest: SRYxnbJdN5J5S/g5Kq/TIyNOqxs=
+
+Name: data/help/search/testnl1.xhtml
+SHA1-Digest: Gi0tdbgf4OrCnpW3kmnEIKwMrwo=
+
+Name: data/cheatsheet/valid/tolerate/ItemElement_ExtraAttr_expected.tx
+ t
+SHA1-Digest: m8eBHHDWv/6EY6sffN++eZ8hXS8=
+
+Name: data/cheatsheet/valid/tolerate/ActionElement_ExtraElement.xml
+SHA1-Digest: Mjnl0cmRf86YUQqK7eDhKVEWW9w=
+
+Name: data/help/search/extraDir/testMeta2.htm
+SHA1-Digest: qXhVvitvFEcFyiItrSRZ/LLwOVQ=
+
+Name: data/help/jsp/b320547remote.html
+SHA1-Digest: lxoirkLZpBAjMjowYSxzml0n+PM=
+
+Name: data/help/searchindex/index291/segments_2
+SHA1-Digest: b4fQToz1VQv04WkZaG94zz5tQ8E=
+
+Name: data/intro/performance/org.eclipse.jdt/newsExtensionContent.xml
+SHA1-Digest: J8/RPoR5Z9sE9UKlcBANCfuf3+E=
+
+Name: data/help/dynamic/entities.xml
+SHA1-Digest: 1FEyFC7P6HZdoME7E89Kl8vIq7w=
+
+Name: data/intro/dynamicXHTML/ext.xml
+SHA1-Digest: +caOS/TkRT0NG51N5epZM+UqS6c=
+
+Name: data/help/search/testMeta.htm
+SHA1-Digest: RiNLHiaZ7l+1sOvJxHICGlafO24=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/arrow.g
+ if
+SHA1-Digest: 8Xile0t3lYyaK32M6Os/JkeFJJw=
+
+Name: icons/sample4.gif
+SHA1-Digest: Of420Ri2rn2xBrmyRdezxaU2X5w=
+
+Name: data/help/toc/filteredToc/helpInstalled.html
+SHA1-Digest: 1/fX/UvVQjjgaeIIWquR4vEz9Ao=
+
+Name: data/help/index/topic1.html
+SHA1-Digest: w82IL0XnQTZLZJ2jsZXi3+cU4r8=
+
+Name: non_junit/cheatsheets/tasks/helpB3.xml
+SHA1-Digest: GLBkQDxscYmwGXUjsZMLMLNBxKA=
+
+Name: data/help/performance/search/ua_help_menu.htm
+SHA1-Digest: RpP7c20xhTTM3DQ2g7yO9DlFDgY=
+
+Name: data/intro/dynamicXHTML/content/static.xhtml
+SHA1-Digest: HtxqlGrkg4b1/uybYaj06qRytnE=
+
+Name: data/help/performance/search/ua_help_content_active_debug.htm
+SHA1-Digest: hOzAlEd0ozw08oKebzcWhGOBd64=
+
+Name: data/help/performance/org.eclipse.jdt.doc.isv/jdttoc.xml
+SHA1-Digest: bT3NVVfiZkUZU6D89AtEeeH8TEE=
+
+Name: data/help/toc/filteredToc/toc_expected.txt
+SHA1-Digest: EO5lVsU2krHTMXChsp6WlUHuq44=
+
+Name: data/cheatsheet/invalid/CheatSheetElement_MissingTitle.xml
+SHA1-Digest: lESGNLNmRMrkpRAXpredtQAnQKo=
+
+Name: data/cheatsheet/valid/tolerate/SubItemElement_ExtraElement_expec
+ ted.txt
+SHA1-Digest: FItoV9MlF/Y0w+2WxdfsKxzboQI=
+
+Name: data/cheatsheet/valid/tolerate/ConditionalSubItem_ExtraAttr.xml
+SHA1-Digest: 1UNmyi0JOD07G4OtYVLSuLk//Ak=
+
+Name: data/help/dynamic/extension/doc.xhtml
+SHA1-Digest: QgEZUF+25+Bwv5ZIyNXRa0xv1VU=
+
+Name: nl/de/data/help/search/test_en.html
+SHA1-Digest: 6cVGwcGc4M7WxXLMphvXI/Nszbc=
+
+Name: data/cheatsheet/valid/tolerate/ConditionalSubItem_ExtraElement_e
+ xpected.txt
+SHA1-Digest: Kxi7SvuNvykTFpfGGXI2br7/tdg=
+
+Name: data/help/toc/filteredToc/parentUTF8.html
+SHA1-Digest: qsjC6i4EBdEBcXQZ9Kzm7A8A5sE=
+
+Name: data/help/performance/search/ua_help_context_xml.htm
+SHA1-Digest: oe+18DHdcOpz5yfkGsYgPsAC3eU=
+
+Name: data/intro/dynamicXHTML/content/include2_expected.txt
+SHA1-Digest: zFlR0ee059YBltDElxmBvmTXSWk=
+
+Name: data/intro/anchors/extn4.xml
+SHA1-Digest: 5VcO3uZqtRbvW2nOgctVQH0rFe4=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/t
+ eamsup_obj.gif
+SHA1-Digest: ncHhXRSDyZM1nqQgC3FR1VQswLs=
+
+Name: data/cheatsheet/invalid/SubItem_MissingLabel.xml
+SHA1-Digest: HknjcqjeRxXue3oigOjMujC6FKo=
+
+Name: data/cheatsheet/valid/TestDescriptionFormatting_expected.txt
+SHA1-Digest: hRWGrPyk/SZLv8drmQvLukLlgxQ=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/c
+ ommunityhov_obj.gif
+SHA1-Digest: dn6qcHzx5Ou7Agy4AjvU2awnU4Y=
+
+Name: non_junit/toc.xml
+SHA1-Digest: CBZMWlJEJ6cxuvBXt0a0eoYmrvw=
+
+Name: data/help/searchindex/index191/indexed_dependencies
+SHA1-Digest: 1ZJ3nvvGHlvXhK+GqzEJxNWxUkA=
+
+Name: data/intro/performance/org.eclipse.pde/css/tutorials.css
+SHA1-Digest: MRdt3368nnwdY9JTlmF2harzsu0=
+
+Name: data/intro/search/samplesExtensionContent.xml
+SHA1-Digest: fdNCEnlMWGsq8Ftc0sDfMGjqDwE=
+
+Name: service/schema/xml/advancedsearch.xsd
+SHA1-Digest: txxZHgqC96uJJeNpj3tcqTknF4o=
+
+Name: jsp/basic/titlesearchView.jsp
+SHA1-Digest: pHhnIIpMQVqo40wwyU+IaVBXA4Y=
+
+Name: data/cheatsheet/valid/tolerate/ItemElement_ExtraElement.xml
+SHA1-Digest: MbsAS771fYbXfCQs0D7ITRn4QAo=
+
+Name: data/help/dynamic/shared/extension.xml
+SHA1-Digest: t8Jt0iCabm7wRTOrWqyy9lhWO5g=
+
+Name: data/intro/performance/org.eclipse.platform/css/overview.propert
+ ies
+SHA1-Digest: tWdD2OVyz88UN4X97TKkTg6impw=
+
+Name: data/cheatsheet/search/CSSearchTest.xml
+SHA1-Digest: QIqkadu5o9GciA0bcA0OHDXnT2M=
+
+Name: data/cheatsheet/invalid/Command_MissingSerialization.xml
+SHA1-Digest: AK2eRrS1g0iJQyaLsWW1HW1xdCE=
+
+Name: data/help/performance/org.eclipse.jdt.doc.user/topics_Tasks.xml
+SHA1-Digest: h7qNGflpjo2raPxKzxgvmgJwUEQ=
+
+Name: data/intro/performance/org.eclipse.pde/samplesExtensionContent2.
+ xml
+SHA1-Digest: oZN9yQP9osQUBza0ZoPE9YMmmJs=
+
+Name: data/help/manual/manual.xml
+SHA1-Digest: Ctnz/I+43A+IQzjbKSnLSN1R41s=
+
+Name: data/help/toc/extraContent/simple_page.html
+SHA1-Digest: wLVy0ZMjOCEKuaVxisZJrnQAjfc=
+
+Name: non_junit/cheatsheets/tasks/helpA1.xml
+SHA1-Digest: we61Zlm9cYZnM9xiI/doVRwyaoY=
+
+Name: data/help/index/assembler/b.xml
+SHA1-Digest: WrjV/pWRmnTsiVfavwDCybvWtwY=
+
+Name: data/help/search/testProvider.xhtml
+SHA1-Digest: Q2GCyT9RPvzpEM7BUKc131DZhfc=
+
+Name: data/help/search/test5.xhtml
+SHA1-Digest: Yc0LSZx30COniRucHHUOXr1Rihc=
+
+Name: data/cheatsheet/valid/tolerate/PerformWhen_ExtraAttr.xml
+SHA1-Digest: dXTAC3qiCIx4i2oLVJpQGacUW9U=
+
+Name: non_junit/cheatsheets/tasks/helpA9.xml
+SHA1-Digest: 6v40cBBItZBNbd/f1ezcghxQKgY=
+
+Name: data/intro/performance/org.eclipse.jdt/samplesExtensionContent.x
+ ml
+SHA1-Digest: rAuPq+/UCP+fuu01dCXccFJEyGs=
+
+Name: data/intro/performance/org.eclipse.jdt/css/samples.css
+SHA1-Digest: XJV15F464uOBa5oKxGVhVZBkjVA=
+
+Name: non_junit/cheatsheets/tasks/other1.xml
+SHA1-Digest: cMqAhkeYdmwNOwkGAAadRo1eF8g=
+
+Name: data/cheatsheet/valid/tolerate/DescriptionElement_ExtraElements_
+ expected.txt
+SHA1-Digest: XB3g4dHHZ6qIFMTC0Qgr2oaokOA=
+
+Name: icons/sample3.gif
+SHA1-Digest: OeGksqiaSsVT/s5zwD0mlLbsz9A=
+
+Name: data/intro/staticroot/introContent.xml
+SHA1-Digest: nHiy7Rokw71Gk673OlMEZM29hlM=
+
+Name: nl/de/data/help/search/toc.xml
+SHA1-Digest: XetVVCzsGjU+ppYEzw7UgiAqnEs=
+
+Name: non_junit/cheatsheets/tasks/helpB2.xml
+SHA1-Digest: weI5VVFR+JjylbIQPQ9QNFNYZLA=
+
+Name: data/cheatsheet/valid/TestParameters.xml
+SHA1-Digest: Xk8SMY14mQJJtBoxDu93BNG2n8c=
+
+Name: data/cheatsheet/performance/composite/helloworld-feature.xml
+SHA1-Digest: UB/WpO6b8B16mqC4lt34FAHEIog=
+
+Name: test.xml
+SHA1-Digest: eCdvtAY8pWL9MmprrKyJSQiDyXQ=
+
+Name: data/cheatsheet/composite/BackwardDependency.xml
+SHA1-Digest: 3FfV2DaYCUyz3Qt4EyvmSD7vP88=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/featu
+ reshov_obj.gif
+SHA1-Digest: +g24apIWZANOGNb3P6UpajCgj0g=
+
+Name: data/help/jsp/b233466remote.html
+SHA1-Digest: WIZA+wQE0pmH5r3Q2tMrMAwg1r0=
+
+Name: data/help/manual/filter.xhtml
+SHA1-Digest: utIBKVqY33nCKnWVOa02Y12sUb8=
+
+Name: data/cheatsheet/composite/DuplicateTaskId.xml
+SHA1-Digest: +4MJ1dWrdWf1YirzlQNDvmAyRAo=
+
+Name: non_junit/css/disabled.css
+SHA1-Digest: LvkoJV6AVQjiB21ThiRVGEwL6y4=
+
+Name: data/help/index/topic2.html
+SHA1-Digest: cOVZKm4fnuzWSSe+XcvLIOu4X4A=
+
+Name: data/cheatsheet/invalid/TwoActions.xml
+SHA1-Digest: j6KBnVqZIkL8S+rxWk1Ka0IbMo8=
+
+Name: data/help/toc/filteredToc/simple_toc.xml
+SHA1-Digest: RQYt+HqPaAW3/Bkops7LQoAGGME=
+
+Name: data/help/performance/org.eclipse.platform.doc.user/topics_Getti
+ ngStarted.xml
+SHA1-Digest: Y4QC8uhZ8DUcMg+AvQ2k+A4lkpM=
+
+Name: data/intro/anchors/extn3.xml
+SHA1-Digest: W2Kl58YhU/aZhOp4y6Sw7F65UH8=
+
+Name: data/cheatsheet/valid/tolerate/DescriptionElement_ExtraElements.
+ xml
+SHA1-Digest: P6UXeAmPk4/BCvvTAQqYrnS3FVU=
+
+Name: data/cheatsheet/composite/LeafTaskWithoutKind.xml
+SHA1-Digest: IBZlWZMGuUBKUSV3fJiNrQeyrK8=
+
+Name: data/cheatsheet/performance/composite/helloworld-install.xml
+SHA1-Digest: y7E7fFALcQhQyBgdAjkUDhKYhro=
+
+Name: service/schema/xml/index.xsd
+SHA1-Digest: jxVv8M9m8DRZRSdi7Z45qtFmDI0=
+
+Name: data/test_customization.ini
+SHA1-Digest: nek3mCPbHLvZMLyzbN++yAdE6uU=
+
+Name: data/cheatsheet/valid/tolerate/PerformWhen_ExtraElement.xml
+SHA1-Digest: V/I4a2uIO+Y787xPzkpEDYWPLDQ=
+
+Name: data/help/performance/search/ua_help_setup_rcp.htm
+SHA1-Digest: V/n4cJztrfwAnBUZ0LChBbDFG5M=
+
+Name: data/cheatsheet/valid/tolerate/IntroElement_ExtraElement_expecte
+ d.txt
+SHA1-Digest: qRua74mIqhUFjxzLnrAbMEAWTRs=
+
+Name: data/cheatsheet/valid/tolerate/RepeatedSubItem_ExtraAttr_expecte
+ d.txt
+SHA1-Digest: G8YIMEuZEc+BSuKYkB1z1Me+VD4=
+
+Name: data/intro/dynamicXHTML/introContent_expected.txt
+SHA1-Digest: Ej0uBKL1a310c9c9Fm7pSOP/ez0=
+
+Name: data/cheatsheet/invalid/SubitemAndPerformWhen.xml
+SHA1-Digest: vM7LP7jGzx7O2TKMslpUzyp4PUo=
+
+Name: data/help/performance/search/ua_help_setup_preindex.htm
+SHA1-Digest: Cvh2DqDouTjcgS55cNv/j+r2Wug=
+
+Name: non_junit/cheatsheets/tasks/helpC.xml
+SHA1-Digest: YJVUs3/CSCVrSgaQo+7TaBKMyJ4=
+
+Name: data/cheatsheet/performance/simple.xml
+SHA1-Digest: WHtoTMuA75ANKdwB7lJuCkAiSgo=
+
+Name: data/cheatsheet/valid/HelloWorld.xml
+SHA1-Digest: 3SeuWfdqAot8tHJWRVCeO+cgxXo=
+
+Name: jsp/basic/titlesearchToolbar.jsp
+SHA1-Digest: Drs+xqdAeCPua/lunKyAGiyEnuU=
+
+Name: data/help/performance/org.eclipse.jdt.doc.isv/topics_Reference.x
+ ml
+SHA1-Digest: KKuCUEEK6mWi4yxeYczhY3u7FlI=
+
+Name: data/help/criteria/c2.xml
+SHA1-Digest: toH+vy6VutlhiTEH/Zo8y9GEMV0=
+
+Name: data/cheatsheet/valid/HelloWorldWithSubitems.xml
+SHA1-Digest: GRKrW9gF3YEPI5yu/RCikDlUEC4=
+
+Name: data/help/jsp/remote.html
+SHA1-Digest: yZzryb4xEUXPntPsaVQJXvF1fzA=
+
+Name: non_junit/cheatsheets/uaTests.xml
+SHA1-Digest: XOsjC1fHiRX/VsOtpet8XM6NGEU=
+
+Name: data/help/performance/org.eclipse.jdt.doc.user/toc.xml
+SHA1-Digest: OXEiI42e8esKoVPjikKpZQwl4lY=
+
+Name: data/intro/staticroot/introContent_expected.txt
+SHA1-Digest: KHHqBiGHiF+7qTcpSIBySZcQLy8=
+
+Name: data/help/index/assembler/a.xml
+SHA1-Digest: 6ANK1T8Z35lbqW8QCOnI2qRWMHc=
+
+Name: nl/de/data/help/index/index.xml
+SHA1-Digest: LSj2Fsx98fNrIN7uT9Na52ioRyo=
+
+Name: data/intro/performance/org.eclipse.platform/css/tutorials.css
+SHA1-Digest: TgFdUCwImB2jImAhMrgwbsTafHQ=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/sampl
+ epurp_obj.gif
+SHA1-Digest: yAcp8MiSOXif4NZv5tg1AOIW9vo=
+
+Name: data/intro/performance/org.eclipse.pde/css/samples.css
+SHA1-Digest: AyN1LEH0xwjzbn7Al6CfT8ZAykU=
+
+Name: data/help/search/extraDir/testMeta2.xhtml
+SHA1-Digest: 4C46KsP7sO0vED22luV4pyoWzzc=
+
+Name: data/help/search/test9.htm
+SHA1-Digest: q8B5ipqUWBex1eLAMWmmlgSp3MQ=
+
+Name: data/intro/dynamicXHTML/ext2.xml
+SHA1-Digest: mz9kX01F2WuZ+tocFXY0dvD5NrM=
+
+Name: data/cheatsheet/valid/TestDynamicSubItems_expected.txt
+SHA1-Digest: RZRGPbNzbMR3nhMEOQ9hof7fZkg=
+
+Name: data/cheatsheet/valid/tolerate/ConditionalSubItem_ExtraAttr_expe
+ cted.txt
+SHA1-Digest: R5M4iAJa8sR0Rqrp8Z27rn/S+tM=
+
+Name: data/help/toc/filteredToc/filteredOutPage.html
+SHA1-Digest: ZEZDqQTZfuNmV49o+SRil7KWaUc=
+
+Name: data/cheatsheet/composite/GuideWithoutTasks.xml
+SHA1-Digest: ZxUwknbmsKzBuA5qqK4QUOW6PRk=
+
+Name: data/cheatsheet/composite/InvalidTaskGroupKind.xml
+SHA1-Digest: 4qCOFrlUkr9TwO08HMzeTKci79w=
+
+Name: data/help/dynamic/include/extension.xml
+SHA1-Digest: aVNHmHYp8ZbJ8MMI6pdZYhbDskk=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/javaa
+ pplethov_obj.gif
+SHA1-Digest: Aa9bdFzpYsQTFkW3bC5/dh9J5T8=
+
+Name: icons/sample2.gif
+SHA1-Digest: WVUZCMC7AnTUr9bwXOIRFE/PlFI=
+
+Name: data/cheatsheet/contexts.xml
+SHA1-Digest: CPS6Ino6kOg7EyYAYa724SJyTrc=
+
+Name: data/help/toc/toc_data/helpDataEmpty.xml
+SHA1-Digest: UMT3E4q1QQFyOWT2UiRzwcj+REc=
+
+Name: non_junit/test_files.zip
+SHA1-Digest: M4KP6ujaosOUfI712MoZoVxcwq0=
+
+Name: service/schema/xml/indexfragment.xsd
+SHA1-Digest: cutLElWiP81DGlKPv2I4ORSu3hw=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/m
+ igrate_obj.gif
+SHA1-Digest: Ss2Y1GKM3jljjMU4ybt8QhfUnhQ=
+
+Name: data/help/preferences/values3.txt
+SHA1-Digest: 8An7c6DpQu9Z3U/kC7082yTN0gw=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/migra
+ tehov_obj.gif
+SHA1-Digest: HgX5vu0h45O7MSXY3reFFpjtIXU=
+
+Name: data/help/performance/org.eclipse.jdt.doc.isv/topics_Porting.xml
+SHA1-Digest: 6tl6rZKHwcP6iu0RJ6a11LyNfHo=
+
+Name: non_junit/cheatsheets/tasks/helpB1.xml
+SHA1-Digest: xVJWFWr8mp4jQZLTc2Qd8b74U98=
+
+Name: data/cheatsheet/valid/TestOpeningURL_expected.txt
+SHA1-Digest: PznGkLt9QW0G+DeBQXsg170IIFQ=
+
+Name: data/help/performance/search/ua_help_content.htm
+SHA1-Digest: LO9mRnA7RrfYWq4V/d4gREvhhlA=
+
+Name: data/cheatsheet/valid/TestOpeningURL.xml
+SHA1-Digest: LXOfLZ8gl4ccLJK2CsQAaokfmtQ=
+
+Name: data/cheatsheet/valid/TestContext_Help_expected.txt
+SHA1-Digest: CxGLeBox6yzuxnOq+FuvFE25Y0M=
+
+Name: data/cheatsheet/valid/tolerate/RepeatedSubItem_ExtraElement.xml
+SHA1-Digest: dVnoevH3lQm4Lh4gVotbOcHATFo=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/w
+ bbasicshov_obj.gif
+SHA1-Digest: qHwKzz8OWCRYFwGTlcvtCfgbuV8=
+
+Name: data/help/toc/extraContent/toc2.xml
+SHA1-Digest: JYbluDztD33UbXfocKCwBb/ESms=
+
+Name: data/intro/performance/org.eclipse.jdt/overviewExtensionContent.
+ xml
+SHA1-Digest: pqzwQBlu8IPgocB9GFUJv0WkIr4=
+
+Name: data/help/searchindex/index191/segments
+SHA1-Digest: gvOk/9dUNw10h3vCC+Wqr0cTqwk=
+
+Name: data/cheatsheet/invalid/ActionElement_ParamInvalidRange.xml
+SHA1-Digest: Nv6QJkj5t2fSckZbBp/VpF2Mr/Y=
+
+Name: data/help/dynamic/extension.xml
+SHA1-Digest: cjvdJFijqq+rOIZd1RIrmJWCmI0=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/u
+ pdates_obj.gif
+SHA1-Digest: xpCjOgR3zZ2OJ0Vc/xCC6O5RIN8=
+
+Name: data/intro/performance/org.eclipse.pde/css/overview.css
+SHA1-Digest: riOAO8DNet60Ox2tS8TnGOzeGqw=
+
+Name: data/help/dynamic/xhtml/emptyAnchor.xhtml
+SHA1-Digest: ++74Zogi7HujKxNj9VBn4N8oa88=
+
+Name: data/intro/anchors/extn2.xml
+SHA1-Digest: v2Zbx2JjzHkvWYE7ImoVSkO4UR8=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/swtap
+ p_obj.gif
+SHA1-Digest: tODEXvRJTpnT8356/ipPTJMff3o=
+
+Name: data/cheatsheet/invalid/IntroElement_ManyDescriptions.xml
+SHA1-Digest: g1NY9UK0D13HUzuIkcGCungC9aE=
+
+Name: data/help/search/test4.xhtml
+SHA1-Digest: lVqbbQktyulggHhrPrLyni9J9Jk=
+
+Name: non_junit/css/remote.css
+SHA1-Digest: UVksSwfEC+HKrV13boR+C10xAhc=
+
+Name: data/help/criteria/page_v.htm
+SHA1-Digest: YZlYVOMZTTv+bpYU4R/fZwjksCY=
+
+Name: data/cheatsheet/valid/tolerate/IntroElement_ExtraAttr.xml
+SHA1-Digest: B7Rst72669aFetOlxuc0US+isIk=
+
+Name: data/help/performance/search/ua_help_content_active.htm
+SHA1-Digest: nMANxGlUouh898lkj6V2RVIL48Q=
+
+Name: doc.zip
+SHA1-Digest: W+ASI1q0nMDkJYUHTM2M1CqipCY=
+
+Name: data/help/jsp/xssremote.html
+SHA1-Digest: q/A/P966nJU9Q+5rJxJDPLsjdKY=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: data/help/index/topic3.html
+SHA1-Digest: KAOal7jtX6JM4Xk2P/GZTCXCxgU=
+
+Name: data/intro/mixed/introContent_expected.txt
+SHA1-Digest: LpCPWpv5RSzt1I44CyKUVNlME0o=
+
+Name: data/help/searchindex/index191/indexed_docs
+SHA1-Digest: iw+KbaCi4kj3ajSaUY5g/r15J34=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/swtap
+ phov_obj.gif
+SHA1-Digest: hs+nGw5eYzna1WZhNc25XeC9zH0=
+
+Name: data/help/performance/search/ua_help_context_dynamic.htm
+SHA1-Digest: cYMYzB/ajmD9nT+/g9FexhPJYP8=
+
+Name: data/help/jsp/b320548remote.html
+SHA1-Digest: THeJFpTQWYC7sVGXvpUwG8GZF18=
+
+Name: data/cheatsheet/valid/tolerate/ActionElement_ExtraAttr_expected.
+ txt
+SHA1-Digest: Y/+fqJPAEcDHz/H7fR+mJvuKAaA=
+
+Name: data/help/performance/org.eclipse.jdt.doc.isv/topics_Samples.xml
+SHA1-Digest: gKKmczjt6j2/nRfQlPoplZ2z0rg=
+
+Name: data/help/criteria/c1.xml
+SHA1-Digest: ag9HEZsy86ZDnXEDH1V0SHaiZrM=
+
+Name: data/help/dynamic/index_expected.txt
+SHA1-Digest: U2CYxWvlBL6dZ4Ep+Y6jkVVOp+E=
+
+Name: non_junit/cheatsheets/tasks/criteria3.xml
+SHA1-Digest: g8U6QYHWgi3mTWeUgbfIv0ok/wc=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/javad
+ evhov_obj.gif
+SHA1-Digest: tS2dIlRMplS9+/xTxMEk2YdAClM=
+
+Name: data/help/index/assembler/result_a_b_c.xml
+SHA1-Digest: /eD2e+91HL/LSaFkeUnH2eoT3i0=
+
+Name: data/help/performance/search/ua_help_search.htm
+SHA1-Digest: 1K63GzxUifiC8dNViOHSlkMvJm4=
+
+Name: data/help/performance/org.eclipse.platform.doc.isv/topics_Guide.
+ xml
+SHA1-Digest: JXbdFYRLde0WIgYNIM86LB0cEpw=
+
+Name: data/help/performance/search/ua_help_content_command_authoring.h
+ tm
+SHA1-Digest: OhX7OgCQkmjc23uCoyn/mQW/rBg=
+
+Name: data/cheatsheet/valid/tolerate/ActionElement_ExtraAttr.xml
+SHA1-Digest: QatcnZy4zzr+Oc+AosxIy0Gl9mg=
+
+Name: data/intro/html/inner/static2.html
+SHA1-Digest: XbWHp/MYH2OwUFlAhiDk6QVIed4=
+
+Name: data/intro/performance/org.eclipse.pde/newsExtensionContent.xml
+SHA1-Digest: gTkHO8Ewwgk7lOA1Q8tDoHN5HHg=
+
+Name: data/cheatsheet/performance/composite/helloworld-create.xml
+SHA1-Digest: 2e0dYd92Q25fMgOqTWoftk4PJY8=
+
+Name: data/cheatsheet/invalid/ActionElement_MissingPluginId.xml
+SHA1-Digest: rT27v/03qmYXhfajuugE6pzOBoM=
+
+Name: data/help/search/test7.html
+SHA1-Digest: xeTEwsZNhlv6JkLYowsXlfZ6Pn8=
+
+Name: data/help/toc/extraContent/simple_toc.xml
+SHA1-Digest: IP92K+3piPPR+v8vqCbDDsqwpVA=
+
+Name: data/help/search/test8.htm
+SHA1-Digest: 8TjSu7fY9DnhRUKX2Czm1xmpY+I=
+
+Name: data/cheatsheet/composite/SingleTask.xml
+SHA1-Digest: r9P6uoE6ZGjhwGP1uYwwA159PB8=
+
+Name: non_junit/cheatsheets/tasks/helpA7.xml
+SHA1-Digest: zxJrGVNGEz57lEA8SAuOd4YNjaQ=
+
+Name: data/cheatsheet/valid/tolerate/PerformWhen_ExtraElement_expected
+ .txt
+SHA1-Digest: FS6XE4IHrcHUCRwyDAO3rowBLCE=
+
+Name: jsp/advanced/testHelpToolbarFrame.jsp
+SHA1-Digest: ENPDfdaLqE4rM9Klj3v+M/4Pw0c=
+
+Name: service/schema/xml/tocfragment.xsd
+SHA1-Digest: 7+FdnJffZgcNXOuXdJ7H+WcD2XQ=
+
+Name: data/help/search/extension.xml
+SHA1-Digest: iJazzz8Ir70zHWnhPbXR7OcMuJY=
+
+Name: data/help/search/testMeta.xhtml
+SHA1-Digest: mPuYUsaS3Xu1xVHf2H+tvlRxDEA=
+
+Name: data/cheatsheet/invalid/ItemElement_MissingDescription.xml
+SHA1-Digest: bLB6+IrN/Vwz3hIp2BCpVpkC+WM=
+
+Name: data/help/jsp/b317055remote.html
+SHA1-Digest: WxOSi3rhTJvKMIly7+HH5udHvtk=
+
+Name: data/help/performance/org.eclipse.jdt.doc.isv/topics_Guide.xml
+SHA1-Digest: o9uBC2MTNeQ/ntQ2JVEAgVjsJSk=
+
+Name: data/intro/performance/org.eclipse.jdt/css/tutorials.css
+SHA1-Digest: dEzHF8Ggd0wDD1kY5ofMe0MByag=
+
+Name: data/help/preferences/values2.txt
+SHA1-Digest: Wck5AwN8H1NrQfZ5n5sasPQXzkI=
+
+Name: data/help/toc/assembler/result_a_b_c_d.xml
+SHA1-Digest: KJVnwS8WOtguNwoXcPLwWFyzEZQ=
+
+Name: data/cheatsheet/invalid/ConfirmTrueRequiredFalse.xml
+SHA1-Digest: SIt9CMKhyCuB8QyK26jwM1UPjaQ=
+
+Name: data/intro/dynamicXHTML/content/anchor2_expected.txt
+SHA1-Digest: 8o0/1oDf9PGvIwID5JfEb4buAmU=
+
+Name: script/titlesearch.js
+SHA1-Digest: 01Tg+f4tNWsfp0FqRlLNQlMP0iM=
+
+Name: data/help/jsp/local.html
+SHA1-Digest: OfHgdtFOGIZ24M6W5PNa7URhZjQ=
+
+Name: non_junit/cheatsheets/tasks/placeholder.xml
+SHA1-Digest: xN7MXqqdRDdh9eXTcLEWErMVvIw=
+
+Name: non_junit/cheatsheets/tasks/helpA11setup.xml
+SHA1-Digest: GtuGYchQs9tXNW8BGz58/vsOT+8=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/javaa
+ pplet_obj.gif
+SHA1-Digest: Cet0X2rtFiQPcO5aQ7JRrsKb1pc=
+
+Name: data/intro/dynamicXHTML/content/filter.xhtml
+SHA1-Digest: Vagt7ln/uNR0UgET1naipVSpEU0=
+
+Name: data/help/dynamic/filter_expected.txt
+SHA1-Digest: 4BTmd2Bb+f9FNBj66vWoYVQ50K0=
+
+Name: data/cheatsheet/composite/DependencyInvalidId.xml
+SHA1-Digest: VwVohRy594xOJ4uu8SC6wqjupR8=
+
+Name: data/intro/dynamicXHTML/content/anchor_expected.txt
+SHA1-Digest: 0U3ALU6ARfmHkhBOAeUx91NGIOk=
+
+Name: data/help/performance/search/ua_help_content_toc.htm
+SHA1-Digest: PUKWDXXLP3rzcTDQrQuAJsAANc8=
+
+Name: data/help/toc/filteredToc/simple_page.html
+SHA1-Digest: hqFEUw+cbvX/w7bk7L3mdDbmPaM=
+
+Name: data/cheatsheet/valid/HelloWorldWithExtensions_expected.txt
+SHA1-Digest: GsGotYzkmrGPulpvGzAnUhZLaxg=
+
+Name: data/help/dynamic/simple_expected.txt
+SHA1-Digest: DMaf6Z5Cy46lcBvi78vJ3vbV+TI=
+
+Name: data/help/toc/assembler/d.xml
+SHA1-Digest: WYCjgjbSXiWcDLmKg0jrpSWtJj8=
+
+Name: data/help/dynamic/xhtml_expected.txt
+SHA1-Digest: bAI3aNkZNxIqu8ix2vsWwNfLWpc=
+
+Name: data/help/search/extraDir2/extraDoc.htm
+SHA1-Digest: N1hotsWLgKWNOU4FUt9bD10aHWk=
+
+Name: data/help/search/lucene_xml_2.xml
+SHA1-Digest: 7Rq9r+D90OANPjq/JnisgeNuiv0=
+
+Name: data/intro/anchors/extn1.xml
+SHA1-Digest: 9rjT1aLfAOJBkYjfp8CapwRPDOg=
+
+Name: non_junit/test_plan.htm
+SHA1-Digest: ys5lClGWtQXn8ZgcDvZiC6kEufE=
+
+Name: data/cheatsheet/invalid/IntroElement_MissingDescription.xml
+SHA1-Digest: eD9kfn2C8OS/AXhSU3ApefKrD+I=
+
+Name: data/help/manual/anchors.html
+SHA1-Digest: lwk6eTS2aa1Df5zSI9+xNhs2jQk=
+
+Name: data/help/performance/search/ua_help_context_infopops.htm
+SHA1-Digest: Iz+3m9jptA96PHAQkiYkiYO/o1s=
+
+Name: data/cheatsheet/invalid/RepSubItem_MissingValues.xml
+SHA1-Digest: Znnu9eO48Zhdc4Ijw01p6tMPwmg=
+
+Name: data/cheatsheet/composite/TaskDependency.xml
+SHA1-Digest: SDMUxLiNA9+cOiiORGGYBIpGQTs=
+
+Name: data/intro/performance/org.eclipse.platform/css/whatsnew.propert
+ ies
+SHA1-Digest: EPSaua37sxutAwE3L+audFGol/M=
+
+Name: data/cheatsheet/no_error/ConfirmRequired.xml
+SHA1-Digest: +v7mFp9p/JZPEPibE2KSz8W0y+k=
+
+Name: data/help/performance/org.eclipse.platform.doc.user/toc.xml
+SHA1-Digest: V8E/eUZ5FXiFhjWypm22D4PbML8=
+
+Name: data/help/search/extraDir/extraDoc1.htm
+SHA1-Digest: Cl42aHPZ+8xCayjkmpUB1RHiF8s=
+
+Name: data/intro/dynamicXHTML/content/filter_expected.txt
+SHA1-Digest: zHevFVGhJ/k4eTFKRbwcImKYGRM=
+
+Name: data/help/search/participant_xml_2.xml
+SHA1-Digest: 04Hvzl5OKSBJhopKRsLwPXHZInQ=
+
+Name: data/help/searchindex/index191/deletable
+SHA1-Digest: DGUJ8+aU1p76QlEhxXiuhTzcnNY=
+
+Name: data/cheatsheet/invalid/ItemElement_ManyDescriptions.xml
+SHA1-Digest: Jg2Hmz0FlYSs1g2B1eJNcHvXDPc=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/featu
+ res_obj.gif
+SHA1-Digest: Xp5d2iTv4rpwxvpzojRFDx38TAQ=
+
+Name: data/cheatsheet/valid/TestSubItems.xml
+SHA1-Digest: te1c9YtRJ2BmjgvqBxkC7TmJmo8=
+
+Name: non_junit/cheatsheets/tasks/helpA.xml
+SHA1-Digest: 3oZwnWniFi3I30Gx4WK+bgPyWVg=
+
+Name: data/intro/anchors/introContent.xml
+SHA1-Digest: CoEeqXRYN/+v1qahav5mMH1Zu54=
+
+Name: data/intro/dynamicXHTML/content/root.xhtml
+SHA1-Digest: lVdpWohDn733ej2BOey9GWOoqcU=
+
+Name: data/intro/mixed/introContent.xml
+SHA1-Digest: mLheEmTsP3rDynh0pq6Rgz695JM=
+
+Name: data/intro/performance/org.eclipse.platform/css/whatsnew.css
+SHA1-Digest: 0K0K8aytqMlHoeKENZF5w26PvlY=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/migra
+ te_obj.gif
+SHA1-Digest: qZxx9muYb6ugKMgIpLYQ0qtTfL4=
+
+Name: data/intro/performance/org.eclipse.platform/overviewEx.xml
+SHA1-Digest: H77rEwyLlCFa+RVTbr1cuSvpdvk=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/scrip
+ thov_obj.gif
+SHA1-Digest: 54B2kVevL5z1cBPtOQQ2SqFxvqM=
+
+Name: data/help/searchindex/index291/_0.cfs
+SHA1-Digest: kO1T347oYRgvTN/RM8mb/i2TSlE=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/sampl
+ ered_obj.gif
+SHA1-Digest: VHqMbZSK7mEQXjc6pd8ZBHuP1yo=
+
+Name: non_junit/cheatsheets/tasks/criteria2.xml
+SHA1-Digest: yp7Db/TwN+Td0rOx5elQEOtVX2M=
+
+Name: data/help/searchindex/index291/_0.cfx
+SHA1-Digest: qk6RD8yp5T8LAkKaXpOQ9lBm1lo=
+
+Name: data/help/performance/org.eclipse.jdt.doc.isv/topics_Questions.x
+ ml
+SHA1-Digest: cz3WJuJcCZ3uxxnHvzOJEyZtIUo=
+
+Name: data/cheatsheet/valid/tolerate/PerformWhen_ExtraAttr_expected.tx
+ t
+SHA1-Digest: D4Pm10amRfbgyaEcWFhMr6YCk28=
+
+Name: data/cheatsheet/valid/tolerate/ActionElement_ExtraElement_expect
+ ed.txt
+SHA1-Digest: 0cTwHAlNSd7iNgpplGoTQSX0gJA=
+
+Name: data/help/index/topic4.html
+SHA1-Digest: jG9ZGlLFseycKu3kOz+SzFsuadc=
+
+Name: data/cheatsheet/invalid/TwoPerformWhen.xml
+SHA1-Digest: MDijwIPZbWaMsCcu6JSsZ8uG3uo=
+
+Name: data/cheatsheet/composite/ParamNoValue.xml
+SHA1-Digest: Nl0kWUg06Ww3nmtPPCuc5gzzCJ0=
+
+Name: data/help/search/toc4.xml
+SHA1-Digest: GdfCJRlkuCxBrOkd2JM2kX85FSY=
+
+Name: data/intro/anchors/introContent_expected.txt
+SHA1-Digest: 1SQda9jWfsVYHa2c+GcSro898Y8=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/javaa
+ pp_obj.gif
+SHA1-Digest: kVcrcKDWzmLaSdQzqeLhY1GN4Mk=
+
+Name: data/help/search/test3.xhtml
+SHA1-Digest: XPli8BnieAiDOdWQJDRSzb61ZC0=
+
+Name: non_junit/css/nav.css
+SHA1-Digest: rMZJn/oqerfvGVVEqtwNeKTKC1s=
+
+Name: data/cheatsheet/invalid/CondSubItem_MissingSubItem.xml
+SHA1-Digest: yTMkRcTPOF/Q/rPAed5Gm14MzdQ=
+
+Name: data/intro/dynamicXML/introContent_expected.txt
+SHA1-Digest: k6eEsbD8bPvaCuCFliFh/YvC8JQ=
+
+Name: data/help/toc/filteredToc/parent8859.html
+SHA1-Digest: UP4ieTzDNzOc51YfnnEfbtfmV4Y=
+
+Name: data/cheatsheet/valid/HelloWorldWithSubitems_expected.txt
+SHA1-Digest: WLhruQO+NHS+YBDX0ztGUqnFqJo=
+
+Name: data/help/search/test10.xhtml
+SHA1-Digest: W4H1KB++6l2vzv2yJfIWZNfBzWI=
+
+Name: data/help/searchindex/index191/indexed_contributions
+SHA1-Digest: avOdOkpuWbvfTCyJMQbWPwiQjeI=
+
+Name: data/help/performance/org.eclipse.jdt.doc.user/topics_Concepts.x
+ ml
+SHA1-Digest: V6vCJdvIr4BqOQhYskPIo5pUKxs=
+
+Name: data/help/search/extraDir/ranking/ranktest1b.htm
+SHA1-Digest: tFhXj4gjYrcBYZgT7FAvsSBpAGM=
+
+Name: data/cheatsheet/valid/tolerate/CheatSheetElement_ExtraAttr.xml
+SHA1-Digest: pX4PYOSTnNE2DTXpihUxpgAzuAQ=
+
+Name: data/help/preferences/values1.txt
+SHA1-Digest: YHtYkThaEn4jSLqPLDkmIBiRuNA=
+
+Name: data/intro/performance/org.eclipse.pde/overviewExtensionContent.
+ xml
+SHA1-Digest: qvtSAE8V3e5xyWoXV6QWpPaAntY=
+
+Name: data/cheatsheet/valid/TestCSActions.xml
+SHA1-Digest: lSibbMPvvwZdz7PjBF3rXn9UXnQ=
+
+Name: data/help/dynamic/shared/doc2.xml
+SHA1-Digest: ZLbV+gWDP8Q1dGnXHyjP68UVtPg=
+
+Name: data/cheatsheet/invalid/PerformWhen_MissingCondition.xml
+SHA1-Digest: +FsyiHiNYjszwMRCojNypvwDyzw=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/rcpap
+ phov_obj.gif
+SHA1-Digest: KF+wX+c2g+M3SnnADrBoDe22QvE=
+
+Name: data/intro/performance/org.eclipse.platform/css/tutorials.proper
+ ties
+SHA1-Digest: JJ3mzjU7jiR/0tqA2WuKCxNAlFI=
+
+Name: data/cheatsheet/valid/tolerate/SubItemElement_ExtraAttr.xml
+SHA1-Digest: ZPkONvTjKWYbgcqQtwlM4HYgeuc=
+
+Name: service/schema/xml/context.xsd
+SHA1-Digest: emRC/if68C5PuDLMN4e5fodGCl0=
+
+Name: data/help/toc/toc_data/helpDataOrderedAlphaSort.xml
+SHA1-Digest: bmWhLYIIkFFO2/UC1fIXL90VRLk=
+
+Name: data/cheatsheet/invalid/CondSubItem_MissingCondition.xml
+SHA1-Digest: MQr6yAj48VfOmvMi/BCCM9c/JYE=
+
+Name: data/help/toc/filteredToc/toc.xml
+SHA1-Digest: Eybuaq9npaAtkX7UrHNmzEIngJQ=
+
+Name: data/cheatsheet/other/TestCommand.xml
+SHA1-Digest: ocgUiD6aTXwXgPYZt2GEU5DVfl8=
+
+Name: data/help/search/test_de.html
+SHA1-Digest: psloykehd/J6YnFA7BVwQODLusc=
+
+Name: data/cheatsheet/valid/tolerate/ItemElement_ExtraAttr.xml
+SHA1-Digest: 2czi11R1CMw3xp5B1jJ+Fh7aYZ4=
+
+Name: data/cheatsheet/invalid/ActionElement_MissingClass.xml
+SHA1-Digest: xIuWh2caiVTZhpiULZoVM/SjUNA=
+
+Name: data/cheatsheet/valid/tolerate/ItemElement_ExtraElement_expected
+ .txt
+SHA1-Digest: k15lbh+QNHNq/ErJNPFAo9AUssU=
+
+Name: data/help/toc/assembler/c.xml
+SHA1-Digest: rGs6qWSiJ+hfdRgWadFc3qyXK/c=
+
+Name: data/help/performance/search/ua_help_content_command.htm
+SHA1-Digest: 1SM1dSrN07T6NcsH717ditfV8Wc=
+
+Name: data/cheatsheet/valid/TestCSActions_expected.txt
+SHA1-Digest: uLAkXRk7kSbNu7qkeTz36qXVjBc=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/rcpap
+ p_obj.gif
+SHA1-Digest: jY5ENu/ijVLBUbsMig/CCRqfxyQ=
+
+Name: data/help/search/lucene_xml_1.xml
+SHA1-Digest: E0syfguxVZe7LhLnOWNQ7H/mKvQ=
+
+Name: data/help/toc/toc_data/helpDataCustomized.xml
+SHA1-Digest: ET2lnQn4Bnxtf0+7SgqHJQHMaaw=
+
+Name: data/help/performance/org.eclipse.platform.doc.isv/topics_Refere
+ nce.xml
+SHA1-Digest: dN4chDsJtjrJnPcdViFLMq+6qHI=
+
+Name: data/intro/dynamicXHTML/introContent.xml
+SHA1-Digest: NiKAnSxHoEYS3XIJopzhey7qoJ8=
+
+Name: data/intro/dynamicXML/ext.xml
+SHA1-Digest: PGPqgrRWYPxiqkXtTKvRlYyK0/Y=
+
+Name: data/intro/performance/org.eclipse.platform/css/overview.css
+SHA1-Digest: J0GMj58QsHhL1zkaFjD71VS3smw=
+
+Name: data/help/criteria/page_t.htm
+SHA1-Digest: Lr0hvZUm63FwUBS3zUwbOqO72/M=
+
+Name: data/help/dynamic/entities_expected.txt
+SHA1-Digest: kbAP4E3GZStnuRbB/U215biawm4=
+
+Name: data/help/performance/search/ua_help_setup_infocenter.htm
+SHA1-Digest: aJYDNgodenntOUgB7X8l8q6fsyQ=
+
+Name: data/help/search/participant_xml_1.xml
+SHA1-Digest: azH+B0Qhs1QBQ+7BdJo5BYdPraw=
+
+Name: data/help/toc/assembler/linkTo3.xml
+SHA1-Digest: gT87AX7Hy9GQCsw5xxpDMjetTY0=
+
+Name: data/help/index/toc.xml
+SHA1-Digest: RHli67fHkG38SVxMCy4Ym4TK6/4=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/t
+ eamsuphov_obj.gif
+SHA1-Digest: DNrN0I8g7c+UPLZDWRGDU1Bvpeg=
+
+Name: data/intro/performance/org.eclipse.platform/whatsnewEx3.xml
+SHA1-Digest: PwUDKnycqP2IRPrzf61dI5etw0w=
+
+Name: data/help/index/index.xml
+SHA1-Digest: /c48n9/We20vEvMIEvNoIKwmPUc=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/sampl
+ eredhov_obj.gif
+SHA1-Digest: b3WRx8sJTjuZi0hyoT+olhrgLZ4=
+
+Name: data/intro/performance/introData.xml
+SHA1-Digest: 2zAEKBURZkoeFjnknKMU9zc3vrw=
+
+Name: data/cheatsheet/composite/CircularDependency.xml
+SHA1-Digest: tUUaR/SsbqKfNm4UjOSmH7FqJpg=
+
+Name: data/help/toc/extraContent/toc.xml
+SHA1-Digest: rIGCSwgw2upoE2fqo96gEjfcfoM=
+
+Name: data/cheatsheet/valid/TestContext_Help.xml
+SHA1-Digest: 6uNx7UL1dWwkg30KZO8PYfdlg2w=
+
+Name: data/help/preferences/propertiesSingle.txt
+SHA1-Digest: fYYaMLQXUm0c/0xcS3oBoRxVXqA=
+
+Name: data/intro/dynamicXHTML/content/root_expected.txt
+SHA1-Digest: KoWz1UDYvVpJU/dth93n3nHARC8=
+
+Name: non_junit/cheatsheets/tasks/criteria1.xml
+SHA1-Digest: 08ulkbeE/v+rPtRsq/yC5z383pY=
+
+Name: data/help/performance/search/ua_help_search_types.htm
+SHA1-Digest: qQHmqPA7i5Nny2qnzI4D8zpp6iA=
+
+Name: data/cheatsheet/invalid/ItemElement_MissingTitle.xml
+SHA1-Digest: ObjEcJFVSE2gbwioB97PAOtfNFs=
+
+Name: data/help/searchindex/index291/segments.gen
+SHA1-Digest: Sw0NGEknWQIPUPOoAfCJg4eNshA=
+
+Name: data/help/toc/toc_data/helpDataOrdered.xml
+SHA1-Digest: nQbx7LDbT2bNW6OIS8ED1p7jBwA=
+
+Name: non_junit/cheatsheets/tasks/helpA12.xml
+SHA1-Digest: 3nEX/Ok1108dwVPvj6H+rNk31jk=
+
+Name: non_junit/cheatsheets/tasks/cs2.xml
+SHA1-Digest: a/M8PH/apEf29eTYCi9KWSirVjA=
+
+Name: data/help/performance/index/index3.xml
+SHA1-Digest: lnLJ0ISGGtBvY4XXgMRI0XTm6yU=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/scrip
+ t_obj.gif
+SHA1-Digest: iTKhK3u6M0Vyq3VOM/K/escNJIM=
+
+Name: data/help/search/toc3.xml
+SHA1-Digest: MsmWaIB4Z6G/8ES0fE+ZhdWM/Xs=
+
+Name: data/help/performance/search/ua_help_content_active_action.htm
+SHA1-Digest: EAGpJnp6UTvxtLU3cttOrY38zNs=
+
+Name: data/intro/performance/org.eclipse.pde/samplesExtensionContent.x
+ ml
+SHA1-Digest: AIjxS2eBEOuJFlYUKYzRbWd+xCw=
+
+Name: data/intro/dynamicXHTML/content/anchor2.xhtml
+SHA1-Digest: PEzGObHfbNNuDjI2uKF9rSokqA8=
+
+Name: data/help/dynamic/filter.xml
+SHA1-Digest: 8QblADR4mYhDQeu2c+R8lvK0nZ8=
+
+Name: data/help/manual/dz2.html
+SHA1-Digest: D/OigjrNoe3XO/IUymLSQDtco/Y=
+
+Name: data/cheatsheet/valid/TestActions_expected.txt
+SHA1-Digest: avoU2TbAm6IShyfPvfxshQCmifk=
+
+Name: data/help/jsp/toc.xml
+SHA1-Digest: uWrL14DkC3bgOS9E4KtGJ1VcxF4=
+
+Name: data/cheatsheet/invalid/CommandAndAction.xml
+SHA1-Digest: iuDZ0y7v2Ezdo9V8FcOaMhTzz54=
+
+Name: data/cheatsheet/valid/tolerate/SubItemElement_ExtraAttr_expected
+ .txt
+SHA1-Digest: dh+j8DOiEDWPIo0vbHQT5Y52Evc=
+
+Name: data/cheatsheet/invalid/CheatSheetElement_NotDefined.xml
+SHA1-Digest: 0mxaaBjbpsN1xpC92tCT23WURgM=
+
+Name: data/intro/dynamicXML/introContent.xml
+SHA1-Digest: /TL6RcMhNpPvPlL7jKOkGeaPLd8=
+
+Name: non_junit/cheatsheets/tasks/allcomplete.xml
+SHA1-Digest: x12zephfA5Ux+6Y84zK7Dmb79oc=
+
+Name: data/cheatsheet/valid/TestDescriptionFormatting.xml
+SHA1-Digest: IdBv652MCb0OZFoM4vaqEAPJYTI=
+
+Name: data/help/performance/search/ua_help_content_remote.htm
+SHA1-Digest: kLjU6x0iSQljhnlvZylF0uXXXog=
+
+Name: data/intro/performance/org.eclipse.jdt/tutorialsExtensionContent
+ .xml
+SHA1-Digest: DzZ5ZeZR6pknUAtYIKNpBPZL/PA=
+
+Name: data/cheatsheet/composite/SetWithNoChildren.xml
+SHA1-Digest: YbYvgrHoSRk+/AAmj0ih6fKInR0=
+
+Name: data/cheatsheet/invalid/ItemElement_NotDefined.xml
+SHA1-Digest: QPtm5MAy2BaR20hY4tfGh1aL2Ac=
+
+Name: data/help/performance/org.eclipse.jdt.doc.isv/toc.xml
+SHA1-Digest: 7fpdpLEGI+rMTXtN1a6toWgGlss=
+
+Name: data/help/toc/assembler/result_b_c.xml
+SHA1-Digest: um15JH8y4ntFwVKoNniDWCqY6XM=
+
+Name: data/help/search/extraDir/ranking/ranktest1a.htm
+SHA1-Digest: iCpHCZj5PZiusEhmJG3nEvXs/Xg=
+
+Name: data/intro/dynamicXHTML/content/static_expected.txt
+SHA1-Digest: 3uOWTEFYpB9llEuJopBIws1z33o=
+
+Name: data/help/dynamic/shared/doc1.xml
+SHA1-Digest: AwUGduU8nOm9ZoBHbQvmNyNGRQA=
+
+Name: data/help/dynamic/xhtml.xml
+SHA1-Digest: a9ghWWRA/Y1SRgN7TSlrr90bjwg=
+
+Name: data/help/dynamic/extension_expected.txt
+SHA1-Digest: 2hdYUbvQBOFUcABfCWKg2OPu5TQ=
+
+Name: data/cheatsheet/valid/TestSubItems_expected.txt
+SHA1-Digest: xbIoYtkQ9DKgcqdt2/3CcihzB5Y=
+
+Name: data/help/performance/org.eclipse.jdt.doc.user/topics_Reference.
+ xml
+SHA1-Digest: VPUVkWdJzpecSRUXAtDWuvUXooo=
+
+Name: data/help/dynamic/extension/extension.xml
+SHA1-Digest: 8RzVtOE37pwYwVwdMPPg36FEnig=
+
+Name: data/help/performance/search/ua_help_setup.htm
+SHA1-Digest: s6uXWwSnWpBFs31tBt5opymyB2E=
+
+Name: data/help/toc/assembler/b.xml
+SHA1-Digest: mLdlW6QGSzuCv+6E+bYzOv9Qk90=
+
+Name: ua-tests.jar
+SHA1-Digest: XEhWre0WYgX9/XEplWkL3xcJlYQ=
+
+Name: data/help/criteria/page_c.htm
+SHA1-Digest: QZ0B7PmbZlTYVKXP49dcIb0V11M=
+
+Name: data/help/search/extraDir/ranking/ranktest2b.htm
+SHA1-Digest: RL85Cd1cwjIIBMAQgfAlD0wp+Fo=
+
+Name: service/schema/xml/search.xsd
+SHA1-Digest: kDAtk9Af4GzdMrqWfWyZyAMhqTs=
+
+Name: data/intro/html/static1.html
+SHA1-Digest: nC70MOtCsQFNkFyzhL5FM5/sN+0=
+
+Name: data/help/criteria/page_k.htm
+SHA1-Digest: hwioHAxHA8vHolf3JNNi9901+Ac=
+
+Name: data/help/search/test2.xhtml
+SHA1-Digest: LEsToBzuLFWhzRZacv+4UQPMH6Q=
+
+Name: data/cheatsheet/performance/composite/helloworld-update.xml
+SHA1-Digest: HVqxJLXm8vTVlERlp1sUy2YHV+0=
+
+Name: data/help/performance/search/ua_help_content_nested.htm
+SHA1-Digest: 4ia87N40i51sM64x35Gt2lSyYPM=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/u
+ pdateshov_obj.gif
+SHA1-Digest: xHRqAWpwimtHiCOVtky7mZZI45Y=
+
+Name: data/help/toc/root.xml
+SHA1-Digest: c9SZgK57ZniWnvnkoRL+aPEsz6s=
+
+Name: plugin.xml
+SHA1-Digest: yucmi8RestXyUW1MMGWieIvz0IU=
+
+Name: data/intro/performance/org.eclipse.pde/tutorialsExtensionContent
+ .xml
+SHA1-Digest: n3QuE3HP8GVO/V+mIGcflMqKbhs=
+
+Name: data/help/dynamic/include/doc2.xml
+SHA1-Digest: av+Nhjttp8WTgMXRL6PoGHJspQ4=
+
+Name: data/intro/dynamicXHTML/content/include.xhtml
+SHA1-Digest: Lmlpy4VDZknQ1bVrd2SY3yU0iaM=
+
+Name: data/intro/performance/org.eclipse.jdt/css/overview.css
+SHA1-Digest: ZY0sVcFfJ3vUOUxpC6klVG/DaNI=
+
+Name: data/help/toc/assembler/linkTo2.xml
+SHA1-Digest: hby+E5lNg1fwLUO/gLtr/EnTfW0=
+
+Name: data/cheatsheet/invalid/RepSubItem_MissingSubItem.xml
+SHA1-Digest: k3glYZnkhPOx03byPlcB3oHEOo4=
+
+Name: non_junit/css/narrow.css
+SHA1-Digest: uxP+X3qllkb85pDO1rzPOGzfyOw=
+
+Name: data/help/search/extraDir/subDir/extraDoc2.htm
+SHA1-Digest: sfrSS3JUO3OY1+/YKXO6mA2jIUI=
+
+Name: data/help/performance/search/ua_help_setup_help_data.htm
+SHA1-Digest: rFXLhMnlb6Q5VCqaokIbsrkLTbw=
+
+Name: data/help/performance/org.eclipse.pde.doc.user/topics_Reference.
+ xml
+SHA1-Digest: T9MIUhDJr4UEHYGcynoZ09TMiRg=
+
+Name: data/intro/performance/org.eclipse.platform/whatsnewEx2.xml
+SHA1-Digest: pfu1ai+Dl2lRvpaugHJh109mxSo=
+
+Name: data/cheatsheet/other/TestActions.xml
+SHA1-Digest: I6WH/5Ftp76umfnTdIO6yhvtAxM=
+
+Name: data/help/dynamic/include.xml
+SHA1-Digest: LmYymZML8wXJ2L6M5lQaM/mcHMg=
+
+Name: jsp/advanced/titlesearchView.jsp
+SHA1-Digest: CMkd39e9rPJiJV3Ylqb8Ubq2L2I=
+
+Name: data/cheatsheet/invalid/CommandAndSubitem.xml
+SHA1-Digest: sZItVsvB4PgcwB9FFbK68MRCiho=
+
+Name: data/help/performance/search/ua_help_setup_preferences.htm
+SHA1-Digest: FWW6L2eWSUTRQqGOpJ6RfHktj10=
+
+Name: data/help/toc/extraContent/toc_expected.txt
+SHA1-Digest: jld5+nR4/e5Yg+/PWszFy59JPmI=
+
+Name: data/help/performance/search/ua_help_context_id.htm
+SHA1-Digest: M6QwA00Ta5sanCHcPMhnk7sdgFU=
+
+Name: data/intro/dynamicXHTML/content/include_expected.txt
+SHA1-Digest: IlisVoCdwmlT7r2o7J6OAUzcJ0o=
+
+Name: data/help/dynamic/toc_expected.txt
+SHA1-Digest: lpoFCWk7Q0ym3Ca+3seKWB2DW/s=
+
+Name: data/cheatsheet/composite/LeafTaskInvalidKind.xml
+SHA1-Digest: ygG12JMOW5oQuJdiDRRnH4r8bHQ=
+
+Name: non_junit/cheatsheets/tasks/helpA11.xml
+SHA1-Digest: NZh2ObwjwbtBHOJs3vBhR6bRtR8=
+
+Name: data/help/criteria/criteria_definition/result_a_b.xml
+SHA1-Digest: /gVn6NL1K5ICrkiJ2JDWOfoGBKE=
+
+Name: data/help/performance/index/index2.xml
+SHA1-Digest: 4epWrVuqfssM+bWifmgrj6PpNys=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/sampl
+ eredhov_obj.gif
+SHA1-Digest: +4c8D0f+g1n4LVPJAOCktRLSFbI=
+
+Name: non_junit/cheatsheets/tasks/cs1.xml
+SHA1-Digest: H+atpGYqro7muYb3qC2sJC61OBY=
+
+Name: data/help/preferences/helpData3.xml
+SHA1-Digest: JyqF0UZxS13RwfO6Up7Q999dUtw=
+
+Name: data/help/search/toc2.xml
+SHA1-Digest: /MsfyxsqUKnKGUrmK2p+0lBgvBE=
+
+Name: data/help/dynamic/toc.xml
+SHA1-Digest: 0QpEgiJ6x13p9mDOrWPhIwdvDCM=
+
+Name: data/intro/dynamicXHTML/content/include2.xhtml
+SHA1-Digest: xuFMfsnjWxc4hXWXjMLoXtziZYw=
+
+Name: non_junit/cheatsheets/tasks/helpA4.xml
+SHA1-Digest: FptaieRg9llL3P8y3DwTq0ily70=
+
+Name: data/help/search/test_en.html
+SHA1-Digest: BuYuxYpAOVaSDCI1XHdmfV+MzrY=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/plugi
+ n_obj.gif
+SHA1-Digest: fW1tB/JIYUsR5PmDvGG7B68iY5k=
+
+Name: data/help/performance/search/ua_help_setup_standalone.htm
+SHA1-Digest: aiUrF3EczNMMVV/qqc/aOe2wSbg=
+
+Name: data/help/performance/search/ua_help_content_xhtml.htm
+SHA1-Digest: b3oF8vUxgmkLdz0l4ePb0zLvI9E=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/w
+ bbasics_obj.gif
+SHA1-Digest: rEb9k434Vmw9w6OtVt04NXEM85o=
+
+Name: data/help/criteria/criteria_definition/b.xml
+SHA1-Digest: OzUwfUmDLnRk0l90G6pmI0oikWc=
+
+Name: data/cheatsheet/other/NoActions.xml
+SHA1-Digest: 9vY0gnyqwWTSXlaH1lKDhPwp0xA=
+
+Name: data/help/dynamic/include_expected.txt
+SHA1-Digest: mPPzvYXnzIc5AiJaqgPlMw+WusI=
+
+Name: data/help/toc/toc_data/helpDataOrderedNoSort.xml
+SHA1-Digest: RCOCjF0JtZyGARVlz9QVkFAzZ7U=
+
+Name: data/cheatsheet/valid/TestParameters_expected.txt
+SHA1-Digest: qFhWTPB+NQ9lKMweKlepb+Z1kVM=
+
+Name: data/help/searchindex/index291/indexed_contributions
+SHA1-Digest: EHIYTIu1IRUjUf1BU271AMGqdVY=
+
+Name: data/cheatsheet/valid/tolerate/CheatSheetElement_ExtraElement.xm
+ l
+SHA1-Digest: z77bNzxAt94GFWLxNqW/0GvFIQ4=
+
+Name: data/help/criteria/criterialetters.xml
+SHA1-Digest: GuE3qwYCGXEZHBl+e/KOAgiboQ8=
+
+Name: data/help/performance/search/ua_help_war.htm
+SHA1-Digest: ukzbfTHv7xb4wddSHqBW2IPcC0U=
+
+Name: data/cheatsheet/composite/EmptyChoice.xml
+SHA1-Digest: TyAwRUSX3Pah1/nhJfd2myBRvHg=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/sampl
+ ered_obj.gif
+SHA1-Digest: PgjvtmyaAy3OuEntVabLrw/P2JE=
+
+Name: data/help/performance/org.eclipse.platform.doc.isv/toc.xml
+SHA1-Digest: 5j1jCNBAOln8D+JaWayEC/GfY9M=
+
+Name: data/cheatsheet/composite/ParamNoName.xml
+SHA1-Digest: Rl/TedjifxLmxHN0774Bs3hyeXw=
+
+Name: data/help/performance/org.eclipse.jdt.doc.user/topics_GettingSta
+ rted.xml
+SHA1-Digest: zS934lnCy0FF+SSVl6itX2PRLHc=
+
+Name: data/help/searchindex/index291/indexed_dependencies
+SHA1-Digest: iSg51w0ZQjqiZJvCcCj3yOC8jy4=
+
+Name: data/cheatsheet/search/CompositeSearchTest.xml
+SHA1-Digest: xtMLiyli6L3xBbNLTB7JSx4QUg4=
+
+Name: data/help/toc/filteredToc/filterChild.html
+SHA1-Digest: 5AnHsIbKbQztiCPSCNHIWBu9vJM=
+
+Name: data/intro/dynamicXHTML/content/anchor.xhtml
+SHA1-Digest: mH55X9Bd2Tu/tMucPtrsWbhtYQk=
+
+Name: data/help/performance/org.eclipse.platform.doc.user/topics_Tasks
+ .xml
+SHA1-Digest: jyllKyu8EDnz8jKr/oHKMPNyRBY=
+
+Name: data/help/toc/assembler/a.xml
+SHA1-Digest: OvNclI6ZG/XOZmRXqYKQJewQERM=
+
+Name: data/help/criteria/page_b.htm
+SHA1-Digest: M2pbgzR8/KVwIuyK4ZxloR8+K7o=
+
+Name: data/intro/performance/org.eclipse.platform/tutorialsEx.xml
+SHA1-Digest: 3jLt0tvtzjkgx4XD09NBvhgdPoU=
+
+Name: data/help/search/extraDir/ranking/ranktest2a.htm
+SHA1-Digest: HWDsNyLwuiqVlVjpuBdsq+YOr2g=
+
+Name: non_junit/legacy_tests.htm
+SHA1-Digest: LHpwtRAVBiufQ61S/KoWftmMG9o=
+
+Name: data/help/search/testnlUTF8.htm
+SHA1-Digest: 542l1E7LP3qEgzk2SIuc1OxgJZs=
+
+Name: data/help/searchindex/index291/indexed_docs
+SHA1-Digest: pnLL5gu71N7fHfO2zP15qwH8FPA=
+
+Name: nl/de/data/help/search/testnl1.xhtml
+SHA1-Digest: bpvXPScuCMjvSbNB1IQp+ba6kOg=
+
+Name: data/help/performance/org.eclipse.platform.doc.isv/topics_Questi
+ ons.xml
+SHA1-Digest: 1BMKVrgcBV8euPQrv4AsgDd9jlY=
+
+Name: service/schema/xml/toc.xsd
+SHA1-Digest: 1NSNH+AiPS/tYo5TuAVasmOTGwE=
+
+Name: data/intro/anchors/extn6.xml
+SHA1-Digest: c+8V7ljZ8ifJCJbEs1uD6DSoWSU=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/m
+ igratehov_obj.gif
+SHA1-Digest: CwRnabPLbeZn3YO13WyZtRmnsKA=
+
+Name: data/cheatsheet/valid/tolerate/IntroElement_ExtraAttr_expected.t
+ xt
+SHA1-Digest: hXbf64IjbgrQaC9eVnRmRQRCT+A=
+
+Name: data/help/jsp/getlocation.html
+SHA1-Digest: qN1f+8G6lFpABAMHCW6ONW3feD4=
+
+Name: data/help/dynamic/include/doc1.xml
+SHA1-Digest: 4AN/xFkbfsMpI0jaeBpdgUygnF8=
+
+Name: data/help/toc/assembler/linkTo1.xml
+SHA1-Digest: TCXoSVc6V8n8mxhqnEzuiigZt1E=
+
+Name: data/cheatsheet/composite/SelfDependency.xml
+SHA1-Digest: dgRT9G9F2uaawLU8dzl2LpDb2qc=
+
+Name: non_junit/html/pageWithLinks.html
+SHA1-Digest: 9e5puRRObT3Hy8oEgG6pOOv8XtY=
+
+Name: data/cheatsheet/valid/HelloWorld_expected.txt
+SHA1-Digest: A/tGg0ryrIdzCzkltouRTD/CP6o=
+
+Name: data/cheatsheet/invalid/ActionElement_ParamInvalidNumber.xml
+SHA1-Digest: IIA0PQrwFM9KQDk+aSXWvoLuym0=
+
+Name: data/cheatsheet/invalid/PerformWhen_MissingAction.xml
+SHA1-Digest: QkUpSooq6olFRJJUVNMEBxepW2U=
+
+Name: nl/de/data/help/search/test_de.html
+SHA1-Digest: R/mKoC3kHqCdDpdoevmQhoCUiwU=
+
+Name: data/intro/performance/org.eclipse.platform/css/graphics/obj48/c
+ ommunity_obj.gif
+SHA1-Digest: U8yby04oiTtqKWRedwpxeloG4Vs=
+
+Name: jsp/advanced/testFrame.jsp
+SHA1-Digest: F0HQWQxlpJLx97hTv0EBo0WkXOY=
+
+Name: data/help/performance/search/ua_help_content_process.htm
+SHA1-Digest: SkDO2QItygdTDC1eEWlMJayCFcQ=
+
+Name: data/intro/performance/org.eclipse.platform/whatsnewEx1.xml
+SHA1-Digest: XW/es4bX/b3kn8CrvHk0L6XAT3I=
+
+Name: data/help/search/extraDir3/extraDoc.htm
+SHA1-Digest: IoX7P8peuWQ6IPFogj62A+XqN4E=
+
+Name: data/help/performance/search/ua_help_context.htm
+SHA1-Digest: nfxPIt1RyyCW8Oqd69nwLAXtbyw=
+
+Name: data/help/performance/org.eclipse.pde.doc.user/toc.xml
+SHA1-Digest: H/a+qZ6ugqFwkmuTeQH8/tZtdJs=
+
+Name: data/cheatsheet/invalid/ActionAndPerformWhen.xml
+SHA1-Digest: IkLkTDGvUXlDypPL0wkZu8ukZdU=
+
+Name: data/help/performance/search/ua_help_content_files.htm
+SHA1-Digest: up+5QHb0BEHuKfF9tIyu8nVn1FY=
+
+Name: data/cheatsheet/valid/tolerate/IntroElement_ExtraElement.xml
+SHA1-Digest: FFRObi6ltx944hk7K368mV0hjOo=
+
+Name: data/cheatsheet/valid/tolerate/RepeatedSubItem_ExtraAttr.xml
+SHA1-Digest: 3ny2hk9RXDEbRzTS3vWvLbUpIhY=
+
+Name: data/cheatsheet/valid/tolerate/RepeatedSubItem_ExtraElement_expe
+ cted.txt
+SHA1-Digest: L0e9mF+wR/15tX3jfd5vLuzd0MI=
+
+Name: data/cheatsheet/valid/tolerate/ConditionalSubItem_ExtraElement.x
+ ml
+SHA1-Digest: GYvIonbsvtAfsIK1TV35C5Eir5s=
+
+Name: data/cheatsheet/performance/composite/helloworld-extension.xml
+SHA1-Digest: WMM6qj4EKSKpUIrPyRYUiay1CbM=
+
+Name: data/cheatsheet/composite/TaskNoName.xml
+SHA1-Digest: yPIzQwfSgVF7yuKnyEXi5O1HpLo=
+
+Name: data/help/performance/org.eclipse.platform.doc.user/topics_Conce
+ pts.xml
+SHA1-Digest: cmxH2QSBn0k+QMsC42ST6EJS+Do=
+
+Name: data/intro/performance/plugin_customization.ini
+SHA1-Digest: Ha6p2X/XgTMfxRhgNorL00cmbCQ=
+
+Name: data/help/preferences/propertiesMultiple.txt
+SHA1-Digest: 3bTs40SRaNE68x4o+1DVvlRpFQ4=
+
+Name: non_junit/cheatsheets/tasks/helpA10.xml
+SHA1-Digest: 371xr3kXLg+D1cRQSrn23aGPIoI=
+
+Name: data/help/performance/index/index1.xml
+SHA1-Digest: 5PUgL20JbDYNndJoeDTYQBXSSDE=
+
+Name: data/help/toc/filteredToc/nonPrimaryToc.xml
+SHA1-Digest: sWwdOziIuOeWbUe4ueRM2Bs+fsQ=
+
+Name: data/help/toc/filteredToc/filter.xml
+SHA1-Digest: Nm2A5945eQYduq1hKjN82/QD1Sw=
+
+Name: data/cheatsheet/composite/TwoRootTasks.xml
+SHA1-Digest: +0x9cIzM9zbwtBN8SAVaQtp2vPA=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/sampl
+ epurphov_obj.gif
+SHA1-Digest: pONcnFBj9sZ5eCaDvM9/1Gnhb4s=
+
+Name: data/help/preferences/helpData2.xml
+SHA1-Digest: TPLVlWWALQ12WlYyQ1TuVeUZ9ys=
+
+Name: icons/sample.gif
+SHA1-Digest: mURGpp/gEzPu434WkU1WXZbyKOY=
+
+Name: data/help/search/test1.xhtml
+SHA1-Digest: x1Oc37EJYwyf1a0TL8x+ltzqkVk=
+
+Name: data/help/index/assembler/d.xml
+SHA1-Digest: k/alI/IQXuDKJyLcKI5XTUK+C+E=
+
+Name: non_junit/cheatsheets/tasks/helpA3.xml
+SHA1-Digest: Izf2aml+vAk6lzCZysnKadK0PwQ=
+
+Name: data/help/index/assembler/hasTitle.xml
+SHA1-Digest: +74K4lgJw6YP08Dzx+aBHkAIJik=
+
+Name: data/cheatsheet/valid/TestDynamicSubItems.xml
+SHA1-Digest: L9YgqvmU6LniEp906EPw45jDOnU=
+
+Name: data/help/criteria/criteria_definition/a.xml
+SHA1-Digest: 9TzhLWMRB3ZpnOjQvzYnaTZ5la4=
+
+Name: nl/de/data/cheatsheet/contexts.xml
+SHA1-Digest: uD30gcVXGj0NTyrE0sNMJFe4plU=
+
+Name: data/help/performance/search/ua_help_setup_nav.htm
+SHA1-Digest: wd3ViahZkoSYsn70XviyRx3SyEs=
+
+Name: data/help/search/toc.xml
+SHA1-Digest: wm8a4b2fMMqKgWPEho4uiAgHirc=
+
+Name: data/cheatsheet/valid/tolerate/CheatSheetElement_ExtraElement_ex
+ pected.txt
+SHA1-Digest: lVtDQU6FAcUC041qBn04BbXMcRU=
+
+Name: data/cheatsheet/composite/CompositeNoName.xml
+SHA1-Digest: SAAm8Si4ncz6A9rMBBql91pUy/s=
+
+Name: data/help/dynamic/extension/content.xml
+SHA1-Digest: CRBUgBm8MHUEFSja8VbgEfN0ekg=
+
+Name: data/cheatsheet/composite/ValidParameter.xml
+SHA1-Digest: sSY1LTlH6PhBEpYClkVdHXW6Pcw=
+
+Name: data/cheatsheet/composite/SolutionGuide1.xml
+SHA1-Digest: rzesLUYs8Wc3gW47qlv+uGqB9M8=
+
+Name: data/help/toc/assembler/sorted.xml
+SHA1-Digest: gVVC+kYw5ERHzb0o8kojqfGTzPY=
+
+Name: data/cheatsheet/invalid/TwoCommands.xml
+SHA1-Digest: 2xhjjqaXtcOv2IYcohg0z7qObng=
+
+Name: data/intro/performance/org.eclipse.pde/css/graphics/obj_48/plugi
+ nhov_obj.gif
+SHA1-Digest: qIC04YW/Wvc1dSSjHyRWCA+s+H0=
+
+Name: data/help/performance/org.eclipse.platform.doc.isv/topics_Portin
+ g.xml
+SHA1-Digest: svWQcQt0g57Krwv71jjzVkQn3H0=
+
+Name: data/help/criteria/page_a.htm
+SHA1-Digest: SbJ+C0MxcQbCRzPZ8qpYAkNOpr0=
+
+Name: service/schema/xml/extension.xsd
+SHA1-Digest: OLDdHko+aIj0ScqnAVcMaY28jA4=
+
+Name: data/help/dynamic/xhtml/emptyAnchorWithComment.xhtml
+SHA1-Digest: /xjuRzJrQe7o0Irrz6ETu11tbeQ=
+
+Name: data/help/performance/search/ua_help_content_active_invoke.htm
+SHA1-Digest: BRG+VTztu8F2aEBXAERef9uslqY=
+
+Name: data/help/dynamic/simple.xml
+SHA1-Digest: svd4Os998e8jQpCmUFb42iJ+otM=
+
+Name: data/cheatsheet/valid/HelloWorldWithExtensions.xml
+SHA1-Digest: hgHNCevDpO9olk6iNVtSZ3y/QQQ=
+
+Name: data/intro/anchors/extn5.xml
+SHA1-Digest: E1JRt1cs6XZOyC/BFRz2L93nNG4=
+
+Name: data/cheatsheet/invalid/IntroElement_NotDefined.xml
+SHA1-Digest: oGL3UwMdByCyGBu1VSUAiUJLRXk=
+
+Name: data/cheatsheet/composite/DependencyWithoutId.xml
+SHA1-Digest: 1c0YB/kxvzEIA/pQg04QXDhrN0U=
+
+Name: data/help/search/test6.xhtml
+SHA1-Digest: n3LGjd1siN6DvH0B0Iz+xnF3ISo=
+
+Name: data/cheatsheet/composite/InvalidRoot.xml
+SHA1-Digest: PhBZGmeEfVuVRCB8v/lHgyeVwyw=
+
+Name: data/help/dynamic/xhtml/emptyDiv.xhtml
+SHA1-Digest: gfO4MkiPlM0YwoYHiY6Y8ugsfck=
+
+Name: data/help/searchindex/index191/_2.cfs
+SHA1-Digest: RH6tfq2DWynOVGN+kODMJdnBbMQ=
+
+Name: data/help/dynamic/index.xml
+SHA1-Digest: yqa3bqHi6D3UC//vUgnQa3DyV/E=
+
+Name: data/cheatsheet/valid/TestActions.xml
+SHA1-Digest: SGGWa9fseQEZkPXCE1G8oF5G7TU=
+
+Name: data/help/search/testnl8859.htm
+SHA1-Digest: LXt6wSPY2T2qEPayn0W4hVwLIzo=
+
+Name: non_junit/css/topic.css
+SHA1-Digest: mEbgUyn+jh7xAtzeFqHmO7a8Fko=
+
+Name: data/intro/performance/org.eclipse.jdt/css/swt.properties
+SHA1-Digest: x/WdZZk4MhJOuAjyN96bvU7qoH0=
+
+Name: data/criteria_customization.ini
+SHA1-Digest: qUaUgduLn0v8UnuMcgy3BYBQaj8=
+
+Name: data/cheatsheet/performance/composite.xml
+SHA1-Digest: X5Ofwn5xIVO8jHRvYZfKM/aXCBw=
+
+Name: data/intro/performance/org.eclipse.jdt/css/graphics/obj_48/javaa
+ pphov_obj.gif
+SHA1-Digest: DERNtm3rHj/OqX0TbYUp/C/MO7U=
+
+Name: data/help/toc/extraContent/toc2_expected.txt
+SHA1-Digest: lRQBj5ZFaKvEd37V7w0Dgpa8dZs=
+
+Name: jsp/advanced/titlesearchToolbar.jsp
+SHA1-Digest: H8zIoemdjPFDag7x1HxO/pVb2f4=
+
+Name: data/cheatsheet/invalid/IntroElement_ManyDefined.xml
+SHA1-Digest: UEDx6JX1j852+ELqr2XLw0ZEPFA=
+
+Name: data/help/search/extension2.xml
+SHA1-Digest: DppgaR0GSUWsouxDes8Mppyl2Lg=
+

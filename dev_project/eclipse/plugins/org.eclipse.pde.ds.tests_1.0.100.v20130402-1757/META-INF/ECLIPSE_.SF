@@ -1,0 +1,50 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: is9AUc/nigGaA/+EC4stXT8matc=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: K8j3t3xpL8VyKHJnHPl6NoElTS4=
+
+Name: org/eclipse/pde/internal/ds/tests/AllDSModelTests.class
+SHA1-Digest: hYl/zuufEiwzHs0pMOomGfeTBdE=
+
+Name: org/eclipse/pde/internal/ds/tests/DSServiceTestCase.class
+SHA1-Digest: cKkcwP1u5ivY7h8cH1IoHInfnBA=
+
+Name: org/eclipse/pde/internal/ds/tests/DSObjectTestCase.class
+SHA1-Digest: 2Jr7HwVc/vHQjX1VEvo1N+/2LBM=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/pde/internal/ds/tests/DSComponentTestCase.class
+SHA1-Digest: w859zvSzT5xoD1sLInB26rgWuyw=
+
+Name: plugin.properties
+SHA1-Digest: iO5ChMrawSrln4ZDv3cjeFYivPA=
+
+Name: org/eclipse/pde/internal/ds/tests/DSv10tov11TestCase.class
+SHA1-Digest: 22sdGtMfdE3UDlyRhn0OroROIc0=
+
+Name: org/eclipse/pde/internal/ds/tests/DSProvideTestCase.class
+SHA1-Digest: i5q7RGZ2Wo0n0z3cFS/2vWEiInU=
+
+Name: org/eclipse/pde/internal/ds/tests/Activator.class
+SHA1-Digest: JSIp5jWgkkK4unMVEwYPznxxAB8=
+
+Name: org/eclipse/pde/internal/ds/tests/AbstractDSModelTestCase.class
+SHA1-Digest: dnU63xC1LJqoq/SvgBsPH2lNciE=
+
+Name: org/eclipse/pde/internal/ds/tests/DSImplementationTestCase.class
+SHA1-Digest: DykxkzesRP6nHbEkpggnmGS1R6U=
+
+Name: org/eclipse/pde/internal/ds/tests/DSPropertiesTestCase.class
+SHA1-Digest: UeT7uqWLPOJmRPQb6k0yj/DaXQk=
+
+Name: org/eclipse/pde/internal/ds/tests/DSReferenceTestCase.class
+SHA1-Digest: Wivucx8BoANB9G+pv18RqVXneZQ=
+
+Name: test.xml
+SHA1-Digest: FPCv/Qk4X7ix/pE68aGYt6PgtRU=
+
+Name: org/eclipse/pde/internal/ds/tests/DSPropertyTestCase.class
+SHA1-Digest: /qjJcRc4rlzU5A/+yAZLhuyqHRk=
+

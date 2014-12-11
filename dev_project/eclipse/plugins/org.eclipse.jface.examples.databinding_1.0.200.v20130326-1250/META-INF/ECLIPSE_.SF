@@ -1,0 +1,1238 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ptgaLd1fSVGNnIPNKgxSvNrHBXo=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: MfZX9DB1j76qmZjh5DXKEkgO7yw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet029TreeVi
+ ewerMultiListProperty$2.class
+SHA1-Digest: ZcGnhnDIh3iIFhavL4QOIJ4Bg8U=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest$2$1.class
+SHA1-Digest: xDhYNgJw+V0EX8GK7dkC+2xrtAA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet008Comput
+ edValue$1.class
+SHA1-Digest: IGvVzD2vL6tbvOj39wcrxYrsayo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$7.class
+SHA1-Digest: Vmw7xVWste71i7HNlahs5yALfLk=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Asyn
+ chronousTestSet$1.class
+SHA1-Digest: h8RniPDSfq+fXERAswSRUwzJE9M=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet033CrossV
+ alidationControlDecoration.class
+SHA1-Digest: RFIqShioVPdquh4cI4HFWWDiXP4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet030DateAn
+ dTimeObservableValue.class
+SHA1-Digest: +NLdSwu57IWMD3ixB7HnT220IuU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet024Select
+ ObservableValue$Color.class
+SHA1-Digest: cj6IRAIRKDb3PYKkCPtmURsbw0A=
+
+Name: org/eclipse/jface/examples/databinding/nestedselection/TestMaste
+ rDetail$CustomUpdateValueStrategy.class
+SHA1-Digest: hOwLjp9Vv9rAfpSd0aTwpYCr/yM=
+
+Name: org/eclipse/jface/examples/databinding/ducks/DuckType.class
+SHA1-Digest: Ucq+vcgZIQvgzgqNw0Dv6lbX8Do=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$Person.class
+SHA1-Digest: n129asLTF/vRLi5VdbjDz47oiTQ=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Simp
+ leNode.class
+SHA1-Digest: eamKN/G9v2UxD+EBMEbk1Fqc1to=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet025TableV
+ iewerWithPropertyDerivedColumns$Person.class
+SHA1-Digest: H3yIr5g08pfRuQkYvdKsYgx/DG8=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection.class
+SHA1-Digest: XiO1lvdFbeJhHrA2nFZYLE5NBnQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet008Comput
+ edValue$FormattedName.class
+SHA1-Digest: pJIZ1dC+w4NjXNBFbAUCHdhAORI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet034ComboV
+ iewerAndEnum$1.class
+SHA1-Digest: ndmUHKFBFPriP8CNJk84wmNaJag=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Some
+ MathFunction$1.class
+SHA1-Digest: NyPKzeFyGnE0w1opj+q/C0VOynY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet000HelloW
+ orld$View.class
+SHA1-Digest: z2BGG9IQs8F5pZlEouAzn/l/Ruw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet015DelayT
+ extModifyEvents$2.class
+SHA1-Digest: iYzJQAVXyNBFCk/3t0sm9F77R48=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet011Valida
+ teMultipleBindingsSnippet$Model.class
+SHA1-Digest: oBjxdTbtlu0LQYGV/gD+GbBvxUg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet017TableV
+ iewerWithDerivedColumns$View$1.class
+SHA1-Digest: Z2t8775MkXlq1dp0dAQUiaITEoU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet022Comput
+ edListCombo$2.class
+SHA1-Digest: ySAf5dEJUTqLV4vfyHWVe+cA/bU=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/SWTUtil.cla
+ ss
+SHA1-Digest: W/YZBRRexwmsNKEU45qKnKogihY=
+
+Name: org/eclipse/jface/examples/databinding/model/Cart.class
+SHA1-Digest: 8LM7Iy5tp8dKCcS5XaVmXyO9efY=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$8.class
+SHA1-Digest: HP27PiHAbyyGsBKvLrhUKSebDQc=
+
+Name: org/eclipse/jface/examples/databinding/mask/EditMask$2.class
+SHA1-Digest: lVpWCg2RViTzm0y2gTiF4sx9taY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$View$2.class
+SHA1-Digest: Ih/McTPzxdu5Ovhxl0PcATkw7A0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet032TableV
+ iewerColumnEditing$Person.class
+SHA1-Digest: 2BF9XLmFOknY1NpQxOSSfpQBh6o=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$ContactGroupContactsProperty.class
+SHA1-Digest: nGCqrCI/0UcEj9cj/aoj13Ks6W4=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest$2.class
+SHA1-Digest: srjpDg0K97SnYtz5efBiinMs5qQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$2.class
+SHA1-Digest: /XDkI907Q0av5Qxs7VZZQWeEvEI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet011Valida
+ teMultipleBindingsSnippet$View.class
+SHA1-Digest: 5h31P80Wc5SExyshILhxCvm87h4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet000HelloW
+ orld.class
+SHA1-Digest: WPr0S7JJRcGsppNDwDpi0HnsmSU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet032TableV
+ iewerColumnEditing$ViewModel.class
+SHA1-Digest: 2SxHRuLWrWwicQeIVC9xkyOhRZ4=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest2$2$1.class
+SHA1-Digest: 6cF+N/AZ5PBVcYH8OactfOj3miA=
+
+Name: org/eclipse/jface/examples/databinding/radioGroup/RadioGroup.cla
+ ss
+SHA1-Digest: RvATDsQpsvjHvZZBkAjpt09yUqE=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Tree
+ ContentProviderTest$1.class
+SHA1-Digest: Nr7Eio96PLGIIJZ+uKnsSReElDk=
+
+Name: org/eclipse/jface/examples/databinding/model/Catalog.class
+SHA1-Digest: R8GnebD+L6d+XcexnCBlzknfTeQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$8.class
+SHA1-Digest: Ig6oVSeK/wKJkL09EWypUrL3q1w=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet009TableV
+ iewer$1.class
+SHA1-Digest: Eazc/ndZT+vsFP2QUMrkq7nXy8w=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$4.class
+SHA1-Digest: 19pOEPuAWWIT28Sa1F4jYiL9ZtE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet036Valida
+ tionMessageProvider$MessageProviderWizardPage.class
+SHA1-Digest: wyjr9DPhY7Q8ECx5wir9CO7JrpQ=
+
+Name: org/eclipse/jface/examples/databinding/radioGroup/RadioGroup$2.c
+ lass
+SHA1-Digest: Vp3tskJW+myVzh0t9oMgaQJp+a0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$ApplicationModel.class
+SHA1-Digest: gyeMo220nVr2u5JYHLNnn2ZIJuw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet031JFaceO
+ bservable$ViewModel.class
+SHA1-Digest: +oIEO+tYbOJmo+vW16dPR/7Pq3k=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet028Duplex
+ ingObservableValue$AbstractModelObject.class
+SHA1-Digest: M2Gv5BAKskSSF+WK4MyQ3P5G6L4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet012Compos
+ iteUpdater$Counter$1$1.class
+SHA1-Digest: pRKXRCQKtV8QgZDfS9pqsrq+G2Q=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet003Update
+ ComboBindUsingViewer$ViewModel.class
+SHA1-Digest: vtKUEwu1WvMKzVSDc71WlRVYjXI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet033CrossV
+ alidationControlDecoration$DateRangeValidator.class
+SHA1-Digest: rPWEE6VY2rFW1/b440XlYsDr5dE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet031JFaceO
+ bservable$View.class
+SHA1-Digest: imLUlPdG5RXOEgrqWtlG0Fbm8wc=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet012Compos
+ iteUpdater$1$2.class
+SHA1-Digest: Tb54GJ5uaHtIQaTe0ciJ6Yq5maw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet031JFaceO
+ bservable$1.class
+SHA1-Digest: 0dPfq7zzsLaVgxyG0VH1ADmjmdA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$ContactGroupContactsProperty$Listener.class
+SHA1-Digest: qG7Uep3z3YVXBTGc6Vp71FETbQo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet013TableV
+ iewerEditing$InlineEditingSupport.class
+SHA1-Digest: JDkI6sR7mfVfxXJQWFk5bKQ+7yA=
+
+Name: org/eclipse/jface/examples/databinding/nestedselection/TestMaste
+ rDetail$4.class
+SHA1-Digest: Kn8mH51iO+83VgGUcyXk4cNJOSU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$ViewModel.class
+SHA1-Digest: dDUbpx1gVhB0FepLMKWCS6YuaRo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet030DateAn
+ dTimeObservableValue$1.class
+SHA1-Digest: qVVDPzJwNMOEcTBYOoYTEQ5riUg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet002Update
+ ComboRetainSelection$ViewModel.class
+SHA1-Digest: RiT84WzwVBOCYsH1ogAEFVyl3iA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet034ComboV
+ iewerAndEnum$Person.class
+SHA1-Digest: 5UyC5EaHyW0hIZdCCA3zhMjcH+U=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet016TableU
+ pdater$1.class
+SHA1-Digest: v9RZGJ5xICA13rVF9MyiGgEQXug=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet035PostSe
+ lectionProvider$1.class
+SHA1-Digest: q30K8JwlVNjTOEkzz2w3WOeiGk0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet030DateAn
+ dTimeObservableValue$2$1.class
+SHA1-Digest: xKfGkTpacUTRDCf+8VzefzAU/7k=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet002Update
+ ComboRetainSelection$1.class
+SHA1-Digest: vJ5NVSzukIMv+B6/4XB2tjPNSX4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$AbstractModelObject.class
+SHA1-Digest: HE1n36a+zcgk2bylAnhs+faZPO8=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$5.class
+SHA1-Digest: 3PA22MlNX4TtMncBaE+/w90qWXw=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest2$4.class
+SHA1-Digest: /m2ov+3iY0CijE/Efyb+dJ/o1Ic=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet013TableV
+ iewerEditing$ViewModel.class
+SHA1-Digest: go2sULqY5M4l09nd57IHH2Ekx2o=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet008Comput
+ edValue$UI.class
+SHA1-Digest: GnWeCUYY4EhjhG924nKwLoq1/5w=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f.class
+SHA1-Digest: /28UIlFawGd4M26JPnv4aN0OivY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f$ViewModel.class
+SHA1-Digest: xj9sBT5eOc+MfNjaFDilosmR92k=
+
+Name: org/eclipse/jface/examples/databinding/model/SimplePerson.class
+SHA1-Digest: 76hEkxSUkNMGn0MwZbSjSz0+VJQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$5.class
+SHA1-Digest: fP32erN8IxK3AQ+CwUljQHljDUE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet005MenuUp
+ dater$1$2.class
+SHA1-Digest: 7IuqRN2NYRVUI0Ki8KCTiOSq1O0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet013TableV
+ iewerEditing$1.class
+SHA1-Digest: zqX35lA/OjLBeHrTuVbaAqC97wk=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation$3.class
+SHA1-Digest: 9jKFPGe0t6qZxeFaf4d+MokscQs=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$1$4.class
+SHA1-Digest: Qvlluae8m89CQwjVtFa2h5mFRdQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$1.class
+SHA1-Digest: T7zDE81c5FcSJ8ztVfVDCPlidyg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet023Condit
+ ionalVisibility$2.class
+SHA1-Digest: eKc/rli04LQbY1Hwq+/VlELiSt8=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet010Master
+ Detail$Person.class
+SHA1-Digest: 9a9lMZVoNrOamHd37oH4C1eIh6k=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet036Valida
+ tionMessageProvider$1.class
+SHA1-Digest: GGA0jZ1hBf74tNVTef+l9y1mKJY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$9.class
+SHA1-Digest: JvYvYHPphG3LDfEGgT2Am1uzMHE=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/SWTUtil$1$1
+ .class
+SHA1-Digest: wrNAwtwFvYo3T/n22cyZgQmIdsg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet009TableV
+ iewer$View.class
+SHA1-Digest: 6H+k5R+0O45kcn/uFvC7vWuoUdg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet010Master
+ Detail.class
+SHA1-Digest: mVxQUh65+7JJ1hv/D8v3yKqFs3Q=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/WorkQueue$2
+ .class
+SHA1-Digest: Ux8L2vVI7GQtnrmSAbLZmlC3Ndo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet027Extern
+ alValidator$2.class
+SHA1-Digest: hwx+/TjoIq+21PF5/yoSr6IKh2g=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet007ColorL
+ abelProvider$1.class
+SHA1-Digest: JGFfz3xTuFvdw5jJnyoEEwOH+B4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet011Valida
+ teMultipleBindingsSnippet$2.class
+SHA1-Digest: liZyJCuq/fQkTVw/QcCPNGUHlQ0=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/EditMaskLex
+ erAndToken.class
+SHA1-Digest: 9yKnUU/xsO66hAKSSRAay7mvfg0=
+
+Name: org/eclipse/jface/examples/databinding/nestedselection/TestMaste
+ rDetail$1.class
+SHA1-Digest: Ugi1p00LOHJoEeo/Zq0iRXGnVeA=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Some
+ MathFunction.class
+SHA1-Digest: CvUbXrvy6XUhNmCvQUvBahwVjUo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet033CrossV
+ alidationControlDecoration$1.class
+SHA1-Digest: lQVOX8yR1s4HbWx5FVgDCLaWP+A=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet014Wizard
+ Dialog$SecondWizardPage.class
+SHA1-Digest: EAx2PIX1G3EKCAVWeVufso/V6sw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet007ColorL
+ abelProvider$1$1.class
+SHA1-Digest: APTebDlqusih6W/LKnORdDua+/g=
+
+Name: org/eclipse/jface/examples/databinding/radioGroup/VetoableSelect
+ ionListener.class
+SHA1-Digest: J4zOpWgyzvIgHxGmjOQUdormjmk=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet013TableV
+ iewerEditing$Person.class
+SHA1-Digest: EUz1c/z/R72Jw7N5fMsMwI6i8hE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet015DelayT
+ extModifyEvents.class
+SHA1-Digest: 06MCKVlYgvGQIP/X3SY657OW9Wk=
+
+Name: org/eclipse/jface/examples/databinding/mask/EditMask.class
+SHA1-Digest: tGS288he6vgnzEpV3KyFLlBbS0s=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Rena
+ mableItem$Listener.class
+SHA1-Digest: E5pip0JSvj1Zfots+6vrjv3gpK4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f$View.class
+SHA1-Digest: vqShpatCk+B8FghDbefu8BuNOY0=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$2.class
+SHA1-Digest: vhIZ3GZtPRLAY+hG3oUyT6lKbG4=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest2$1.class
+SHA1-Digest: 2KUbun/U7cw+dDz2vQwCDb0Iu0U=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet001Nested
+ SelectionWithCombo$AbstractModelObject.class
+SHA1-Digest: F4ONBB0eT/O469PqUdoUaFKgcaQ=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Tree
+ ContentProviderTest.class
+SHA1-Digest: GZZlr2SqOeImPEiVwTxPLbq14CY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation.class
+SHA1-Digest: mvVTz5oEY8RTi6iw5kosocmIGwU=
+
+Name: org/eclipse/jface/examples/databinding/mask/EditMask$4.class
+SHA1-Digest: xhISZr0okb4POxxMLDFHOZBZciw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$Bean.class
+SHA1-Digest: fBpUHq2PtQ/pwD4RUXSffvxONVM=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest$4.class
+SHA1-Digest: 1nL/mK0yHXtpT10EnHMU+aEt7VM=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$2.class
+SHA1-Digest: p+5EutthQF9ZO/6sWzVV9U6VEwo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet009TableV
+ iewer$Person.class
+SHA1-Digest: wCBZIUCWqNpVHu4PW6Rav5uXn3U=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet012Compos
+ iteUpdater.class
+SHA1-Digest: fG51img2SbwKkAk2GmLuW7ZZGOQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet004DataBi
+ ndingContextErrorLabel.class
+SHA1-Digest: 5cz3SLjEx24h1cyAo0yCeeVpeRI=
+
+Name: org/eclipse/jface/examples/databinding/model/SimpleModel.class
+SHA1-Digest: V/H2DCo5+1t39aI2yVk3WnccBn0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet003Update
+ ComboBindUsingViewer$View$1.class
+SHA1-Digest: miZ9zRZLE4ie0sH+T/OcUd47rdo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet014Wizard
+ Dialog$SampleWizardModel.class
+SHA1-Digest: BVsDjmSorCx9gq+ztxJtV58y6hg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$Bean.class
+SHA1-Digest: 6gzprt4ky1KRozRkPsciHIy8vYs=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$1$1.class
+SHA1-Digest: LgS/PMGi9r07OcyfRft5PLaHVLU=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Tree
+ ContentProviderTest$3.class
+SHA1-Digest: pfZlkyUwnlkM7kGylQubzyVjk8U=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet012Compos
+ iteUpdater$Counter$1.class
+SHA1-Digest: BRXUcX/TxAZr/IOHGlTfORFXWOs=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet029TreeVi
+ ewerMultiListProperty$1.class
+SHA1-Digest: l4IqRahb37yGVM3XLeV+UdahTCU=
+
+Name: org/eclipse/jface/examples/databinding/model/Lodging.class
+SHA1-Digest: 1jp8YalQBasOXI89LbAglM4m1Cg=
+
+Name: org/eclipse/jface/examples/databinding/model/SampleData.class
+SHA1-Digest: H1FRmz+OF2DLXPsxI4iqgu4QBGo=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Rena
+ mableItem.class
+SHA1-Digest: 49qi0GM/Ei4taOVKW9XH+6zq5XQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$6.class
+SHA1-Digest: K3zSX6nz11+55k/kzabRPjUBIqI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet034ComboV
+ iewerAndEnum$Gender.class
+SHA1-Digest: 8sAuxgKa72KBamGJCqHYdcBa6bo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet022Comput
+ edListCombo$Thing.class
+SHA1-Digest: NjcOep0+Yce9jJz71E0c1JAWw4I=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$1$3$1.class
+SHA1-Digest: WlUTWbmCI6bUvyle2vrdYEiEzmQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation$MultiFieldValidationWizard.class
+SHA1-Digest: +YmOqtf7Y/KcozLLv9mLr6D6F2s=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet014Wizard
+ Dialog.class
+SHA1-Digest: VKbHBDa2czPjulQSacPXyOXn3T0=
+
+Name: plugin.properties
+SHA1-Digest: UlAIcm0VQrOcRvvScWvvjUJtSfY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$ContactGroup.class
+SHA1-Digest: e8rPYb0uqlJUaRfs6yaYyBLBbIg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet034ComboV
+ iewerAndEnum.class
+SHA1-Digest: ZcPLkLjDc30djSB9YR054Bxpsf8=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet016TableU
+ pdater$Stuff$1.class
+SHA1-Digest: GAiS6C1L/trhk2UY7l5D3vFxBl4=
+
+Name: org/eclipse/jface/examples/databinding/mask/EditMaskTest.class
+SHA1-Digest: HmsXncMojJMB7vl31+gNzGRuX0A=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet028Duplex
+ ingObservableValue$1.class
+SHA1-Digest: ArODbWryxfRoCrPEjwfnzCjEA8Y=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet016TableU
+ pdater.class
+SHA1-Digest: fqbDwlWJG6XNGETJ50oMlg5SlWU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet014Wizard
+ Dialog$1.class
+SHA1-Digest: WPtRhNBNlcmEJxsJhcw8lek20wQ=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest2.class
+SHA1-Digest: j/DHOG7mbGaHhW0cc/b9BG6ZAxc=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet017TableV
+ iewerWithDerivedColumns$View.class
+SHA1-Digest: tJzG7CzWUAln8nOUM3zAl61IDmk=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet005MenuUp
+ dater.class
+SHA1-Digest: AiU9rfNBbpERIiGi4aT0Kn3eM2k=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet.class
+SHA1-Digest: u/8UygOsgIc0SxYT8IgR5zU/x4I=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$View.class
+SHA1-Digest: 7dcYHQV3gZTws7iY2Pwc6zabcXU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet016TableU
+ pdater$3.class
+SHA1-Digest: ebI+maDgq/r9Bgy+8tldwp3T5qY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet015DelayT
+ extModifyEvents$1.class
+SHA1-Digest: 5qq9cMKo7nB5BNijCRSkeQV+Mfw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory.class
+SHA1-Digest: gFT7LARU1YBU0+/bGBjXmCxUyu8=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/EditMaskPar
+ ser.class
+SHA1-Digest: y56i1s7yvaXx2j229EDrtNFLdcU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet022Comput
+ edListCombo$1.class
+SHA1-Digest: rPhqsidZELG/uRnmvJ7BZdIQMv8=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$7.class
+SHA1-Digest: Q7RCLOtZqKGluOhh4+ntNqLFOTk=
+
+Name: org/eclipse/jface/examples/databinding/mask/EditMask$1.class
+SHA1-Digest: 3KxqF385NzSCIO/N0VxC6kUB3DY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$View$1.class
+SHA1-Digest: n/YLoBKaN9WQcq5j9wPovs+ySx0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet014Wizard
+ Dialog$FirstWizardPage.class
+SHA1-Digest: b8bLYAYCpfLk/I/9B+crBaqDorc=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet023Condit
+ ionalVisibility.class
+SHA1-Digest: oSXfRsgWkzh2+15UD2+V9ud0ekA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet025TableV
+ iewerWithPropertyDerivedColumns$View$1.class
+SHA1-Digest: lnqFD2mQ1BGkRkIMGw8HsjUhPKk=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest$1.class
+SHA1-Digest: dYK8KIs6hRmYKlWbhuYNWK1AcPc=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet009TableV
+ iewer$AbstractModelObject.class
+SHA1-Digest: ZSXimQf7F3RjNl0dhD+y+BppH58=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$1.class
+SHA1-Digest: SuPIEM2bLsRgMH/IWQKvbCOHqOw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f$AbstractModelObject.class
+SHA1-Digest: BLzNs9y/c3KY9hAf4EIbVOAKkqg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet004DataBi
+ ndingContextErrorLabel$FiveValidator.class
+SHA1-Digest: JBDe4ArWDs3o5Kq+iX97J/7B2VI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet008Comput
+ edValue.class
+SHA1-Digest: ILIXM7XOmiSODMPhwDg0X6zaBf8=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Asyn
+ chronousTestSet.class
+SHA1-Digest: tzPABqhE01oS5RCjRL8c/3NVo0A=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet032TableV
+ iewerColumnEditing$AbstractModelObject.class
+SHA1-Digest: 6XaKSSCSBgBjqjogJ1sHOuy27Cs=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/WorkQueue.c
+ lass
+SHA1-Digest: D7RKvCk24aH0g51LUnh1MGgdA9U=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$7.class
+SHA1-Digest: Ik0JjqAqqP3ZhaXkbTB4I+D2p5g=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation$5.class
+SHA1-Digest: r2AnQk8IIfYprsbQnb91fPo0fvQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$ComputedCellValue.class
+SHA1-Digest: 6W/mCZIO7YjCMq1OnGbpzSvawVY=
+
+Name: org/eclipse/jface/examples/databinding/radioGroup/RadioGroup$IRa
+ dioButton.class
+SHA1-Digest: vp8v2JlN1+JYVQ21I7Cl1ol5i7I=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet002Update
+ ComboRetainSelection$View.class
+SHA1-Digest: QZVtJ+wi+ie+G87xxineYZSh8ZM=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$3.class
+SHA1-Digest: eHREJCi/rSmpm3tj6WPbOra7g5I=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f$View$2$1.class
+SHA1-Digest: dPPqpMOXFUh++p59PuqL7VSAWSc=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet032TableV
+ iewerColumnEditing$View.class
+SHA1-Digest: zoYIRXbR4reuYvijri4kBs06e0g=
+
+Name: org/eclipse/jface/examples/databinding/radioGroup/RadioGroup$1.c
+ lass
+SHA1-Digest: ngBRdh5lZ8Nt9NnqoYgcJXHvk1k=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation$2$1.class
+SHA1-Digest: W4YOeXCXq6sVuh4/17Sr94JkVwc=
+
+Name: org/eclipse/jface/examples/databinding/model/Category.class
+SHA1-Digest: SNQFUGsv8NypgDwqWYh5oE+nd50=
+
+Name: org/eclipse/jface/examples/databinding/model/PriceModelObject.cl
+ ass
+SHA1-Digest: cEJ7oHKnllxB6M8vr/JHHuuParE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet012Compos
+ iteUpdater$1$1.class
+SHA1-Digest: +iT11RAgZTJcYC5b9bB7UaNLg7w=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet000HelloW
+ orld$Person.class
+SHA1-Digest: ZGZVeO8sfWlsx+oqgZrac+qhjr0=
+
+Name: org/eclipse/jface/examples/databinding/nestedselection/TestMaste
+ rDetail$3.class
+SHA1-Digest: xzcznXFSBS35zuYLm7cpVpm+dso=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet035PostSe
+ lectionProvider.class
+SHA1-Digest: 5gyQf3qabSn7FGrqWWYtbR+3t58=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f$Person.class
+SHA1-Digest: HB0aFlwQvVTSyB+A5JsH3o3c4a4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$AbstractModelObject.class
+SHA1-Digest: Z0N6/H9vg0Xpe+A42bnRmrtdeWw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet027Extern
+ alValidator$Contact.class
+SHA1-Digest: ipLZEGuw7hVstu3DiVUhOtZfZhA=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest.class
+SHA1-Digest: x2pYmMVVFociC8vK3CD8KRRbudQ=
+
+Name: org/eclipse/jface/examples/databinding/mask/EditMaskParseExcepti
+ on.class
+SHA1-Digest: Bc+VnwnLf8YBuZeU6dLFE1sBXIw=
+
+Name: org/eclipse/jface/examples/databinding/model/SimpleOrder.class
+SHA1-Digest: rr06dwIBQOvQrXUIKreXW58lhWY=
+
+Name: org/eclipse/jface/examples/databinding/ducks/ReflectedProperty.c
+ lass
+SHA1-Digest: Mz0izeuuy6MZyfHdx21R//xKpTc=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet027Extern
+ alValidator$ExternalValidationWizard.class
+SHA1-Digest: zTs8ywjf3jcovWlgVWoOazTJ3ew=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet036Valida
+ tionMessageProvider$RequiredValidator.class
+SHA1-Digest: AAMpDZM8V3ilYbXlRNxXRrQqF+0=
+
+Name: org/eclipse/jface/examples/databinding/model/Signon.class
+SHA1-Digest: UM6jcZXIdQ2B/CRN3Q0Tn+8w+10=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet001Nested
+ SelectionWithCombo.class
+SHA1-Digest: 4Ds1W0a1gx0LojAOeq8VKQsh7vI=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$4.class
+SHA1-Digest: hJnQjfshxXTS09BWhlscHWrcwck=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet013TableV
+ iewerEditing$View.class
+SHA1-Digest: vAY66cN+edzlUNIwCZsY1ThsMJc=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest2$3.class
+SHA1-Digest: 20f5CLlu4CJLXCyxPLneJzcwBrI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet034ComboV
+ iewerAndEnum$View.class
+SHA1-Digest: tZi+WLJfk11V1TZSj614Kz8cgWE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet003Update
+ ComboBindUsingViewer$View.class
+SHA1-Digest: BYm1vA8xzmM5OkGmEJNON9jd27I=
+
+Name: org/eclipse/jface/examples/databinding/ducks/ReflectedMethod.cla
+ ss
+SHA1-Digest: /Piut9CVsnh6ZD2zW0lObPnQbBI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet009TableV
+ iewer$ViewModel.class
+SHA1-Digest: X1QYx8i/xTxxyj4kb59mdUfzUs0=
+
+Name: org/eclipse/jface/examples/databinding/model/Adventure.class
+SHA1-Digest: YRJXg6LRiGjKEc7YhjKkf5NBR5M=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f$View$2.class
+SHA1-Digest: Zi3PyrJVKHQOPDv1RD8fWKnmhjo=
+
+Name: org/eclipse/jface/examples/databinding/ducks/RelaxedDuckType.cla
+ ss
+SHA1-Digest: O5wzMe/jvHqkIxUqIlWXNLVjrq8=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$4.class
+SHA1-Digest: ntBHDsyZ9gaXrqkGi7E8eMKOkVk=
+
+Name: org/eclipse/jface/examples/databinding/model/Transportation.clas
+ s
+SHA1-Digest: 8X6VbTatuFy+pitrEazAhYRMSpU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet005MenuUp
+ dater$1$1.class
+SHA1-Digest: hEKgQMH6OVMMj7TVR9FzpbLCn3k=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet017TableV
+ iewerWithDerivedColumns.class
+SHA1-Digest: JGT+kp+jl9pEa6IRIbVfqPghhVU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet017TableV
+ iewerWithDerivedColumns$ViewModel.class
+SHA1-Digest: H7oj+xIorShrmwBrxypTEixw2vY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation$2.class
+SHA1-Digest: fnGIksF6NklzwdJwiA0/eusoqvc=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$1$3.class
+SHA1-Digest: cBg7+fPCwQM/WiL2PONMjnUW7Mw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet007ColorL
+ abelProvider.class
+SHA1-Digest: Z5PXrMVGLJf7osd2VIZbkkbECSU=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Tree
+ ContentProviderTest$5.class
+SHA1-Digest: Dn0dwp8+iXMpG2iUVUZ2vF0QxnQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet027Extern
+ alValidator$AbstractModelObject.class
+SHA1-Digest: gZIc52Y3LNYkVlXHCPmJUgIo47w=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet023Condit
+ ionalVisibility$1.class
+SHA1-Digest: xqkNq48I7QpMUTLFAbzlEai8oz8=
+
+Name: org/eclipse/jface/examples/databinding/model/Adventure$1.class
+SHA1-Digest: zhvwTiIvDyL9ZyTWD73YOUZGN4M=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet032TableV
+ iewerColumnEditing$1.class
+SHA1-Digest: MYysZVSv7y8m96dQx3uc8kEQxHQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$Contact.class
+SHA1-Digest: 6r3eRv6v9wkfWqX6R1K1RMyIJEA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$8.class
+SHA1-Digest: XGSgukJvF+Z1LTpp/x8N2JG1t4U=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet016TableU
+ pdater$Stuff.class
+SHA1-Digest: 2aShqw59asChU+pWZ7FVptYztPc=
+
+Name: org/eclipse/jface/examples/databinding/nestedselection/TestMaste
+ rDetail.class
+SHA1-Digest: c8WXMw/noKeRD1To6ZWS3wfn6vs=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet004DataBi
+ ndingContextErrorLabel$1.class
+SHA1-Digest: YrS6Iw2J4WQzIYUIs2W6m+OcFxs=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet031JFaceO
+ bservable.class
+SHA1-Digest: s8TEWSWAfavERnlu4qxgbVy956I=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/WorkQueue$1
+ .class
+SHA1-Digest: H2CXCwtwLNu6WMihvUinFiVKIyk=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet017TableV
+ iewerWithDerivedColumns$1.class
+SHA1-Digest: Dat3E7w86MRNvbcw/j1Egy18bCg=
+
+Name: org/eclipse/jface/examples/databinding/model/AggregateObservable
+ Value$1.class
+SHA1-Digest: 2YPeUvOcOmUcU38H32TLTO9r2ms=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet027Extern
+ alValidator$1.class
+SHA1-Digest: yCNVW45RQU+gCeoKS6oNOWjWL8A=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet017TableV
+ iewerWithDerivedColumns$Person.class
+SHA1-Digest: eYPaK273kxz3IPGxUl5sfzpiE4g=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet014Wizard
+ Dialog$FirstWizardPage$SingleDigitValidator.class
+SHA1-Digest: DMK/RcGU/Gs/lzHJNq/SvmNnLBo=
+
+Name: org/eclipse/jface/examples/databinding/model/Account.class
+SHA1-Digest: hxPU6QYM0SOUpwgxqg6Rq0DRxvo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet011Valida
+ teMultipleBindingsSnippet$1.class
+SHA1-Digest: wzfZjmk1iZR9svnQd+e1zcBWiFg=
+
+Name: org/eclipse/jface/examples/databinding/ModelObject.class
+SHA1-Digest: cMtLo3+jFETY/IVqdmngqT1+N6s=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet003Update
+ ComboBindUsingViewer$1.class
+SHA1-Digest: fcWgCeWGm2ZZuKjDe874XBcsE78=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet002Update
+ ComboRetainSelection$AbstractModelObject.class
+SHA1-Digest: 53Olj5KMHSvigubjLxnFPY+dndg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet014Wizard
+ Dialog$SampleWizard.class
+SHA1-Digest: 0U3Gh3Nc0h5uYO1NojnIqUXIT9M=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$1.class
+SHA1-Digest: IrOjMsKShhGHjWrbtaHJquJFxx4=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$1.class
+SHA1-Digest: yxrKfX8nmPbbHo1xPoCOvY63yP0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet015DelayT
+ extModifyEvents$3.class
+SHA1-Digest: CtCKLS9ehbFeTH+nWtMH2Wlnm5o=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$1.class
+SHA1-Digest: SCsQjNoNXeNs25h9zC5By5rgpxk=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet013TableV
+ iewerEditing.class
+SHA1-Digest: bBNFqOAZrzP7ipVa45Nu4s7BVag=
+
+Name: org/eclipse/jface/examples/databinding/mask/EditMask$3.class
+SHA1-Digest: 79kOsae/F0j24zNtTI3tbeIpX0E=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$View$3.class
+SHA1-Digest: aBUX39v+FGSRW6hcCyLAAdjEFeA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet025TableV
+ iewerWithPropertyDerivedColumns.class
+SHA1-Digest: bBReSKMn8OLhTFg9WZOg8jdmhLE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet025TableV
+ iewerWithPropertyDerivedColumns$ViewModel.class
+SHA1-Digest: d+pHJbk32WcuaaR4s6l3F3Fk9NM=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest$3.class
+SHA1-Digest: D+BbEOOCtqwseKp6IUsRisw1+qI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$1.class
+SHA1-Digest: RyipR/5LgVqAYmBOnLfn9WQ93r4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties$3.class
+SHA1-Digest: zycBCyGjCD0OqceLU6t5/cV+zbE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet036Valida
+ tionMessageProvider.class
+SHA1-Digest: qsDfy/tymZDt+emn5C63rH/GsFU=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Tree
+ ContentProviderTest$2.class
+SHA1-Digest: A9gjy8n4nBLX0j4lmxSyld1VV2I=
+
+Name: org/eclipse/jface/examples/databinding/model/AggregateObservable
+ Value.class
+SHA1-Digest: 0z4aBhf4YyaZX6Z8n7qMh+keVgA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$9.class
+SHA1-Digest: rpz5wdxXjJKeaJlMfPNdO6sQUYs=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet025TableV
+ iewerWithPropertyDerivedColumns$1.class
+SHA1-Digest: KwSQZ6qW6NHLNM0qpUGteP5xYy4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$5.class
+SHA1-Digest: OIa9KCqZbp3qHoC7bnWCFEYjlyI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet011Valida
+ teMultipleBindingsSnippet.class
+SHA1-Digest: GSR9dj9GorwJ+XcgagVAiZJgDgk=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet012Compos
+ iteUpdater$1.class
+SHA1-Digest: H6V+skrRTMELkDUfyxpY6UX889w=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet029TreeVi
+ ewerMultiListProperty$Catalog.class
+SHA1-Digest: NIavkkv4ra0jLYOXK+0muVtdqNI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet003Update
+ ComboBindUsingViewer.class
+SHA1-Digest: H/shl7j4NMwmm2+C4aSzQWcNb90=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet003Update
+ ComboBindUsingViewer$AbstractModelObject.class
+SHA1-Digest: 4FxNseq/5NYMEUG/zFWLI6UFlaE=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet010Master
+ Detail$1.class
+SHA1-Digest: Hd+NVcid5yQj+SWATdYZutGrtZY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet011Valida
+ teMultipleBindingsSnippet$CrossFieldValidator.class
+SHA1-Digest: yOxT9X4f4HwQge+LXQvPVBS2vOU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet030DateAn
+ dTimeObservableValue$2.class
+SHA1-Digest: IfFlnLqX9Qgcno0oM5/TNWRrfKI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet036Valida
+ tionMessageProvider$CustomMessageProvider.class
+SHA1-Digest: Btspq3gH14kv0nkEApCTiPnl+74=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet007ColorL
+ abelProvider$1$1ColorLabelProvider.class
+SHA1-Digest: 6sQnkwOlVx35EFT9zVfI2tJKOyU=
+
+Name: org/eclipse/jface/examples/databinding/ducks/DuckType$Wrapper.cl
+ ass
+SHA1-Digest: 4FOYDlaqUThFl7AHgI/8ZEwEYek=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet022Comput
+ edListCombo.class
+SHA1-Digest: DE1Revn+OsC7fD+iuw0eaJ6fNjg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet001Nested
+ SelectionWithCombo$Person.class
+SHA1-Digest: B8nzlDjojyCphmYZ9I22iMv9mEI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet016TableU
+ pdater$2.class
+SHA1-Digest: K5O5xBTNa2D08aWD7GEYCteCHcU=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest.class
+SHA1-Digest: WPgqZHfydgeSRg7EaNOp39iwBxA=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet025TableV
+ iewerWithPropertyDerivedColumns$View.class
+SHA1-Digest: MVjP2MaoXKyoOc1C/nvhSC2eTlM=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet002Update
+ ComboRetainSelection$2.class
+SHA1-Digest: sFAHn9iy7PvFehgiFLA7C4lrbu4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet001Nested
+ SelectionWithCombo$ViewModel.class
+SHA1-Digest: 7VUCV1Z8UT4XmU+ESaRI99H4ZLA=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$6.class
+SHA1-Digest: Yu8LaT8D9FbvOjwOLoe+PXShAoo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet005MenuUp
+ dater$1.class
+SHA1-Digest: 3Mmsycdjf6FKzG5MDIMKuNhEXbo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet001Nested
+ SelectionWithCombo$View.class
+SHA1-Digest: vWxSGrSwXhB8J2vlG35xRwdICMY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet000HelloW
+ orld$ViewModel.class
+SHA1-Digest: zwA6BMz/z4bG0OjtotM8zkT02lw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$6.class
+SHA1-Digest: QFj3KgLIL+lCneFozSut2CtzHVg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet018Checkb
+ oxTableViewerCheckedSelection$View$1$1.class
+SHA1-Digest: 84AyXE8eUoAcg/SjDzmP+9kK2J8=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet017TableV
+ iewerWithDerivedColumns$AbstractModelObject.class
+SHA1-Digest: qNJlzBvfTRItW3ldV2alFdQJ/S8=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet027Extern
+ alValidator.class
+SHA1-Digest: Bl2Lyl8g7LfER2Ne3PPHu5IDTzU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation$4.class
+SHA1-Digest: ++E7OET2crylshCrWqBsWp01vlo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$1$5.class
+SHA1-Digest: aWYdc178PMrqRzOqTAyLx23Rq5w=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory$2.class
+SHA1-Digest: F/7doI3ZpqQe3IrG9HvUV100Uos=
+
+Name: org/eclipse/jface/examples/databinding/model/SimpleCart.class
+SHA1-Digest: 4BSahU6Jm7AnYSvX/0AWgt7yXt8=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet028Duplex
+ ingObservableValue$MovieInfo.class
+SHA1-Digest: X/xdgoWlyikbLcsLhxpaQr8y7is=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet000HelloW
+ orld$1.class
+SHA1-Digest: iuURMbVQYsUhvTpUT5Len+oFplY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet031JFaceO
+ bservable$Person.class
+SHA1-Digest: ZgWWQOL1+sbzM78vZ4owKGok23A=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet028Duplex
+ ingObservableValue.class
+SHA1-Digest: 6ki3+j8JpYIAGuCLNOVyZDUGeKg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet002Update
+ ComboRetainSelection$View$1.class
+SHA1-Digest: SKZC8X3wIZvuiWL0fjG2A02b6AU=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Asyn
+ chronousTestSet$1$1.class
+SHA1-Digest: rJbnFQ53F2ER3rBmuGna8mkUe9c=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet036Valida
+ tionMessageProvider$MessageProviderWizardPage$1.class
+SHA1-Digest: ffhy42cDEgNIPcLsZrNW2BpaZ1k=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet011Valida
+ teMultipleBindingsSnippet$3.class
+SHA1-Digest: P6OxIZO+eRzHcVtgsYA8ZKTwUas=
+
+Name: org/eclipse/jface/examples/databinding/nestedselection/TestMaste
+ rDetail$2.class
+SHA1-Digest: UdgQYNlKuV4V/BRRbh3lRAejhYw=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet036Valida
+ tionMessageProvider$MessageProviderWizard.class
+SHA1-Digest: 4ph6X7h8IF1cG/OM935aNXABUWY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet033CrossV
+ alidationControlDecoration$2.class
+SHA1-Digest: eGauO+LS1VI/Ne3HYcJcqzHC2Ps=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet002Update
+ ComboRetainSelection.class
+SHA1-Digest: zzyRC11Ky2HtAoCTQynXurPQMvQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet026Anonym
+ ousBeanProperties.class
+SHA1-Digest: DbRVgfwnPlxQcZzSqEkb559xQcQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet008Comput
+ edValue$Data.class
+SHA1-Digest: kFUQ8u4+FZN9OVRwPfcW2Yc43B0=
+
+Name: org/eclipse/jface/examples/databinding/model/AdventureFactory.cl
+ ass
+SHA1-Digest: K8IHQWKTvqCl+eS4GbxRvpWkibA=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Stru
+ cturedContentProviderTest$3.class
+SHA1-Digest: NQeSg+He7Vrti0vUxCl5LWSa3Cc=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Labe
+ lProviderTest2$2.class
+SHA1-Digest: 1Gd2/5BeXXJO8eveQ1n8eYzkbXU=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet024Select
+ ObservableValue.class
+SHA1-Digest: Vsrv/NxN0pLX9SIrvtxCzxFOjxo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet007ColorL
+ abelProvider$Person.class
+SHA1-Digest: 9OD8kUamWXtlBR+sbf01x0EfMrQ=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet029TreeVi
+ ewerMultiListProperty.class
+SHA1-Digest: vYLsEW6m4qNKxn11BZWHMjfnvjI=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet012Compos
+ iteUpdater$Counter.class
+SHA1-Digest: fOGEIvStKTxdoQIabRfXnKK0vys=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet013TableV
+ iewerEditing$AbstractModelObject.class
+SHA1-Digest: h9D08rVz1Z4TcdIvGQ5uSjc6BUs=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet020TreeVi
+ ewerWithSetFactory.class
+SHA1-Digest: gy8Hwtp1s4gNvt228sjK7x0GVlg=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet009TableV
+ iewer.class
+SHA1-Digest: 6nrTYfcWv4Hr/aAX8p0m65tScoY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet029TreeVi
+ ewerMultiListProperty$AbstractModelObject.class
+SHA1-Digest: 9FsI2cGyyeDhxfIiohMASZkdCSo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet0xfffffff
+ f$View$1.class
+SHA1-Digest: xfhJB5r9PVqWVIK0LPqlbvPN8i4=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet025TableV
+ iewerWithPropertyDerivedColumns$AbstractModelObject.class
+SHA1-Digest: rP6/9fUUGw/VLJ57pIlprTOAFrM=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet032TableV
+ iewerColumnEditing.class
+SHA1-Digest: 5VP38PFNFvDO0KYFu96OUpYQxjo=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet024Select
+ ObservableValue$1.class
+SHA1-Digest: lzsfVoXzCS5BfNwDGCxNde5T46s=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet029TreeVi
+ ewerMultiListProperty$CatalogItem.class
+SHA1-Digest: y/38If4B6Eg1BGQt8zwri7SLV9U=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet019TreeVi
+ ewerWithListFactory$3.class
+SHA1-Digest: R7Bahw7hr1F1xYfb+YHZvHQVzs8=
+
+Name: org/eclipse/jface/examples/databinding/mask/internal/SWTUtil$1.c
+ lass
+SHA1-Digest: l93rGQNH+kuKkJrT2d0mz16bXdY=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet021MultiF
+ ieldValidation$1.class
+SHA1-Digest: XR0HpL8nPzUUdCOl/cIS6OuUUw0=
+
+Name: org/eclipse/jface/examples/databinding/snippets/Snippet006Spread
+ sheet$1$2.class
+SHA1-Digest: nVy6BiMEgRoa4onDAJOpBCDO4Vc=
+
+Name: org/eclipse/jface/examples/databinding/contentprovider/test/Tree
+ ContentProviderTest$4.class
+SHA1-Digest: oWTjwnLqa5InRv97x3x6ZN54ZOQ=
+

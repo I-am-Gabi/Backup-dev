@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.core.tests.net
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.team.git;path="tests/org.eclipse.core.tests.net";
+ tag="I20130402-0800";commitId=79c5562d4c74180311d4b7d7e8f82ffa068e9cb
+ 7
+Bundle-Activator: org.eclipse.core.tests.net.Activator
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.3.0,4.0.0)
+ ",org.eclipse.core.net;bundle-version="[1.0.0,2.0.0)",org.junit
+Bundle-Version: 1.3.0.v20130326-1435
+Export-Package: org.eclipse.core.tests.net
+Build-Jdk: 1.7.0_11
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Eclipse.org
+Bundle-Name: Net Tests Plug-in
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/core/tests/net/Activator.class
+SHA1-Digest: VnvA2iKzqZ6iWNOtSur9dw+m+us=
+
+Name: org/eclipse/core/tests/net/AllNetTests.class
+SHA1-Digest: NL/16XALRbWNpcjb7Le9Jk6zP78=
+
+Name: .api_description
+SHA1-Digest: r9ZRJPiEfAbIkHtB98l4Hgogfmg=
+
+Name: test.xml
+SHA1-Digest: utDZvgtquyN1zQ6GvLmi+ebz05c=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/core/tests/net/NetTest.class
+SHA1-Digest: cDbFgdp3hgHTvd9hK+u/z/uf2lo=
+
+Name: org/eclipse/core/tests/net/SystemProxyTest.class
+SHA1-Digest: KRY+S86t5HIZsOXpB0bw+OjeqCg=
+

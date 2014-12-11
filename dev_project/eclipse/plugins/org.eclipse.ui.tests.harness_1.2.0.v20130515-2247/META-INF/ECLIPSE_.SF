@@ -1,0 +1,167 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5tk8DrFGHVY7YATAODvLPQhoaA4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: VtfCiulomMbLMxANQXouYZcZ1VY=
+
+Name: org/eclipse/ui/tests/harness/util/DisplayHelper.class
+SHA1-Digest: e4YXgai0s1o6DpXMCW8jnlC1Z8g=
+
+Name: org/eclipse/ui/tests/harness/util/DisplayWaiter$1.class
+SHA1-Digest: EQ2p9g9vd/z7//HP1sAZ4Vau5yA=
+
+Name: org/eclipse/ui/tests/harness/util/Mocks$MockInvocationHandler.cl
+ ass
+SHA1-Digest: 51Xz2+Zrf6I8yNuzOpuuZQ2BIkI=
+
+Name: org/eclipse/ui/tests/internal/util/VerifyDialog$1.class
+SHA1-Digest: MzXfwLaLHYuUtJf0y1UfH/4fp0w=
+
+Name: org/eclipse/ui/tests/internal/util/VerifyDialog$3.class
+SHA1-Digest: /KKNtHB0Y2vxiAueDjDfmIYtl60=
+
+Name: org/eclipse/ui/tests/internal/util/IDialogTestPass.class
+SHA1-Digest: +8Lj8o450DoVD7ZoYH74D5Ffu7c=
+
+Name: org/eclipse/ui/tests/harness/util/EditorTestHelper.class
+SHA1-Digest: xjZewnfiHyo1CdWQU6BhdQLaUYM=
+
+Name: org/eclipse/ui/tests/harness/util/EmptyPerspective.class
+SHA1-Digest: stYhqqINqVNf4MsrzAKGwTHD4wc=
+
+Name: org/eclipse/ui/tests/harness/util/DialogCheck.class
+SHA1-Digest: 6Vvl7CJbcVLvuLVgFMKgu2U3tm0=
+
+Name: org/eclipse/ui/tests/harness/util/DisplayWaiter$Timeout.class
+SHA1-Digest: Zk2JA60t5exLPl+bz8+YLWMvj4M=
+
+Name: org/eclipse/ui/tests/harness/util/UITestCase.class
+SHA1-Digest: 4NsY2QTYI76QnoO8SklhgG0MdBM=
+
+Name: org/eclipse/ui/tests/harness/util/DisplayWaiter$1$ThreadChangedE
+ xception.class
+SHA1-Digest: AFuVAWM3u5IJB23Y1mONJHeqZqA=
+
+Name: org/eclipse/ui/tests/harness/util/AutomationUtil.class
+SHA1-Digest: p47EzRGBPZwuRfaYb803Xt7yYXM=
+
+Name: org/eclipse/ui/tests/harness/util/EditorTestHelper$1.class
+SHA1-Digest: rpFkZ3tC1rFpCx0otrwTZpUG/24=
+
+Name: org/eclipse/ui/tests/harness/tests/MocksTest.class
+SHA1-Digest: odRDllYlb4pywyLOm6UYBb+o/s4=
+
+Name: org/eclipse/ui/tests/harness/util/RCPTestWorkbenchAdvisor.class
+SHA1-Digest: czD0Y6O+IgreRy8ZC6GL3CYXR5c=
+
+Name: org/eclipse/ui/tests/harness/util/Mocks$Mock.class
+SHA1-Digest: TCHqY4zaLCIb/7kfMdFw9gdjZSs=
+
+Name: org/eclipse/ui/tests/harness/util/SWTEventHelper$1.class
+SHA1-Digest: hd2qE2Ch5PvpLqaKhb3SM9m7ABk=
+
+Name: org/eclipse/ui/tests/harness/util/ImageTests.class
+SHA1-Digest: SFJyF3ZFOXvGX212Lw4IZs7XEvo=
+
+Name: org/eclipse/ui/tests/harness/util/Mocks$2.class
+SHA1-Digest: Cy42Up5j0vyYMOE0KwUyHeFujeo=
+
+Name: org/eclipse/ui/tests/harness/util/ArrayUtil.class
+SHA1-Digest: Se7Fj/gfvNgoIQeYv30xg3TgoAo=
+
+Name: org/eclipse/ui/tests/harness/util/UITestCase$Condition.class
+SHA1-Digest: n4SXHfVGJalCPFriRg0ovJUVuFM=
+
+Name: org/eclipse/ui/tests/harness/util/RCPTestWorkbenchAdvisor$2.clas
+ s
+SHA1-Digest: QCzDnRwktdhMQ8bCkrujCBDQ6EI=
+
+Name: org/eclipse/ui/tests/harness/util/RCPTestWorkbenchAdvisor$4.clas
+ s
+SHA1-Digest: UC7n5y5NolJSxrTYT3rdU/tAk8w=
+
+Name: org/eclipse/ui/tests/harness/tests/MocksTest$IPrimitive.class
+SHA1-Digest: lCSiea6mbAg/silv54ArWuoFJgk=
+
+Name: org/eclipse/ui/tests/harness/util/DisplayWaiter.class
+SHA1-Digest: f6UBC+/7XguEpGehtzP1dk3GSao=
+
+Name: org/eclipse/ui/tests/internal/util/SizingTestPass.class
+SHA1-Digest: mucDzca4XCEQpcBeqx3j1W91iHM=
+
+Name: org/eclipse/ui/tests/internal/util/VerifyDialog.class
+SHA1-Digest: WqoMlycMi6/rOaq7OwM4fMouqoY=
+
+Name: org/eclipse/ui/tests/harness/util/FileUtil.class
+SHA1-Digest: 89WEhndFEzn5gHsXnGyYspOl58E=
+
+Name: org/eclipse/ui/tests/harness/util/CallHistory.class
+SHA1-Digest: zJrNROlWmiFPe/sDQyQMZtJ4uDc=
+
+Name: org/eclipse/ui/tests/internal/util/VerifyDialog$2.class
+SHA1-Digest: ibz8brwzhjUaYHHwryuzSjzHYsI=
+
+Name: org/eclipse/ui/tests/internal/util/AccessibilityTestPass.class
+SHA1-Digest: wrliGcSxQUlkaPh/i9phOg7Mrgs=
+
+Name: org/eclipse/ui/tests/internal/util/FailureDialog.class
+SHA1-Digest: rqkHpo6JYK6eJinYlTksqEEgNgE=
+
+Name: org/eclipse/ui/tests/harness/util/Mocks$EqualityComparator.class
+SHA1-Digest: ZgJXCpn68LG7Mz6dBhmLpMQ/XJM=
+
+Name: org/eclipse/ui/tests/harness/util/DisplayHelper$1.class
+SHA1-Digest: 5EKEDaUZM7j4ITwAnHFV3Ea9H2k=
+
+Name: org/eclipse/ui/tests/harness/util/Mocks$MockInvocationHandler$Me
+ thodCall.class
+SHA1-Digest: MoJVnFORpLMOxKkWhZuNakEurmY=
+
+Name: org/eclipse/ui/tests/internal/util/FocusTestPass.class
+SHA1-Digest: NhCUufGMDbhv8ZjyZIVQ75K7f7k=
+
+Name: org/eclipse/ui/tests/harness/util/FileTool.class
+SHA1-Digest: s70ILXILjWD0oD7szn1lXJ5leK4=
+
+Name: org/eclipse/ui/tests/harness/util/SWTEventHelper.class
+SHA1-Digest: uWXo9own2lfwWwUb7ZF3dJp+hZY=
+
+Name: org/eclipse/ui/tests/harness/util/Mocks.class
+SHA1-Digest: Eba1GcziBB/ISCEMYnERMafQmDw=
+
+Name: plugin.xml
+SHA1-Digest: ug4gi+mWUGgQgXgwrpzPcKWO4aw=
+
+Name: org/eclipse/ui/tests/harness/util/SWTEventHelper$2.class
+SHA1-Digest: eA89KqYoMNN0y2E3rg3wa6Co/vI=
+
+Name: org/eclipse/ui/tests/harness/util/Mocks$1.class
+SHA1-Digest: 8uxErbVcTpVHOyEC9VIL389UVeU=
+
+Name: org/eclipse/ui/tests/harness/util/RCPTestWorkbenchAdvisor$1.clas
+ s
+SHA1-Digest: vzaxpiQLrghz9sGxBO4x18j2Q3E=
+
+Name: org/eclipse/ui/tests/harness/UITestHarnessPlugin.class
+SHA1-Digest: ty2e7NVSNs9mwUKcb2aFX7HhfoI=
+
+Name: org/eclipse/ui/tests/harness/util/RCPTestWorkbenchAdvisor$3.clas
+ s
+SHA1-Digest: M1CM696SJx0MrxcGtqGNsReR+gY=
+
+Name: org/eclipse/ui/tests/harness/util/RCPTestWorkbenchAdvisor$5.clas
+ s
+SHA1-Digest: 5i9SO4zu8HxcytDbbL8YLgOAb2o=
+
+Name: org/eclipse/ui/tests/harness/util/UITestCase$TestWindowListener.
+ class
+SHA1-Digest: 80SDMTuXosxzjd51JJ/83GFNXn8=
+
+Name: org/eclipse/ui/tests/harness/util/PlatformUtil.class
+SHA1-Digest: HtLe0lbXVMVWBW3+N8kqd5RYnu4=
+
+Name: org/eclipse/ui/tests/harness/util/ActionUtil.class
+SHA1-Digest: Y0zzzsLtMe8rzaukDP0SdBSxeMw=
+
+Name: org/eclipse/ui/tests/harness/AllTests.class
+SHA1-Digest: dIl9gN++xu4nx1RZDajblu1ePqk=
+

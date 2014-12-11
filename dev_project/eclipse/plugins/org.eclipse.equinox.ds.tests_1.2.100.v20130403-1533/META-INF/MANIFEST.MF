@@ -1,0 +1,179 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.equinox.ds.tests
+Bundle-Category: test
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/equino
+ x/rt.equinox.bundles.git;path="bundles/org.eclipse.equinox.ds.tests";
+ tag="I20130409-0800";commitId=c36ff638c1be8c4e54e60786a058469aff8cd95
+ 7
+Bundle-Activator: org.eclipse.equinox.ds.tests.DSTestsActivator
+Require-Bundle: org.junit
+Export-Package: org.eclipse.equinox.ds.tests.tbc
+Bundle-Version: 1.2.100.v20130403-1533
+Build-Jdk: 1.7.0_11
+Bundle-ActivationPolicy: lazy
+Bundle-Name: Declarative Services Tests
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Import-Package: org.eclipse.osgi.service.urlconversion;version="1.0.0"
+ ,org.osgi.framework;version="1.3.0",org.osgi.service.cm;version="1.2.
+ 0",org.osgi.service.component;version="1.0.0",org.osgi.service.log;ve
+ rsion="1.3.0",org.osgi.service.permissionadmin;version="1.2.0",org.os
+ gi.util.tracker;version="1.4.2"
+Bundle-ManifestVersion: 2
+
+Name: scr_test/tb21a.jar
+SHA1-Digest: r7IO8NclI+oDQYkVTl8yxHnNFaI=
+
+Name: org/eclipse/equinox/ds/tests/tbc/BoundCountProvider.class
+SHA1-Digest: ERDlR+GD0k/TCGAqXK76oHR8hP8=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DynamicWorker.class
+SHA1-Digest: gh6uStMCo8u45CI3PAcw2PJKi58=
+
+Name: org/eclipse/equinox/ds/tests/tbc/BoundTester.class
+SHA1-Digest: nNyKzP3uhUEk7Kavz2dKlilzCL0=
+
+Name: org/eclipse/equinox/ds/tests/tbc/BundleContextProvider.class
+SHA1-Digest: dDTZeW1ZgJNFqxhVYBALit5nR6Q=
+
+Name: org/eclipse/equinox/ds/tests/tbc/PropertiesProvider.class
+SHA1-Digest: cYUInAtToCWO1dH1awm8kunIxJM=
+
+Name: org/eclipse/equinox/ds/tests/tbc/StaticWorker.class
+SHA1-Digest: RixzyGdyNRBkSixkRurp1aPXurk=
+
+Name: org/eclipse/equinox/ds/tests/tbc/BoundMainProvider.class
+SHA1-Digest: BHs0zKRUKNOkeMsXLkjQk2lhPtc=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSEvent.class
+SHA1-Digest: oyuwKeHABXx6jaKfpB6lo8+Rs/A=
+
+Name: org/eclipse/equinox/ds/tests/tbc/NamespaceProvider.class
+SHA1-Digest: /TK7k7Uvc0A14qOc/3Pvh9f57do=
+
+Name: org/eclipse/equinox/ds/tests/tbc/TestHelper.class
+SHA1-Digest: x40pfLAnR5Zv2rSkfm6jeGgJ1Bs=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSTest.class
+SHA1-Digest: bhQ9liu/EgIAvXrWRgdlsNqhnY0=
+
+Name: scr_test/tb1.jar
+SHA1-Digest: DzfqUWq2XyyKcE/9DtLX+eUmC2U=
+
+Name: scr_test/tb2.jar
+SHA1-Digest: gPUh23IOxJA7gqSHfDjw+PotD6k=
+
+Name: scr_test/tb3.jar
+SHA1-Digest: Is/mLjMXMhX1xJ1NFehFBLFMbZ0=
+
+Name: scr_test/tb4.jar
+SHA1-Digest: bGsh8F0ma4A94HKx2uM9Zbzs5wM=
+
+Name: scr_test/tb5.jar
+SHA1-Digest: VMoULpZrsdRXBiGAKvIX4fJwi8Q=
+
+Name: scr_test/tb6.jar
+SHA1-Digest: xtTYydbdEOeuogaI3od2ametdZI=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSTest$2.class
+SHA1-Digest: Q/jDE1EIu9rFfPxID4MDNriyhKs=
+
+Name: scr_test/tb7.jar
+SHA1-Digest: ec3ZIjjunk3lwcUEAMynP3ZyTx0=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSTest$OverloadManager.class
+SHA1-Digest: J2H2X7kkj5cA5qyDRTme3OFpLqY=
+
+Name: scr_test/tb8.jar
+SHA1-Digest: bQbJMqQDSDjk9Ux4kDAXVESk/zk=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSTest$4.class
+SHA1-Digest: HKXGXYSFtT4x1fHg/40/bmp+dqY=
+
+Name: scr_test/tb9.jar
+SHA1-Digest: 2LkkToqIhTSeRSmIXxZp6Cp/PmI=
+
+Name: scr_test/tb10.jar
+SHA1-Digest: khFfCLokGewLeYyVHt0fDZxMKHc=
+
+Name: scr_test/tb11.jar
+SHA1-Digest: rfHHw5wZYjY8lU0IJ5z88Pu+JfQ=
+
+Name: test.xml
+SHA1-Digest: qGLNeWBPA3XwenjRaPTOaPpcw4U=
+
+Name: scr_test/tb12.jar
+SHA1-Digest: qaS67C/Y9lzhCYTxe29mdBh2EKo=
+
+Name: scr_test/tb13.jar
+SHA1-Digest: nIptpVtdFtXaaJ7gJDW2EkxQFqg=
+
+Name: scr_test/tb14.jar
+SHA1-Digest: mDfQbDc3hxIGvOXeGDvpfHNA6ME=
+
+Name: scr_test/tb15.jar
+SHA1-Digest: GFHAJAChan7cU0mnWF0/IhgO8DU=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSEventsProvider.class
+SHA1-Digest: +VG+kCoQRswHF220K5LJ6ZTBOhQ=
+
+Name: scr_test/tb16.jar
+SHA1-Digest: caWvqacm8bcsFgDqDhD+62g9v5A=
+
+Name: scr_test/tb17.jar
+SHA1-Digest: +bDKOqTW7FVW/mpT5zKpBnPGj1w=
+
+Name: scr_test/tb18.jar
+SHA1-Digest: DlsVSFHBgLDqY2S+X53PmJ35lZk=
+
+Name: scr_test/tb19.jar
+SHA1-Digest: mKra3cpH6mhzS9P7nZdYJ/ImAvU=
+
+Name: org/eclipse/equinox/ds/tests/tbc/ComponentContextProvider.class
+SHA1-Digest: Ya5n8py8RKwBdlStZfKKFpufApw=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DefaultPropertiesProvider.class
+SHA1-Digest: hhk5JyEiF7Jt4wsZ2gOi3QTrdz4=
+
+Name: scr_test/tb20.jar
+SHA1-Digest: E4hkCr+5Brs5OAc2zbOWC1R1pqU=
+
+Name: scr_test/tb21.jar
+SHA1-Digest: SVzFPydb3m4XCoZXKmvJD2rZYXc=
+
+Name: scr_test/tb22.jar
+SHA1-Digest: 3Iyo+91RyX5Xhvv5bwXhTxIKN6o=
+
+Name: scr_test/tb23.jar
+SHA1-Digest: Bx0qpuDoecvrxZnAPy6wT6cwMmk=
+
+Name: scr_test/tb24.jar
+SHA1-Digest: Uub3zKqQCI50l3qQ/jiibMNPx+c=
+
+Name: scr_test/tb25.jar
+SHA1-Digest: 1YxKmIum59wOzfmcApElczG1/nA=
+
+Name: scr_test/tb1a.jar
+SHA1-Digest: a0RDqi2GT4UwJ2U1tX5fVASh+RY=
+
+Name: org/eclipse/equinox/ds/tests/BundleInstaller.class
+SHA1-Digest: UsydCJtOVtiG+JvHhO6NiNZhz54=
+
+Name: org/eclipse/equinox/ds/tests/AllTests.class
+SHA1-Digest: L6YtpBu5br5IgQUorntI/OEXmCA=
+
+Name: org/eclipse/equinox/ds/tests/DSTestsActivator.class
+SHA1-Digest: jMIcU/giRHmQhYDf+9kIAN6vg0I=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSTest$1.class
+SHA1-Digest: EDRO4v4w8OBgcaNnj4kkclWQZrs=
+
+Name: org/eclipse/equinox/ds/tests/tbc/DSTest$3.class
+SHA1-Digest: A4O6ozAaap9W2AWsgaavRhiM81c=
+
+Name: org/eclipse/equinox/ds/tests/tbc/ComponentManager.class
+SHA1-Digest: kH7OfJmVizRZpvSd6FhD/TWB7S8=
+

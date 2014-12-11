@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.core.expressions.tests; singleton:=tr
+ ue
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.runtime.git;path="tests/org.eclipse.core.expressi
+ ons.tests";tag="M20131120-0800";commitId=75b205f432c88944d806ba8ecdab
+ 3289c79925b2
+Bundle-Activator: org.eclipse.core.internal.expressions.tests.Expressi
+ onTestPlugin
+Require-Bundle: org.eclipse.core.expressions;bundle-version="[3.4.100,
+ 4.0.0)",org.eclipse.core.runtime;bundle-version="[3.3.100,4.0.0)",org
+ .junit;bundle-version="3.8.2"
+Bundle-Version: 3.4.501.v20131118-1915
+Export-Package: org.eclipse.core.internal.expressions.tests
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: expressionstests.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: expressionstests.jar
+SHA1-Digest: ftA9uuAL5dtGwIgrYkg56O7kGa8=
+
+Name: test.xml
+SHA1-Digest: jnBDnWItYNGHlrtvp8W2uX2voZU=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.xml
+SHA1-Digest: jTgkevem/hJa5FoVqdSdYzkycpI=
+
+Name: plugin.properties
+SHA1-Digest: mty2TVtNZQJLY2TjmRqCv4N+IBE=
+

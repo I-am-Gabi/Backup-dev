@@ -1,0 +1,363 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.core.tests.runtime; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.runtime.git;path="tests/org.eclipse.core.tests.ru
+ ntime";tag="I20130514-0919";commitId=3b16e56dc8b78989ebfd42f61ea59ca6
+ 7c994a67
+Bundle-Activator: org.eclipse.core.tests.runtime.RuntimeTestsPlugin
+Require-Bundle: org.eclipse.core.tests.harness;bundle-version="3.4.0",
+ org.junit,org.eclipse.test.performance;resolution:=optional,org.eclip
+ se.core.runtime.compatibility
+Bundle-Version: 3.9.0.v20130514-1256
+Export-Package: org.eclipse.core.tests.internal.preferences,org.eclips
+ e.core.tests.internal.registry,org.eclipse.core.tests.internal.runtim
+ e,org.eclipse.core.tests.runtime,org.eclipse.core.tests.runtime.compa
+ tibility,org.eclipse.core.tests.runtime.jobs,org.eclipse.core.tests.r
+ untime.model,org.eclipse.core.tests.runtime.perf,org.eclipse.core.tes
+ ts.runtime.session
+Build-Jdk: 1.7.0_11
+Bundle-ClassPath: runtimetests.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Eclipse.org
+Bundle-Name: Eclipse Core Tests Runtime
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+Plugin-Class: org.eclipse.core.tests.runtime.RuntimeTestsPlugin
+
+Name: Plugin_Testing/registry/elementsByContributor/Afragment/fragment
+ .xml
+SHA1-Digest: hbzojGyVvwrAwMWc/4zbX2iwJc4=
+
+Name: Plugin_Testing/registry/multiLang/bundleA/META-INF/MANIFEST.MF
+SHA1-Digest: s8eVaDSyT7HDz1IAiIjlNeUBoHo=
+
+Name: Plugin_Testing/registry/fragmentToNonSingleton/META-INF/MANIFEST
+ .MF
+SHA1-Digest: BZKQKQbESFJR1Xvrw/Cus1lEbfs=
+
+Name: Plugin_Testing/registry/testSimple/RemovalTest.xml
+SHA1-Digest: 9wCoiXWsX87SPiIp2fGDq+4BZaw=
+
+Name: Plugin_Testing/registry/multiLang/fragmentA/fragment.properties
+SHA1-Digest: Z8CZGqqnQbjj4xvws4VoHTNIfkU=
+
+Name: Plugin_Testing/registry/71826/fragmentF/fragment.xml
+SHA1-Digest: EtQyxPf09Jasixjx/dnb7ZV7v2Y=
+
+Name: Plugin_Testing/fileLocator/testFileLocator/intro/messages.proper
+ ties
+SHA1-Digest: Q0zcxQUMeapwb5UBJWwdL7EVURk=
+
+Name: Plugin_Testing/fileLocator/testFileLocator.nl/nl/aa/BB/intro/mes
+ sages.properties
+SHA1-Digest: Q0zcxQUMeapwb5UBJWwdL7EVURk=
+
+Name: Plugin_Testing/registryListener/bundleMultiple/META-INF/MANIFEST
+ .MF
+SHA1-Digest: LzqfY4DMAxcXarxYEaiPpb95jrU=
+
+Name: Plugin_Testing/registry/testSimple/DuplicatePoints1.xml
+SHA1-Digest: TutGuXrV+8Pl2qCjgKCSnLA7h3o=
+
+Name: Plugin_Testing/registry/multiLang/bundleA/plugin_de.properties
+SHA1-Digest: IQAk+jr8yekc3gB2HknPIwaP8cw=
+
+Name: Plugin_Testing/adapters/testAdapter_1.0.0/testAdapter/testUnknow
+ n.class
+SHA1-Digest: S8B6EDlmA2srNl68Skwsq8vnw2w=
+
+Name: Plugin_Testing/registry/errorHandling/good/extension/plugin.xml
+SHA1-Digest: QELivEchvrel2rHMwKsi1llAJ5Y=
+
+Name: testData/preferences/test3/bar
+SHA1-Digest: 8O3Mc2faE/4z/FG9vsGmvNQsY1Y=
+
+Name: Plugin_Testing/registryListener/bundle01/META-INF/MANIFEST.MF
+SHA1-Digest: tmcwEI4Dw9vUOo6G11hUFW1gAsw=
+
+Name: Plugin_Testing/registry/testB/2/plugin.xml
+SHA1-Digest: Ji+pxxFKGr5StSy/XTuPxBb/jUg=
+
+Name: Plugin_Testing/registry/testSimple/Extension.xml
+SHA1-Digest: 55CeKWlxj9bsgmmDMXvBRAp9nKw=
+
+Name: Plugin_Testing/fileLocator/testFileLocator/nl/aa/BB/intro/messag
+ es.properties
+SHA1-Digest: Q0zcxQUMeapwb5UBJWwdL7EVURk=
+
+Name: Plugin_Testing/registry/elementsByContributor/Afragment/META-INF
+ /MANIFEST.MF
+SHA1-Digest: a3qbt/wi+psPlVKf8YSkLIi/GEI=
+
+Name: Plugin_Testing/registry/testSimple/MergeStatic.xml
+SHA1-Digest: F9x/kZoOlMpK/LcdYWCTdo/FenE=
+
+Name: Plugin_Testing/registry/testSimple/DynamicExtension.xml
+SHA1-Digest: eom0OOfJ33EUdsLnUwfL7KTK8qo=
+
+Name: Plugin_Testing/registry/71826/pluginA/plugin.xml
+SHA1-Digest: NAVSTUzi0xdaI4KKXQjxV2P2xX4=
+
+Name: Plugin_Testing/platformURL/platform_test_underscore_2.0.0/test.t
+ xt
+SHA1-Digest: ThJDvSLGbnbCup7dwfkTlOV/n4M=
+
+Name: Plugin_Testing/registry/testH/2/fragment.xml
+SHA1-Digest: Zzin0j45d3WqQzF99PZZ9MoaTbM=
+
+Name: Plugin_Testing/registry/testH/3/plugin.xml
+SHA1-Digest: 1i0AZEq89qYV8ZLyv25andcg3fs=
+
+Name: Plugin_Testing/registry/testStale1/plugin.xml
+SHA1-Digest: uY//ssa8Fm0sUxMxrUt4EOtFQJI=
+
+Name: Plugin_Testing/registry/testI/plugin.xml
+SHA1-Digest: MM037l/G6kbMu7B26DL0GCMH6Xg=
+
+Name: Plugin_Testing/registry/testF/1/plugin.xml
+SHA1-Digest: /X0NMWkPvqaFQz5cyUFURe3JmbM=
+
+Name: Plugin_Testing/adapters/testAdapter_1.0.0/META-INF/MANIFEST.MF
+SHA1-Digest: pEZ6E4LVlZQqbLX0h+BxAPdixlw=
+
+Name: Plugin_Testing/registry/nonSingletonFragment/fragment/fragment.x
+ ml
+SHA1-Digest: OqwInvPKdXjn2PugstQa/Qecd3I=
+
+Name: Plugin_Testing/registry/errorHandling/bad/extension/plugin.xml
+SHA1-Digest: oUgP4lRBzeo20FVbAuIc01TuoBo=
+
+Name: Plugin_Testing/platformURL/platform_test_underscore_2.0.0/META-I
+ NF/MANIFEST.MF
+SHA1-Digest: Vnc9Lvx7FthcNErywqEZ68vi3Sg=
+
+Name: Plugin_Testing/registry/testA/plugin.xml
+SHA1-Digest: ZrBaY4qgAbQWIHuC8aBKhjQkQzA=
+
+Name: Plugin_Testing/registry/multiLang/fragmentA/fragment_la.properti
+ es
+SHA1-Digest: NG5Sr+SxHAIvP/Fqj+8Ky/9nS1w=
+
+Name: Plugin_Testing/adapters/testAdapter_1.0.0/src/testAdapter/testUn
+ known.java
+SHA1-Digest: 8AmdXKWcAnfxYlAPTlh14j2qnP8=
+
+Name: Plugin_Testing/registry/testG/2/fragment.xml
+SHA1-Digest: 0mWLViXUbkFjXRcZRPFIqG3EPVs=
+
+Name: Plugin_Testing/platformURL/platform_test_underscore/META-INF/MAN
+ IFEST.MF
+SHA1-Digest: NhuEZj0EOu0nFtDKvQ2CdLPj6Cs=
+
+Name: Plugin_Testing/registry/testD/2/plugin.xml
+SHA1-Digest: WR4qAEviUEB7dBUNMG1aRMXtn/0=
+
+Name: Plugin_Testing/registry/testC/1/plugin.xml
+SHA1-Digest: /YmbJ2+3CsfwCFBj7/LrcdvRl1w=
+
+Name: Plugin_Testing/registryEvents/bundle02/META-INF/MANIFEST.MF
+SHA1-Digest: DCK9PkgdGjART0HKJzmTCzEKE3A=
+
+Name: Plugin_Testing/registry/testSimple/CERemovalTest.xml
+SHA1-Digest: KHPVHB7o/SilKOqfs7u1e/9SW4o=
+
+Name: Plugin_Testing/fileLocator/testFileLocatorGetRootFile/META-INF/M
+ ANIFEST.MF
+SHA1-Digest: XlEc+JxLkKA9FpR17eJovh6zsDc=
+
+Name: Plugin_Testing/registry/multiLang/fragmentA/fragment.xml
+SHA1-Digest: 31KyfN+NdbobW5sD/W72mxTcTdI=
+
+Name: Plugin_Testing/registry/nonSingletonFragment/fragment/META-INF/M
+ ANIFEST.MF
+SHA1-Digest: eQwE4eM9crl5dJWbfw9TEWSeFt8=
+
+Name: Plugin_Testing/registry/testNamespace/1/plugin.xml
+SHA1-Digest: gakxJv8brKPo9vRdG86861XfuX8=
+
+Name: Plugin_Testing/fileLocator/testFileLocator.nl/nl/aa/intro/messag
+ es.properties
+SHA1-Digest: Q0zcxQUMeapwb5UBJWwdL7EVURk=
+
+Name: Plugin_Testing/platformURL/platform.test.underscore/test.txt
+SHA1-Digest: ThJDvSLGbnbCup7dwfkTlOV/n4M=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: Plugin_Testing/registry/elementsByContributor/A/plugin.xml
+SHA1-Digest: Z0eV2nCWuoLRcSbOI4zNZQ4yq+4=
+
+Name: Plugin_Testing/registry/contributors/B/fragment.xml
+SHA1-Digest: D52hFHqxkrcVfDSbNlFn86+Dgs0=
+
+Name: Plugin_Testing/adapters/testAdapter_1.0.0/plugin.xml
+SHA1-Digest: Gqnr8ZkPOpDzv1A/xzt3V4gckiw=
+
+Name: Plugin_Testing/registry/testF/2/fragment.xml
+SHA1-Digest: 4wvIk01XqEk7lrQ7vbsXqbBgLco=
+
+Name: Plugin_Testing/registry/testH/1/plugin.xml
+SHA1-Digest: 7lHzQ3czmF01IKyQvZ54Bv7IGaU=
+
+Name: Plugin_Testing/registryEvents/bundle01/plugin.xml
+SHA1-Digest: Y6MkpYwBSgbmfabqKnb5PCalMww=
+
+Name: Plugin_Testing/registry/testSimple/ExtensionPoint.xml
+SHA1-Digest: lEy19sbpmijD/4hMdSh4SPk2DP0=
+
+Name: Plugin_Testing/adapters/dynamic/B/META-INF/MANIFEST.MF
+SHA1-Digest: GQlS1K9WQM4igSeSLb0PEOEg7QI=
+
+Name: Plugin_Testing/registry/multiLang/fragmentA/META-INF/MANIFEST.MF
+SHA1-Digest: JpJwYoZUOfXG3YyLHWi7cQjYRlY=
+
+Name: Plugin_Testing/registry/71826/pluginB/plugin.xml
+SHA1-Digest: dTWJTivDv607k7Au8BUWF2icOrE=
+
+Name: Plugin_Testing/registry/testSimple/DuplicatePoints2.xml
+SHA1-Digest: 9g/JLkYc2rVlwzBD3+txKRQ2PwY=
+
+Name: Plugin_Testing/registry/multiLang/bundleA/plugin_fi.properties
+SHA1-Digest: uhVVdXkWjK7M6upyPfp8ug7JRcY=
+
+Name: Plugin_Testing/registryListener/bundle01/plugin.xml
+SHA1-Digest: Y6MkpYwBSgbmfabqKnb5PCalMww=
+
+Name: Plugin_Testing/registry/testE/2/fragment.xml
+SHA1-Digest: 5EYeTbWidttOVoJ4syyH4cKteMY=
+
+Name: Plugin_Testing/fileLocator/testFileLocatorGetRootFile.jar
+SHA1-Digest: YnaQPgdxnSMeG2oMZsCefgt2uZ4=
+
+Name: Plugin_Testing/registry/testStale2/plugin.xml
+SHA1-Digest: 5QtueCHuPZpiXoy3qBvaQJ/6UhU=
+
+Name: Plugin_Testing/adapters/dynamic/A/plugin.xml
+SHA1-Digest: Lmw+INgHeMwjtk80TrEJQyhDwv0=
+
+Name: Plugin_Testing/registry/testE/1/plugin.xml
+SHA1-Digest: Ivu1BkGqoAgy3ukUIxZIWgzv1WA=
+
+Name: Plugin_Testing/registry/contributors/B/META-INF/MANIFEST.MF
+SHA1-Digest: 3O3GvpCp4O9NbFeFgU6jvOmEb3A=
+
+Name: Plugin_Testing/registry/errorHandling/good/point/plugin.xml
+SHA1-Digest: Kzxhz+qjFNF8ZhSWlxm+P86E/Ac=
+
+Name: Plugin_Testing/registry/nonSingleton/plugin.xml
+SHA1-Digest: oc5t+vyXW9sJyo/k+Ma0M/297yU=
+
+Name: Plugin_Testing/registry/multiLang/fragmentA/plugin_it.properties
+SHA1-Digest: H18YiG7xKAKh/qzwbdSd6poscYU=
+
+Name: Plugin_Testing/registry/testSimple/DuplicatePointsSame.xml
+SHA1-Digest: 1DFYLziNBGjPER1tKAC26DCEnqI=
+
+Name: Plugin_Testing/registryListener/bundle02/META-INF/MANIFEST.MF
+SHA1-Digest: EFZ/TnDZp5CVbRzF/6EdNqi6qo4=
+
+Name: Plugin_Testing/registry/contributors/A/plugin.xml
+SHA1-Digest: zZcEnkA9BvGN8dvvh+VDQBa1zpE=
+
+Name: test.xml
+SHA1-Digest: Ouz9fRiD5O+a3TuA3fcsArfNi5g=
+
+Name: Plugin_Testing/registry/testC/2/plugin.xml
+SHA1-Digest: fioDlWgYbu7Ie3+lI8y498PgsWc=
+
+Name: Plugin_Testing/registry/testB/1/plugin.xml
+SHA1-Digest: gAvecYGlG3Hj5myz46osRUjp6Xw=
+
+Name: Plugin_Testing/registryEvents/bundle01/META-INF/MANIFEST.MF
+SHA1-Digest: zVDHMLDXnuk3sYQdgOGLLxFkuBA=
+
+Name: Plugin_Testing/registryListener/bundleMultiple/plugin.xml
+SHA1-Digest: x+pqrXYU7nF2AzqLr4NcI9ITLOI=
+
+Name: Plugin_Testing/registry/testNamespace/2/plugin.xml
+SHA1-Digest: Ul1X7ZvDhgd0bCX4DRE7dh6zrds=
+
+Name: Plugin_Testing/platformURL/platform_test_underscore/test.txt
+SHA1-Digest: ThJDvSLGbnbCup7dwfkTlOV/n4M=
+
+Name: Plugin_Testing/fileLocator/testFileLocator/nl/aa/intro/messages.
+ properties
+SHA1-Digest: Q0zcxQUMeapwb5UBJWwdL7EVURk=
+
+Name: Plugin_Testing/fileLocator/testFileLocator.nl/META-INF/MANIFEST.
+ MF
+SHA1-Digest: i9uIqaAdtnGcc5MFZdFTohR2/2U=
+
+Name: testData/preferences/test3/foo
+SHA1-Digest: LT8iesgHU0hnHXZsByY6A55+sRk=
+
+Name: Plugin_Testing/registry/errorHandling/bad/point/plugin.xml
+SHA1-Digest: KfTUpQufa9liQcLkL66/7IT6vmI=
+
+Name: Plugin_Testing/registry/multiLang/bundleA/plugin.properties
+SHA1-Digest: 1aza7mTorogURJlkGfa4wHyTE1g=
+
+Name: Plugin_Testing/registry/elementsByContributor/B/plugin.xml
+SHA1-Digest: Hod/wYDL17VGlyzxh4i9Gm2svog=
+
+Name: Plugin_Testing/registry/testSimple/MergeDynamic.xml
+SHA1-Digest: mutxiQtdpOJwO8P1kO7NTm8kXT8=
+
+Name: Plugin_Testing/registry/fragmentToNonSingleton/fragment.xml
+SHA1-Digest: OqwInvPKdXjn2PugstQa/Qecd3I=
+
+Name: Plugin_Testing/registryEvents/bundle02/plugin.xml
+SHA1-Digest: xergS+ClpoewKSoVO6nmq1wJZOA=
+
+Name: Plugin_Testing/registry/testG/1/plugin.xml
+SHA1-Digest: q5DLYTgr1QeNIMJd/Fpa/XFEej8=
+
+Name: plugin.xml
+SHA1-Digest: B8/icePDYgFvMzs3FZF9N93DPUU=
+
+Name: Plugin_Testing/adapters/dynamic/A/META-INF/MANIFEST.MF
+SHA1-Digest: 5zM0bprVp/fKMeeocIXYwcW6VCc=
+
+Name: Plugin_Testing/registry/nonSingletonFragment/plugin/META-INF/MAN
+ IFEST.MF
+SHA1-Digest: QUfAhzm/4f4aPolJcpw4yId7NVA=
+
+Name: Plugin_Testing/fileLocator/testFileLocator/META-INF/MANIFEST.MF
+SHA1-Digest: tVlueWABYSKqFrPVNA5DwdwPk9o=
+
+Name: Plugin_Testing/uriutil/test.jar
+SHA1-Digest: 56fch1ABjyxHmuIMmAnSF5GJxFQ=
+
+Name: Plugin_Testing/registry/nonSingleton/META-INF/MANIFEST.MF
+SHA1-Digest: szAuoJ3wcZ1acEhk6cZAsexPTzg=
+
+Name: Plugin_Testing/registryListener/bundle02/plugin.xml
+SHA1-Digest: xergS+ClpoewKSoVO6nmq1wJZOA=
+
+Name: runtimetests.jar
+SHA1-Digest: DafA9Bj5P9aa3DDQhcAjEwOv2jk=
+
+Name: Plugin_Testing/platformURL/platform.test.underscore/META-INF/MAN
+ IFEST.MF
+SHA1-Digest: MGeiY1250WowetPw3KNTgCTbDzQ=
+
+Name: Plugin_Testing/adapters/dynamic/B/plugin.xml
+SHA1-Digest: JcRLyUgK7xtF1YBTh6ZvqtVAUXo=
+
+Name: Plugin_Testing/registry/testSimple/ExecutableExtension.xml
+SHA1-Digest: jqY5D6TupKt77A4qvnwFxlM8mFE=
+
+Name: Plugin_Testing/registry/multiLang/bundleA/plugin.xml
+SHA1-Digest: EHsFCSbjVuPmcy9OtfAU0f2DOZ8=
+
+Name: Plugin_Testing/registry/testD/1/plugin.xml
+SHA1-Digest: kye7i+skT5r51SW1d3W2/Y+Ufis=
+
+Name: Plugin_Testing/compatibility/bundle01/plugin.xml
+SHA1-Digest: /n3aFblU2AFgBvdfpNQBoupmKQE=
+

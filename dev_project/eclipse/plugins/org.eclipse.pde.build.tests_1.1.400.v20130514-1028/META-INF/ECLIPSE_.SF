@@ -1,0 +1,583 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: GnoNPfsMlBzpxT7kVsOWAqxGEzQ=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: szQPMxiUj/bmHjIScEebOXCmIug=
+
+Name: resources/114150/features/a.feature.sdk/feature.xml
+SHA1-Digest: CuCISuDLT9eKwIhKI6Wvu6N20jM=
+
+Name: resources/licenseFeature1/features/L1/feature.properties
+SHA1-Digest: hJD53l6wF+BRElUW6DmT0lErsOw=
+
+Name: resources/309572/plugins/test.flex.root/some/place/build.propert
+ ies
+SHA1-Digest: OM+Edo3N2rBKMdwyHXL5B/ST5ZY=
+
+Name: resources/196159/plugins/Plugin21/build.properties
+SHA1-Digest: b6cNxQrYjZGxys5k6klG4nqESY0=
+
+Name: resources/256787/META-INF/MANIFEST.MF
+SHA1-Digest: TERE0ne1ndnvqEbvN6/KHm4xklc=
+
+Name: resources/keystore/keystore
+SHA1-Digest: Opap3Xi7yJmVZL95ulKfQyYofus=
+
+Name: resources/rootNoRef/features/F1/feature.properties
+SHA1-Digest: p1mg/p1Nzrg6qjUXY1JRojBaTYQ=
+
+Name: resources/208011/plugins/a_1.0.0.jar
+SHA1-Digest: ilr1Kr4KRZegVfhBh56kjLVsRdI=
+
+Name: org/eclipse/pde/build/internal/tests/ScriptGenerationTests$2.cla
+ ss
+SHA1-Digest: Y+1cwCPmoFyBRErEV4+LibB30hk=
+
+Name: resources/264743/build1/features/ee/bin/carbon/macosx/ppc/Eclips
+ e.app/Contents/Info.plist
+SHA1-Digest: 2lNhwKk8VSsB/nDAfeu3EZuSDYA=
+
+Name: resources/metadataGenerator_Bootstrap/Bootstrap.product
+SHA1-Digest: VvjcGYvBfBqgYq+Cd7uJCdId/DI=
+
+Name: org/eclipse/pde/build/internal/tests/AssembleTests.class
+SHA1-Digest: MmaR4/IiL3thjzu1LJHrxRi7SFw=
+
+Name: resources/rootNoRef/features/L1/feature.properties
+SHA1-Digest: mnlwvNhbLqM0N41fPqWJwemfQg8=
+
+Name: resources/repos/1/content.xml
+SHA1-Digest: 54Gtx3/BOlvi4gPq2i9oRDk6Du0=
+
+Name: resources/208011/plugins/B/META-INF/MANIFEST.MF
+SHA1-Digest: 1LjstjyJeW2awUv+8y3ep7fbqMI=
+
+Name: resources/264743/build1/features/ee/bin/gtk/linux/x86/libcairo-s
+ wt.so
+SHA1-Digest: VGh9fWZeWgtKzc1Ig75jDZbwjd0=
+
+Name: resources/emptyLicenseTests/features/F1/noLicenseURLFeature.xml
+SHA1-Digest: VnloN2i2IVOKKX6WIA9Ci8um7cM=
+
+Name: resources/licenseFeature1/features/L1/feature_fr.properties
+SHA1-Digest: rffPqczxAwnm2Rglf7VxSzpypyo=
+
+Name: resources/248767/build2/plugins/B/src/b/Activator.java
+SHA1-Digest: 9LzX+MQLNSEOd/1Y1AS2NiejHss=
+
+Name: org/eclipse/pde/build/internal/tests/ScriptGenerationTests$TestQ
+ ualifierDirector.class
+SHA1-Digest: 8w2giP7Fg2wSmKhO/6ypqSlw0fs=
+
+Name: resources/174194/testbuild.xml
+SHA1-Digest: C5TMEfrRv350FZoGlaukJRXka6Q=
+
+Name: resources/114150/plugins/a.plugin/about.html
+SHA1-Digest: 53pDrLVbwKY5xa2rnU5wls9i5/A=
+
+Name: resources/repos/1/plugins/aBundle_1.0.0.jar
+SHA1-Digest: A2iz82yIeQeFkzBFANMutwujoUc=
+
+Name: resources/264743/build1/features/ee/license.html
+SHA1-Digest: tOZr78eS/L0st5j6O+SHgwtuKWk=
+
+Name: resources/248767/build2/plugins/B/META-INF/MANIFEST.MF
+SHA1-Digest: qfz6DXchAPb8vsT1O5TRtXN0S2U=
+
+Name: resources/114150/plugins/a.plugin/build.properties
+SHA1-Digest: D+0J59AbkYsDgMc+15RM1E26ZmQ=
+
+Name: resources/114150/plugins/a.plugin/src/a/plugin/Activator.java
+SHA1-Digest: m2FF951YZMNdihKAkGun78PtVT0=
+
+Name: resources/emptyLicenseTests/features/F1/nonEmptyLicenseDescFeatu
+ re.xml
+SHA1-Digest: s1fvX33QTGinb9dTr/46+pahCpM=
+
+Name: resources/196159/plugins/Plugin21/plugin.xml
+SHA1-Digest: baMs8ZrT1P8yz/0khTFPLgKOil4=
+
+Name: resources/repos/1/plugins/aBundle.win32_1.0.0.jar
+SHA1-Digest: O78j744QWqKJG8mskunfOledIXM=
+
+Name: resources/237922/rcp/rcp.product
+SHA1-Digest: iho8xD9yUfeSKznijvUucQLbDqc=
+
+Name: resources/licenseFeature1/features/F1/feature.xml
+SHA1-Digest: X+NHo6ydalCndUhojQPGPOH5pEc=
+
+Name: resources/264743/build1/features/ee/bin/carbon/macosx/ppc/Eclips
+ e.app/Contents/MacOS/eclipse
+SHA1-Digest: cCNVI/buYDkro0dZFG7hWJEMb68=
+
+Name: resources/248767/build1/plugins/A/.project
+SHA1-Digest: U3OxEopRgOBWeGkk2o88PiZQxoo=
+
+Name: resources/218878/win32/config.ini
+SHA1-Digest: +TEYXrARdfcddgNz7jziXwfRnjA=
+
+Name: resources/emptyLicenseTests/features/L1/nonEmptyLicenseDescFeatu
+ re.xml
+SHA1-Digest: HETCDUDwcKkZ+lSIot2i1PZL/LY=
+
+Name: org/eclipse/pde/build/tests/BuildConfiguration.class
+SHA1-Digest: ZARHrrYebSyX4opStZ5xmx7Aqu8=
+
+Name: resources/192127/plugins/rcp/src/rcp/Application.java
+SHA1-Digest: A93zKaL71Eo3dw08m8l1QwOgelw=
+
+Name: resources/emptyLicenseTests/features/F1/nonEmptyLicenseURLFeatur
+ e.xml
+SHA1-Digest: OxwnX23SpvDUV4mlCQPMqxMcS0k=
+
+Name: resources/p2.get/directory.txt.template
+SHA1-Digest: CBH/47T3xE/EPVsupjAiR2ro6xg=
+
+Name: resources/p2.SimpleProduct/plugins/test/plugin.xml
+SHA1-Digest: QA8eT3NVF6rmopAmoABfgidwFS0=
+
+Name: resources/rootNoRef/features/L1/root.html
+SHA1-Digest: rg7EJevGa4lp2FdsLdwrrRQNMpM=
+
+Name: resources/emptyLicenseTests/features/L1/emptyLicenseDescFeature.
+ xml
+SHA1-Digest: KMCKvu5jf6IznvM8cSSxO1tCmOg=
+
+Name: org/eclipse/pde/build/internal/tests/ScriptGenerationTests$1$MyB
+ uildScriptGenerator.class
+SHA1-Digest: HnN3mMUb4PWx50j2gBjR7iVCpP8=
+
+Name: resources/264743/build1/features/ee/bin/gtk/linux/x86/icon.xpm
+SHA1-Digest: Q7MO/aYy6q2JfoGzWvx+So8GAXE=
+
+Name: resources/248767/build2/plugins/B/build.properties
+SHA1-Digest: W/Ug+oMGwYEF+Mxj5ok1QMZHZcU=
+
+Name: resources/234032/test.product
+SHA1-Digest: Gc/8lVOBMOVUBzKs6twBb8Ovjp4=
+
+Name: resources/183869/features/a.feature/feature.xml
+SHA1-Digest: 0JM9mtxYN1BFoBN0MtLWp6KgrkE=
+
+Name: resources/114150/features/a.feature/build.properties
+SHA1-Digest: cHuGy6+y1J7OzxQ5cN0GSLPx3ak=
+
+Name: resources/licenseFeature1/features/F1/build.properties
+SHA1-Digest: mC2u3gAgombq3nfb6iKnSYtS1u4=
+
+Name: resources/184920/features/a.feature/feature.xml
+SHA1-Digest: wOiJUX0kaVc+l+K/UCVdWpWDb9U=
+
+Name: resources/264743/build1/features/ee/target.build.properties
+SHA1-Digest: eQrJu4vB8biSkEKmaFzyw2n1oJc=
+
+Name: resources/174194/directory.txt
+SHA1-Digest: fFharZC2RY2W1uonIohOMVQFMHU=
+
+Name: resources/192127/plugins/rcp/rcp.product
+SHA1-Digest: 37fNGnz0ALkdYGzdQ4AtW0jVJmk=
+
+Name: resources/192127/features/org.eclipse.pde.build.container.featur
+ e/temp/.eclipseproduct
+SHA1-Digest: y58Yj51+1rRdM6g6NHokUEK+Pss=
+
+Name: resources/customAssembly/customAssembly.xml
+SHA1-Digest: 98DxMbBOIMw7Tl8tCq+PmqjQAqc=
+
+Name: resources/rootNoRef/features/F1/build.properties
+SHA1-Digest: d6L7DRGTA3t3hRQ35oOrnrI/78o=
+
+Name: resources/rootNoRef/features/L1/license_fr.html
+SHA1-Digest: MNxaowt65GFtdQT8lVf5JzTlpKU=
+
+Name: resources/237922/rcp/plugin.xml
+SHA1-Digest: JC2BDBbNOLEhJGNYfP1laeJhk68=
+
+Name: org/eclipse/pde/build/tests/PDEBuildTestSuite.class
+SHA1-Digest: ObO/sCaE5uVxlri9WvXjXKd0Y9I=
+
+Name: resources/179612_custom/allElements.xml
+SHA1-Digest: X+rQlw94k6MqVtpjgUiy++fzRHE=
+
+Name: resources/183869/features/a.feature/build.properties
+SHA1-Digest: VleFX2vP5cKREfdHk6wOydUlPTA=
+
+Name: resources/rootNoRef/features/L1/feature.xml
+SHA1-Digest: Vw0swL4XltGc9Z8ZJm9CboJ3bnU=
+
+Name: resources/192127/features/org.eclipse.pde.build.container.featur
+ e/temp/configuration/config.ini
+SHA1-Digest: AKTD2YHnczGJ9wvn3EnxL/KLqrI=
+
+Name: org/eclipse/pde/build/tests/Activator.class
+SHA1-Digest: Arw+A5yqMXmT2+mHuN/upD32HAk=
+
+Name: resources/309572/plugins/test.flex.root/some/place/plugin.proper
+ ties
+SHA1-Digest: iZZ/EAcS9HTlIbI76igkX9jAKzI=
+
+Name: resources/218878/acme.product
+SHA1-Digest: vphz/W82Pn2XeZyzOwPWsJr4u48=
+
+Name: resources/248767/build1/plugins/A/plugin.xml
+SHA1-Digest: 6U9t48c6hSKLbYkEzpw8BWHCPNE=
+
+Name: resources/264743/build1/features/ee/customBuildCallbacks.xml
+SHA1-Digest: e+qdWuWM7ISh7zVO7Cx57ympm+g=
+
+Name: resources/264743/build1/features/ee/target.build.xml
+SHA1-Digest: Mw5ihGEPnI2L5u/pD9VQ5KI80xs=
+
+Name: resources/183869/plugins/a.plugin/callbacks/customBuildCallbacks
+ .xml
+SHA1-Digest: 05SnnMEZWbNuBgEaAsa55RQH7xw=
+
+Name: resources/264743/build1/features/ee/gtk_root/about_files/mpl-v11
+ .txt
+SHA1-Digest: f8v9G4/KUTXcDLNrTbMlgKq/1Ak=
+
+Name: org/eclipse/pde/build/internal/tests/p2/LicenseTests.class
+SHA1-Digest: uAHtAamMtVV88pFZCnVtH8KpAfg=
+
+Name: resources/309572/plugins/test.flex.root/some/place/plugin.xml
+SHA1-Digest: kP5qJWV22SbtiRWW6JbdJSMz/Vc=
+
+Name: resources/emptyLicenseTests/features/L1/nonEmptyLicenseURLFeatur
+ e.xml
+SHA1-Digest: 9mpR4Vei1eaNzOIfmhy+Tzmyszk=
+
+Name: resources/p2.SimpleProduct/plugins/test/test.product
+SHA1-Digest: vb0gZDDzgbtDSaZ1yUsb4Wv4POA=
+
+Name: resources/264743/build1/features/ee/gtk_root/about.html
+SHA1-Digest: z6GmSP0Y7pW/39D78foIZ7MrINQ=
+
+Name: org/eclipse/pde/build/internal/tests/ant/TestBrandTask.class
+SHA1-Digest: UcdPXNljRmmSK5n4Gk8iZ2la/5k=
+
+Name: resources/184920/features/a.feature/build.properties
+SHA1-Digest: LW+4LWo/rMXgUI0b5HmImoeipV4=
+
+Name: resources/emptyLicenseTests/features/F1/build.properties
+SHA1-Digest: qAoG39z5Hswknw0xLD8IDpsHNTs=
+
+Name: resources/309572/plugins/test.flex.root/some/place/META-INF/MANI
+ FEST.MF
+SHA1-Digest: CpwVgRCBXJ77UnUid0N00EBQiTk=
+
+Name: resources/183924/platform.xml
+SHA1-Digest: 56CbV9JEffgjrLXYkNyRvzojdNw=
+
+Name: resources/114150/features/a.feature.sdk/build.properties
+SHA1-Digest: y3s2lw4IpU1rVt6vTgeWpOxiQXI=
+
+Name: resources/p2.SimpleProduct/plugins/test/src/test/Application.jav
+ a
+SHA1-Digest: gjABR/NqJa2FVOoYvfL5p4wBZu8=
+
+Name: resources/264743/build1/features/ee/gtk_root/about_files/pixman-
+ licenses.txt
+SHA1-Digest: p/KwL7U5bKNBVy8Brz7b2M8gTEQ=
+
+Name: resources/emptyLicenseTests/features/F1/emptyLicenseDescFeature.
+ xml
+SHA1-Digest: 0M07DLDXWNT91TLV0niSFO78Zk8=
+
+Name: resources/p2.SimpleProduct/plugins/test/META-INF/MANIFEST.MF
+SHA1-Digest: HEZC6NkJO9KLx5KtCY2r6C+hrF0=
+
+Name: resources/309572/plugins/test.flex.root/src/my/view/Activator.ja
+ va
+SHA1-Digest: rLiVgiaWBvWhXESDaenNvfur8m8=
+
+Name: resources/114150/plugins/a.plugin/build.xml
+SHA1-Digest: 5o1uDJJ5mdAhTT4UxIHypVpNts4=
+
+Name: resources/208011/plugins/c_1.0.0.jar
+SHA1-Digest: NAVhbkKZuOvWsFQm8n9EXAKVq4g=
+
+Name: resources/rootNoRef/features/L1/feature_fr.properties
+SHA1-Digest: a8zR0LavigXyGjM01jupmQMOP4k=
+
+Name: org/eclipse/pde/build/internal/tests/p2/P2TestCase.class
+SHA1-Digest: 8UlbotDVWrgbwfxiLqtfqIkVMiI=
+
+Name: resources/p2.SimpleProduct/plugins/test/build.properties
+SHA1-Digest: quRGr6McvKq+ZrlRWEN+YeNq8SY=
+
+Name: resources/184920/features/a.feature.sdk/feature.xml
+SHA1-Digest: GkHPT4fA4iCn2Gu16fRG1Sx4xu0=
+
+Name: resources/171869/features/org.eclipse.pde.build.container.featur
+ e/feature.xml
+SHA1-Digest: z9yVKMxNjJ9BdIf2STkmWlT/RBE=
+
+Name: resources/264743/build1/features/ee/gtk_root/about_files/about_c
+ airo.html
+SHA1-Digest: MKdax/0MrJUcPJtovR/AH6NbFfk=
+
+Name: resources/keystore/readme.txt
+SHA1-Digest: pBXseNdpa9/NNK0w4bPAzqR/Qs4=
+
+Name: resources/237922/rcp/META-INF/MANIFEST.MF
+SHA1-Digest: sTtFOfPT11mpn/DArs5612xqFwE=
+
+Name: resources/264743/build1/features/ee/feature.properties
+SHA1-Digest: rG8rZBY5DpQ7ZGCCtHA0z1OW6d8=
+
+Name: resources/114150/plugins/a.plugin/META-INF/MANIFEST.MF
+SHA1-Digest: t+oMZ9dOthBNcuel5HDAnVD4+sM=
+
+Name: resources/309572/plugins/test.flex.root/.settings/org.eclipse.jd
+ t.core.prefs
+SHA1-Digest: r+bWuG2UUUJ174ep0ydekjGNyRw=
+
+Name: org/eclipse/pde/build/internal/tests/p2/PublishingTests.class
+SHA1-Digest: 2ibzmCUJuVhNU3m9JnjCjU/XmUM=
+
+Name: resources/171869/directory.txt
+SHA1-Digest: vg+NSLC1kOP8VBwCy3TrbWAbRq0=
+
+Name: resources/309572/plugins/test.flex.root/some/place/contexts.xml
+SHA1-Digest: E2nWXd6xRDTz5Tuxt6kHHD/QznA=
+
+Name: resources/264743/build1/features/ee/build.properties
+SHA1-Digest: EpgKTmpVPzU7FIiso4d6fLEMPuM=
+
+Name: resources/208011/plugins/B/build.properties
+SHA1-Digest: hRvH9a42yykTP3pyKHFrV1fzhJA=
+
+Name: resources/248767/build1/plugins/A/src/a/Application.java
+SHA1-Digest: Dn4jzhB2phu6TrblTa61wavRHfs=
+
+Name: org/eclipse/pde/build/internal/tests/SourceTests.class
+SHA1-Digest: NJSE/CeGqNBRAU3ajzbG5bcZGkQ=
+
+Name: resources/rootNoRef/features/F1/feature.xml
+SHA1-Digest: KQeAO/R3os2eWbjK0Hh/Vnt07ng=
+
+Name: resources/171869/features/org.eclipse.pde.build.container.featur
+ e/build.properties
+SHA1-Digest: K/IbTlKvGWB4Uypp81PvfuJP/FQ=
+
+Name: resources/184920/features/a.feature.sdk/build.properties
+SHA1-Digest: t0aTNcDXE3/quHwi04fhLhMey3s=
+
+Name: resources/237922/rcp/icons/mail.ico
+SHA1-Digest: pn33agGcWwipwlVtfWLRGEefVFg=
+
+Name: resources/237922/rcp/build.properties
+SHA1-Digest: nJ7IKQqdE2WVgYOoc7L8rEju+i4=
+
+Name: org/eclipse/pde/build/internal/tests/p2/PublishingTests$1.class
+SHA1-Digest: r112o8GHQe4yMVd4N86HLSUXKVU=
+
+Name: resources/264743/build1/features/ee/bin/carbon/macosx/ppc/Eclips
+ e.app/Contents/MacOS/eclipse.ini
+SHA1-Digest: ILX82U2gxshHCwjaSw1ffiMqEkw=
+
+Name: resources/237922/rcp/src/rcp/Activator.java
+SHA1-Digest: 8Uq9+3UuM6ESgrMZnYK3OWjORvk=
+
+Name: resources/248767/build1/plugins/A/META-INF/MANIFEST.MF
+SHA1-Digest: +mgJC+Npw3/T7LIs58z8xNQqqwU=
+
+Name: resources/196159/plugins/Plugin21/src/Plugin21/Plugin21Plugin.ja
+ va
+SHA1-Digest: ne+1wd191J8B29XAAm3wyLBIjfA=
+
+Name: org/eclipse/pde/build/internal/tests/ant/AntUtils.class
+SHA1-Digest: vRimW3YjI+qcTVsyag30GiAB/8I=
+
+Name: resources/264743/build1/features/ee/bin/carbon/macosx/ppc/Eclips
+ e.app/Contents/Resources/Eclipse.icns
+SHA1-Digest: sESnnH6BjgF/V0RenmyCgK7fQdc=
+
+Name: resources/248767/build2/plugins/B/.project
+SHA1-Digest: qZUHSq+ygxf9rzNKGFyXdIk+JyQ=
+
+Name: resources/264743/build1/features/ee/bin/gtk/linux/x86/eclipse
+SHA1-Digest: akeOFSFEXypg3LxPOqH4Vu8aQ+A=
+
+Name: resources/264743/build1/features/ee/bin/win32/win32/x86/eclipsec
+ .exe
+SHA1-Digest: 7p15z7hKuMC0n2M5PvL85lNKLa0=
+
+Name: resources/248767/build2/plugins/B/.classpath
+SHA1-Digest: +a0T1HUrFypwNpzH8UogFzAjTDg=
+
+Name: resources/114150/features/a.feature/feature.xml
+SHA1-Digest: do9cjkOQjSGZf/Bjcb22xHXcQnA=
+
+Name: resources/248767/build1/plugins/A/.classpath
+SHA1-Digest: RXh+WGXtHq4ykZG9A3j0D7qG5Zc=
+
+Name: resources/repos/1/plugins/aDirectoryBundle_1.0.0.jar
+SHA1-Digest: V97pYbf9oU0OJG+2sYK/ryd19XQ=
+
+Name: org/eclipse/pde/build/internal/tests/p2/P2Tests$1.class
+SHA1-Digest: Br07gdP6w22ASdpkNo80ljx1rOw=
+
+Name: org/eclipse/pde/build/internal/tests/ProductTests$1.class
+SHA1-Digest: ndS2WOcOdKxfBhfiYxQEuwpQY4w=
+
+Name: resources/248767/build1/plugins/A/build.properties
+SHA1-Digest: YPdsoN03T5+h/P0pXpAsN2Uwf9A=
+
+Name: resources/309572/plugins/test.flex.root/src/my/view/views/Sample
+ View.java
+SHA1-Digest: J/St6egVHycxQ1hqlbLyiG6t5To=
+
+Name: resources/192127/plugins/rcp/META-INF/MANIFEST.MF
+SHA1-Digest: G3004DG+h2ajWWmYnzk/C8kv4s0=
+
+Name: test.xml
+SHA1-Digest: 8RGer2hBj1zpZ2TudT9owKEOZB8=
+
+Name: org/eclipse/pde/build/tests/PDETestCase.class
+SHA1-Digest: QRS7QXmMd1F9hVyHpWDG2Rg2jUU=
+
+Name: resources/183869/features/a.feature/callbacks/customBuildCallbac
+ ks.xml
+SHA1-Digest: u+g5HenrRfgCjWnnJtHpvOnQ+QY=
+
+Name: org/eclipse/pde/build/internal/tests/FetchTests.class
+SHA1-Digest: KvYdHiss3VifJb5AKZUkhoeD5hM=
+
+Name: resources/309572/plugins/test.flex.root/.settings/org.eclipse.pd
+ e.core.prefs
+SHA1-Digest: +jV4YucUDg5fnHC09h7q9AOAQpg=
+
+Name: resources/licenseFeature1/features/L1/root.html
+SHA1-Digest: EEi4fY6lbYHZG8Nsfm+7g5uCu14=
+
+Name: resources/emptyLicenseTests/features/F1/emptyLicenseURLFeature.x
+ ml
+SHA1-Digest: q9XnxNXMIx3hDJLpEoJrIyiv2uY=
+
+Name: resources/248767/build1/plugins/A/library/a/Activator.java
+SHA1-Digest: /i7Kud7jvV0epP8+sYrAbF+6vUA=
+
+Name: org/eclipse/pde/build/internal/tests/ScriptGenerationTests$1.cla
+ ss
+SHA1-Digest: meFS7XOw9L4z1PyGKeuTU+Os0nw=
+
+Name: resources/192127/features/org.eclipse.pde.build.container.featur
+ e/temp/Eclipse.app/Contents/MacOS/rcp.ini
+SHA1-Digest: e3KFQf0jgm2Wv7Q6aOewzsNaPtM=
+
+Name: resources/licenseFeature1/features/L1/build.properties
+SHA1-Digest: ScpqCSi3wWVwQwfrh3jVWnOGMaI=
+
+Name: resources/emptyLicenseTests/features/L1/emptyLicenseURLFeature.x
+ ml
+SHA1-Digest: UeCzSFUadhmC6Nfp/1ymUNJzZdQ=
+
+Name: resources/192127/plugins/rcp/build.properties
+SHA1-Digest: KOz0bx9dU8Nt3xT/zPXq06ChXbc=
+
+Name: resources/emptyLicenseTests/features/L1/noLicenseURLFeature.xml
+SHA1-Digest: nOUXYNt9EEPh8DWEZXExi8SObe4=
+
+Name: org/eclipse/pde/build/internal/tests/Utils.class
+SHA1-Digest: tRLDzCQMzd5skcM9p+cINGUQTwc=
+
+Name: resources/licenseFeature1/features/L1/license.html
+SHA1-Digest: lgPgNzyDYcUaD5k377sF+GrX20Q=
+
+Name: resources/p2.SimpleProduct/plugins/test/src/test/Activator.java
+SHA1-Digest: 90VWbiQkQ2KYoxprOjDPa8A79Nk=
+
+Name: resources/rootNoRef/features/L1/build.properties
+SHA1-Digest: fBciLAc8VuTnTsjiyP5/cy/AyI4=
+
+Name: resources/218878/linux/config.ini
+SHA1-Digest: DbW4jQHk9knsYdiWuCQxzapBe2Q=
+
+Name: resources/rootNoRef/features/L1/license.html
+SHA1-Digest: +Ube6Q0j/XTiou9DedMUu/02Tr8=
+
+Name: org/eclipse/pde/build/internal/tests/Utils$1.class
+SHA1-Digest: 1JnXV204Oqi82xLP1mI4f5FBDtQ=
+
+Name: resources/licenseFeature1/features/L1/license_fr.html
+SHA1-Digest: Fm/yTjWh7t6Z3FH42yWZ0JQKcSw=
+
+Name: resources/309572/plugins/test.flex.root/.project
+SHA1-Digest: O3p1Y5xrKI8Dzgi+xGza28kVL3g=
+
+Name: resources/309572/plugins/test.flex.root/.classpath
+SHA1-Digest: U8OWiTmfV37H7zI0ZK41i74RJAk=
+
+Name: resources/309572/plugins/test.flex.root/some/place/icons/sample.
+ gif
+SHA1-Digest: OzkhsoO2ravq/5oa+vS/CNUTCXk=
+
+Name: org/eclipse/pde/build/internal/tests/p2/PublishingTests$2.class
+SHA1-Digest: +q5uM212i6CODGut6zeiETBjCeM=
+
+Name: org/eclipse/pde/build/internal/tests/p2/P2Tests.class
+SHA1-Digest: C+AheV5DvMZsaA/uciaNjXZMul4=
+
+Name: org/eclipse/pde/build/internal/tests/ProductTests.class
+SHA1-Digest: Z0HFD0tsFMWvGf9nZ6jJb0YfwOg=
+
+Name: resources/licenseFeature1/features/L1/feature.xml
+SHA1-Digest: llu+MEk6Tn1K9ChjNkyUwGYhdcA=
+
+Name: resources/183869/plugins/a.plugin/META-INF/MANIFEST.MF
+SHA1-Digest: cXRkp0qbItpbNjQ33S0KMGnncrs=
+
+Name: org/eclipse/pde/build/tests/P2TestSuite.class
+SHA1-Digest: +kK9kgiUjBWHx4xeckuaUqIZ0ZQ=
+
+Name: resources/repos/1/features/aFeature_1.0.0.jar
+SHA1-Digest: JQb52LLwNe1WAgccMDg5Qd4jWK0=
+
+Name: resources/repos/1/artifacts.xml
+SHA1-Digest: tOam0BXBbE3i72Dl4WcgUL+hXFI=
+
+Name: resources/p2.get/features/org.eclipse.pde.build.container.featur
+ e/feature.xml
+SHA1-Digest: /gRYh7cTEDrSLliwXZJSj5kZgm0=
+
+Name: resources/114150/allElements.xml
+SHA1-Digest: 4eF0tOmD53dQSVWpWeLGix2p46k=
+
+Name: resources/192127/plugins/rcp/plugin.xml
+SHA1-Digest: 2PpjL3cnCWjUPVijeYSyo1omJqQ=
+
+Name: resources/183869/plugins/a.plugin/src/a/plugin/Activator.java
+SHA1-Digest: Gr1oE0WnIkvm3rfDxMgfSy5IE6Y=
+
+Name: resources/264743/build1/features/ee/feature.xml
+SHA1-Digest: 8bs+qG99S6BA81skOrR2lcSRSZE=
+
+Name: resources/allElements.xml
+SHA1-Digest: oDWfyfrkeg6fe8Fh5tEewVff4+U=
+
+Name: resources/emptyLicenseTests/features/L1/build.properties
+SHA1-Digest: KxDuTLsEnvmbKA9aeD81ReiMnK8=
+
+Name: org/eclipse/pde/build/internal/tests/ProductTests$2.class
+SHA1-Digest: LhtZQOF4iB2oyDFVfkbwrpydDpo=
+
+Name: resources/264743/build1/features/ee/bin/win32/win32/x86/eclipse.
+ exe
+SHA1-Digest: q3wsa38ckH1SkMfzCObQ7vzvjfk=
+
+Name: org/eclipse/pde/build/internal/tests/ScriptGenerationTests.class
+SHA1-Digest: pE7yoN2XMhTZdmMKDwdoM6JfrZM=
+
+Name: resources/licenseFeature1/features/F1/feature.properties
+SHA1-Digest: C9Kx+/FOkVn9ngAPoU4fN7ortrc=
+
+Name: resources/183869/plugins/a.plugin/build.properties
+SHA1-Digest: NuqN80+hnKo3gpduidWcCOOBwqk=
+
+Name: resources/p2.get/features/org.eclipse.pde.build.container.featur
+ e/build.properties
+SHA1-Digest: Sdhnc3KgUgWTlJ+X6czF54OTKZY=
+
+Name: resources/208011/plugins/B/src/b/Activator.java
+SHA1-Digest: B2xZztTPEpuJkOB82g669Qa/zao=
+

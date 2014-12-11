@@ -1,0 +1,61 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.jdt.apt.tests; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/jdt/ec
+ lipse.jdt.core.git;path="org.eclipse.jdt.apt.tests";tag="M20131127-08
+ 00";commitId=f993e6f03cae8a4c4022c36ffb3938e24a284798
+Bundle-Activator: org.eclipse.jdt.apt.tests.plugin.AptTestsPlugin
+Require-Bundle: org.junit,org.eclipse.jdt.apt.core,org.eclipse.jdt.cor
+ e,org.eclipse.jdt.core.tests.builder,org.eclipse.jdt.core.tests.compi
+ ler,org.eclipse.jdt.core.tests.model,org.eclipse.core.resources,org.e
+ clipse.core.runtime,org.eclipse.test.performance,org.eclipse.jdt.core
+ .tests.binaries;bundle-version="1.0.0"
+Bundle-Version: 3.3.500.v20131120-1433
+Export-Package: org.eclipse.jdt.apt.tests,org.eclipse.jdt.apt.tests.an
+ notations,org.eclipse.jdt.apt.tests.annotations.apitest,org.eclipse.j
+ dt.apt.tests.annotations.aptrounding,org.eclipse.jdt.apt.tests.annota
+ tions.exceptionhandling,org.eclipse.jdt.apt.tests.annotations.extrade
+ pendency,org.eclipse.jdt.apt.tests.annotations.filegen,org.eclipse.jd
+ t.apt.tests.annotations.generic,org.eclipse.jdt.apt.tests.annotations
+ .helloworld,org.eclipse.jdt.apt.tests.annotations.messager,org.eclips
+ e.jdt.apt.tests.annotations.mirrortest,org.eclipse.jdt.apt.tests.anno
+ tations.nestedhelloworld,org.eclipse.jdt.apt.tests.annotations.noop,o
+ rg.eclipse.jdt.apt.tests.annotations.readAnnotationType,org.eclipse.j
+ dt.apt.tests.annotations.readannotation,org.eclipse.jdt.apt.tests.ann
+ otations.valueconversion,org.eclipse.jdt.apt.tests.external.annotatio
+ ns.batch,org.eclipse.jdt.apt.tests.external.annotations.classloader,o
+ rg.eclipse.jdt.apt.tests.external.annotations.loadertest,org.eclipse.
+ jdt.apt.tests.jdtcoretests,org.eclipse.jdt.apt.tests.plugin
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: apt.jar,aptext.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: apt.jar
+SHA1-Digest: rLApUa/lHdRgd43fKn4ZeZgngTE=
+
+Name: aptext.jar
+SHA1-Digest: nxRoao4bVmC2facJdVu2bscaFkA=
+
+Name: test.xml
+SHA1-Digest: zlnsNkGuQULZojf8eLYfqmtI0EA=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.xml
+SHA1-Digest: EwuJPBVk9x+S309ajZOaE9FHg7M=
+
+Name: resources/question.jar
+SHA1-Digest: ieGnehmHWbQEXsddCEHTTDreJ1Q=
+
+Name: plugin.properties
+SHA1-Digest: np/HUEBN/15QeS/e2ugblbE+oek=
+

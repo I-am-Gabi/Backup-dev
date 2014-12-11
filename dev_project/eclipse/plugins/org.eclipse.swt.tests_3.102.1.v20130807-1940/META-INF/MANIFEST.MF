@@ -1,0 +1,110 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.swt.tests
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.swt.git;path="tests/org.eclipse.swt.tests";tag="M
+ 20130814-0800";commitId=9e1e1310d824bf99e5f3c1ff03090123f33905c9
+Require-Bundle: org.junit,org.eclipse.swt,org.eclipse.test.performance
+Bundle-Version: 3.102.1.v20130807-1940
+Export-Package: org.eclipse.swt.tests.junit,org.eclipse.swt.tests.juni
+ t.browser,org.eclipse.swt.tests.junit.performance
+Bundle-ClassPath: swttests.jar
+Build-Jdk: 1.7.0_25
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: data/browser9.html
+SHA1-Digest: OW8fKdgmSyN6d3wigCEo0lOM7HE=
+
+Name: data/browser7.html
+SHA1-Digest: m7f+zhvvVsfd38N09UdSGDQz0qQ=
+
+Name: data/browser5.html
+SHA1-Digest: XYLLtY6Dj+Xy2jyK94a2ifHoLjY=
+
+Name: data/target.jpg
+SHA1-Digest: wWKo3x4totbbs1PSW3vGliAhzI4=
+
+Name: data/browser3.html
+SHA1-Digest: ZOfnW/BaNRZiKy1vd8zbAEqbdNs=
+
+Name: data/folder.gif
+SHA1-Digest: l7fvP7jGOQOJROf+PtQfvRVEgPE=
+
+Name: data/folder.bmp
+SHA1-Digest: uKbfsx0zGGEEVXMVyGTLlNBmWb4=
+
+Name: plugin.properties
+SHA1-Digest: W9CQc3MeA8oP0EkhmvtpvWp14EA=
+
+Name: data/corruptBadBitDepth.png
+SHA1-Digest: lzA0jlrdsluZyKcBSgKWQmWv0Jc=
+
+Name: data/folderOpen.jpg
+SHA1-Digest: ThC+3w4iJlevhIWVo3woveQeGok=
+
+Name: data/target.png
+SHA1-Digest: twL5ZjJba9Mr57jH4Q0bggc8TMQ=
+
+Name: data/folderOpen.png
+SHA1-Digest: YOmVdihLYF/Q+xrk28QtwRTqJ4E=
+
+Name: data/corrupt.jpg
+SHA1-Digest: o/8WOFvqHUU0nqEc4j5PM3t9TdU=
+
+Name: data/corrupt.png
+SHA1-Digest: w1gXHTBbrFK3IlP0gq+1lIlyihc=
+
+Name: data/browser6.html
+SHA1-Digest: 8m+yNGw1H5kTMMWnyPLhyLqx7bU=
+
+Name: data/folder.jpg
+SHA1-Digest: 4TdaSOtjPTj+t+D86Zg36ZF+84c=
+
+Name: data/transparent.png
+SHA1-Digest: /cBQm/8dMWF6QRjEErcAZRRwDdc=
+
+Name: data/browser4.html
+SHA1-Digest: xO8NPykx+8dGvqdQSJXJhw2GRa4=
+
+Name: data/browser4a.html
+SHA1-Digest: C21V7Lm5UMqLQIIgPalkYaSslJ8=
+
+Name: data/empty.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: data/target.gif
+SHA1-Digest: 26KWxXA2TwRmZ8FmzblkUrA9WD8=
+
+Name: data/target.bmp
+SHA1-Digest: 1wYS31LA8XfU6GUgdiHbjCoZaWo=
+
+Name: data/folder.png
+SHA1-Digest: dhUw9seq3GMLHAy0/AR+l6LjbHg=
+
+Name: data/folderOpen.gif
+SHA1-Digest: M7HQSCSba+d3ZG0UH82uHdMu8mw=
+
+Name: data/folderOpen.bmp
+SHA1-Digest: m3zdgwBVlzRWQt+j7SzpXTWLyts=
+
+Name: test.xml
+SHA1-Digest: Bb9NmaNbux42NOcw0knDshgtfQU=
+
+Name: swttests.jar
+SHA1-Digest: MLDJ254gmgBhv0UfJiUO0E62LxM=
+
+Name: data/corrupt.gif
+SHA1-Digest: ct0atUfORfxhfmvRMR6jlg6NjGM=
+
+Name: data/corrupt.bmp
+SHA1-Digest: FXbGjIbk91ttle5Ln8VyGJDMjpc=
+

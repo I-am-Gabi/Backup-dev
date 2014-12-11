@@ -1,0 +1,78 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.core.tests.resources; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.resources.git;path="tests/org.eclipse.core.tests.
+ resources";tag="I20130521-2000";commitId=b7c8b94cc7d9b5d345adbb10342d
+ 624f1b905473
+Bundle-Activator: org.eclipse.core.tests.internal.resources.TestActiva
+ tor
+Require-Bundle: org.eclipse.osgi.services,org.eclipse.core.resources,o
+ rg.eclipse.core.tests.harness,org.junit,org.eclipse.test.performance;
+ resolution:=optional,org.eclipse.core.filesystem,org.eclipse.core.run
+ time,org.eclipse.core.expressions
+Bundle-Version: 3.8.100.v20130521-2051
+Export-Package: org.eclipse.core.tests.filesystem,org.eclipse.core.tes
+ ts.internal.alias,org.eclipse.core.tests.internal.builders,org.eclips
+ e.core.tests.internal.dtree,org.eclipse.core.tests.internal.filesyste
+ m.bogus,org.eclipse.core.tests.internal.filesystem.broken,org.eclipse
+ .core.tests.internal.filesystem.bug369177,org.eclipse.core.tests.inte
+ rnal.filesystem.ram,org.eclipse.core.tests.internal.filesystem.remote
+ ,org.eclipse.core.tests.internal.filesystem.wrapper,org.eclipse.core.
+ tests.internal.localstore,org.eclipse.core.tests.internal.mapping,org
+ .eclipse.core.tests.internal.properties,org.eclipse.core.tests.intern
+ al.propertytester,org.eclipse.core.tests.internal.resources,org.eclip
+ se.core.tests.internal.utils,org.eclipse.core.tests.internal.watson,o
+ rg.eclipse.core.tests.resources,org.eclipse.core.tests.resources.cont
+ ent,org.eclipse.core.tests.resources.perf,org.eclipse.core.tests.reso
+ urces.refresh,org.eclipse.core.tests.resources.regression,org.eclipse
+ .core.tests.resources.session,org.eclipse.core.tests.resources.usecas
+ e
+Build-Jdk: 1.7.0_11
+Bundle-ClassPath: resourcestests.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Eclipse.org
+Bundle-Name: Eclipse Core Tests Resources
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: MultipleProjectTestFiles/org.apache.lucene.project
+SHA1-Digest: wCKorQdMg4q4osuJET7MxGK+7DM=
+
+Name: Plugin_Testing/content/bundle04/plugin.xml
+SHA1-Digest: 6swVLY5dBw+NPPnLJOaxP4PSNdw=
+
+Name: Plugin_Testing/content/bundle03/plugin.xml
+SHA1-Digest: a6zAAggPi0yC7WAx9BnPpT5IQfc=
+
+Name: MultipleProjectTestFiles/org.eclipse.ant.core.project
+SHA1-Digest: YAqNuy5uUIRoo9OVhHYx4r6X4QM=
+
+Name: Plugin_Testing/content/bundle02/plugin.xml
+SHA1-Digest: Px5TrxunBvjoySNZbBllXiyPI0Q=
+
+Name: Plugin_Testing/content/bundle01/plugin.xml
+SHA1-Digest: d0Sw8Epe3vw74XIAlPnhgnMZ0Dw=
+
+Name: resourcestests.jar
+SHA1-Digest: lQmio8ag5yiqXNvV6J3GYJ7OdcM=
+
+Name: MultipleProjectTestFiles/abc.project
+SHA1-Digest: 7R6E6z3MvFVWs2Hr+rIeWGznWsc=
+
+Name: test.xml
+SHA1-Digest: p32X56TKLmD8eSFZOeMfHzaxQV4=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.xml
+SHA1-Digest: QjlIscZ1KALN8QZO5aUg/AOwWcQ=
+
+Name: MultipleProjectTestFiles/def.project
+SHA1-Digest: MLu5K4zR9L6mWYJyoAEV6TYbroI=
+

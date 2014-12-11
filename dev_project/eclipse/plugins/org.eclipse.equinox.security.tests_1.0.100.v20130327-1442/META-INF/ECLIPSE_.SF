@@ -1,0 +1,80 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: HJ3W6+8uQMwcT0JIwBxxPDfkGgU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: xq9ETo3Jlk4Kjek3rsg25se+/3c=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/WinPreferenc
+ esTest.class
+SHA1-Digest: cUeEfNOapxmRRKhRZPlSC98ynj4=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/LowPriorityM
+ odule.class
+SHA1-Digest: PvOqVk9yQ6rsRFxtc0sepExX2HM=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/SlashEncodeT
+ est.class
+SHA1-Digest: gt4mF8cDCFkoXWywVkv3yJFn49M=
+
+Name: SecurePrefsSample/1/secure_storage.equinox
+SHA1-Digest: oq8CANwA21l5mbFnalb6ihr0Vp8=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/HighPriority
+ Module.class
+SHA1-Digest: TiT0KtWXDJLktJf5/mSRuiu7cso=
+
+Name: Plugin_Testing/priority/high/plugin.xml
+SHA1-Digest: izDeblSfHxP4B7aBbHmf8yDmyGo=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/ManualTest.c
+ lass
+SHA1-Digest: vfqfQKNmAjjMmG8YENOBV8Dth8o=
+
+Name: Plugin_Testing/priority/high/META-INF/MANIFEST.MF
+SHA1-Digest: p8+REF9Sl6FQrY8VWseoK/RjAEs=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/StorageAbstr
+ actTest.class
+SHA1-Digest: Bqt9KTSNhmvOIojU7ToS8d9HOug=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/SecurePrefer
+ encesTest.class
+SHA1-Digest: hn620ExUbYJUOe9tZ6i8LAkKCEo=
+
+Name: org/eclipse/equinox/internal/security/tests/SecurityTestsActivat
+ or.class
+SHA1-Digest: pRPPuvWDK5qZF90w1cS2i0/YkWA=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/Base64Test.c
+ lass
+SHA1-Digest: rJ91T6DDNvI074mtGGzlO+qhnig=
+
+Name: Plugin_Testing/priority/low/plugin.xml
+SHA1-Digest: dy5HHQE3KaqJjaOhGmYAI9k0h4k=
+
+Name: test.xml
+SHA1-Digest: cZM3qvOebNtjh8bA7YQYl3UBPEU=
+
+Name: org/eclipse/equinox/security/tests/AllSecurityTests.class
+SHA1-Digest: gP94P1/qaeDALGXkLfD21AMKlHo=
+
+Name: plugin.xml
+SHA1-Digest: unNB0qBbcB7zzxIuCFAoFeO7Hbc=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/DefaultPrefe
+ rencesTest.class
+SHA1-Digest: Szd7JmU26dmjad9Od5RHzbLAfQg=
+
+Name: Plugin_Testing/priority/low/META-INF/MANIFEST.MF
+SHA1-Digest: vrtW0HWM3LdtKhJNHY1nWNHElTA=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/WaitingRegis
+ tryListener.class
+SHA1-Digest: 7teKnzunM4Wuf11Ix7RenVo/aRQ=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/DynamicPrefe
+ rencesTest.class
+SHA1-Digest: uzPoWPTgXipxvlEEpi1kbuBy9l8=
+

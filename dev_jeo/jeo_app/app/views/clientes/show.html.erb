@@ -1,0 +1,46 @@
+<p id="notice"><%= notice %></p>
+
+<table class="table">
+  <tr> 
+    <th>Nome:</th>
+    <th><%= @cliente.nome %></th>
+  </tr>
+
+  <tr> 
+    <th>Email:</th>
+    <th><%= @cliente.email %></th>
+  </tr>
+
+  <tr> 
+    <th>Data de nascimento:</th>
+    <th><%= @cliente.data_nascimento %></th>
+  </tr>
+
+  <tr> 
+    <th>Telefone 1:</th>
+    <th><%= @cliente.telefone01 %></th>
+  </tr>
+  
+  <tr> 
+    <th>Telefone 2:</th>
+    <th><%= @cliente.telefone02 %></th>
+  </tr>
+
+  <tr> 
+    <th>Endereço:</th>
+    <th><%= @cliente.endereco %></th>
+  </tr>
+  
+  <tr> 
+    <th>Bairro:</th>
+    <th><%= @cliente.bairro %></th>
+  </tr>
+  
+  <tr> 
+    <th>Cidade:</th>
+    <th><%= @cliente.cidade %></th>
+  </tr>
+</table>
+
+<%= link_to 'Edit', edit_cliente_path(@cliente) %> |
+<%= link_to 'Back', clientes_path %>

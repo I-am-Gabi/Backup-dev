@@ -1,0 +1,158 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: zT9Ro3VQKOb7M06TbhXt7gSU0YY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: HBTYkFTOCn14029mV/FsWtrcGXM=
+
+Name: tests/A.jar
+SHA1-Digest: ts699fFIRHlzLCUJMz0orgfwHfE=
+
+Name: tests/sites/site.a.b/plugins/bundle.a1_1.0.0.jar
+SHA1-Digest: +3onaOYd/Axk8O0wLF7gyOTRFrU=
+
+Name: tests/targets/target-files/eclipse-serverside.trgt
+SHA1-Digest: cslL9jfUgzEvSddw4oVCHZmd9ro=
+
+Name: schema/macroSupport.exsd
+SHA1-Digest: pDGuVx0lPcQ37/dHbJsCh0dqfZM=
+
+Name: tests/sites/site.a.b/plugins/bundle.a3_1.0.0.jar
+SHA1-Digest: /hjhQ87jG6X8+Dm6R2uDf1ucVnA=
+
+Name: tests/targets/target-files/basic.trgt
+SHA1-Digest: nV28N8I+s9t4FxhGa9PFJTxkLE4=
+
+Name: tests/sites/site.a.b/features/feature.a_1.0.0.jar
+SHA1-Digest: HKk0MAyURZ9Z+daPHNGE4KrfTZw=
+
+Name: tests/targets/target-files/emptycontent.trgt
+SHA1-Digest: hDLnGcsZxoCgWzw7B2/2IqqVx7k=
+
+Name: icons/sample.gif
+SHA1-Digest: mURGpp/gEzPu434WkU1WXZbyKOY=
+
+Name: tests/performance/manifest/org.eclipse.jdt.ui/MANIFEST.MF
+SHA1-Digest: WeWpmrs/RxNBCJzxah7oj5YJ72I=
+
+Name: tests/performance/target/targetPerfTestPlugins.zip
+SHA1-Digest: Hs15ArEMTcn6rQbd8MiuNZIwQmo=
+
+Name: tests/targets/target-files/featureLocations.trgt
+SHA1-Digest: NnOjDECuDXOAKj5pQC02S6azLRg=
+
+Name: testplugins/org.eclipse.pde.runtime.tests.testbundle.zip
+SHA1-Digest: hkIwbkanHlGwTBquxAidrHivRvk=
+
+Name: tests/targets/target-files/additionalLocations.trgt
+SHA1-Digest: ldb8akJY6dNXoQKkp5s1c6/iKmA=
+
+Name: tests/targets/classic-plugins.zip
+SHA1-Digest: LSQP2DulKI9gQsqDU0nPp1s7XvI=
+
+Name: tests/sites/site.a.b/plugins/bundle.b2_1.0.0.jar
+SHA1-Digest: hvOoEbnbCX5f7p4NdBDuIpGfRcE=
+
+Name: tests/projects/classpathresolver/.classpath
+SHA1-Digest: JOqRxvRCDKKi+GvsRc0Y3eSDwfU=
+
+Name: tests/performance/plugin/org.eclipse.jdt.ui/plugin.xml
+SHA1-Digest: LUZOnc10qLPqUPoQKDGS3GpazfY=
+
+Name: tests/targets/target-files/directory.trgt
+SHA1-Digest: dVVzJlytG/l1CfKGg2qZHeZbIig=
+
+Name: tests/targets/modified-jdt-features.zip
+SHA1-Digest: gMD0hVTXvjOa2i53bNA/1tx6Yzw=
+
+Name: tests/targets/abcde-plugins.zip
+SHA1-Digest: m1ToXPwkdMlg/H9la4sdghCN72o=
+
+Name: tests/targets/target-files/specific.trgt
+SHA1-Digest: Ox/ojT0ajZdZ4DXfi3vKDRvKnms=
+
+Name: icons/terminate_co.gif
+SHA1-Digest: jxuYsE/K3SOesYOmuzQp6VhlPvY=
+
+Name: icons/suspend_co.gif
+SHA1-Digest: IXyhbYUuDwa0BWhWWiYc7xpSsEA=
+
+Name: test.xml
+SHA1-Digest: 7SsgmT7fw/Z7oBqkT+WTnXyMv74=
+
+Name: tests/targets/multi-versions.zip
+SHA1-Digest: /nna/h4hYFJ753Jg6rAASXDd/MQ=
+
+Name: icons/run_exc.gif
+SHA1-Digest: OyMxMsHEbsHdrP3KlSC8Mgpbwoo=
+
+Name: tests/sites/site.a.b/artifacts.jar
+SHA1-Digest: gyDSLcWSRqbsBON8CLXKcPonAV8=
+
+Name: tests/sites/site.a.b/site.xml
+SHA1-Digest: CUvffBYJU+jy6EaiUO/M4lpzWGU=
+
+Name: tests/targets/target-files/optional.trgt
+SHA1-Digest: av8r00YyOLxt2NSdsx9UG0WxBPE=
+
+Name: tests/sites/site.a.b/plugins/bundle.a2_1.0.0.jar
+SHA1-Digest: ff/MD9KxLdppYIKaYjy8wzafBp4=
+
+Name: tests/build.properties/build.properties.tests.zip
+SHA1-Digest: wW8mfVwypLjh2IkjV3p+DmBxRpk=
+
+Name: testplugins/org.eclipse.pde.runtime.tests.testbundle_1.0.0.jar
+SHA1-Digest: p8oAvd8aX1LdZvqPi4nDER4A4OA=
+
+Name: tests/sites/site.a.b/features/feature.b_1.0.0.jar
+SHA1-Digest: c4dLBI8Oe9pa2U65T6K9NogwkxM=
+
+Name: tests.jar
+SHA1-Digest: X9brNZBfpMB0HAUh0H2SB9N9dr4=
+
+Name: tests/performance/schema/navigatorContent.exsd
+SHA1-Digest: nbUdzQxrSrOh1lm4ZDyXGIfXQFA=
+
+Name: icons/external_tools.gif
+SHA1-Digest: 6CDQg/BMuTNytx1+b0INmGwqs8Y=
+
+Name: tests/projects/classpathresolver/META-INF/MANIFEST.MF
+SHA1-Digest: N3bT6/2hlCz2XyJepmTAc5htStY=
+
+Name: tests/sites/site.a.b/content.jar
+SHA1-Digest: Ag2wBRCSniL2qRKtQjpmV73c4+0=
+
+Name: tests/targets/target-files/restrictions.trgt
+SHA1-Digest: G2lsUM2fqSlFMB7juTq/itzpSdA=
+
+Name: plugin.xml
+SHA1-Digest: h4DrmYQlK2dxVmv9IPToMeg+Qfc=
+
+Name: tests/projects/classpathresolver/.project
+SHA1-Digest: U0ZhB5IuVGgD83Fr+tV7tcNny74=
+
+Name: tests/sites/site.a.b/plugins/bundle.b1_1.0.0.jar
+SHA1-Digest: uRmxbW6UU0vENVG7b5nph42uR5E=
+
+Name: tests/sites/site.a.b/plugins/bundle.b3_1.0.0.jar
+SHA1-Digest: GTZZxu+5q8yaom2i9rchrJ0IQ+E=
+
+Name: tests/targets/target-files/SoftwareSiteTarget.trgt
+SHA1-Digest: Oa7uw8w+7yYyjf4seEWVA92Gko8=
+
+Name: tests/projects/classpathresolver/cpe/some.properties
+SHA1-Digest: UUAbioOk1WnLPjdKv/ATdxIEVts=
+
+Name: profiles/J2SE-1.3-NO-SOUND.profile
+SHA1-Digest: T72ddEJnSZvSz+QZmqV6wmg6280=
+
+Name: tests/projects/classpathresolver/build.properties
+SHA1-Digest: bOjdyMY+zTxmaIDrVMea/ipRtnI=
+
+Name: tests/targets/target-files/extratags.trgt
+SHA1-Digest: AZSohbLwg6Um1GxoKJrd0807kXY=
+
+Name: tests/targets/eclipse-nbm.zip
+SHA1-Digest: lzCk6rfs+dnFh/gJrHicT7oilwQ=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+

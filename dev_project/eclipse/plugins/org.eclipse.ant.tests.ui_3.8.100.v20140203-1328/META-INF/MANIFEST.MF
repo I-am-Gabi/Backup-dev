@@ -1,0 +1,242 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.ant.tests.ui; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.git;path="ant/org.eclipse.ant.tests.ui";tag="M201
+ 40205-0800";commitId=2f0cb654ef9a9f1d57c4d035e399a1af3e7f82be
+Bundle-Activator: org.eclipse.ant.tests.ui.testplugin.AntUITestPlugin
+Require-Bundle: org.eclipse.ui.ide;resolution:=optional,org.eclipse.jf
+ ace.text;resolution:=optional,org.eclipse.ui.workbench.texteditor;res
+ olution:=optional,org.eclipse.ui.editors;resolution:=optional,org.apa
+ che.ant;bundle-version="1.8.4",org.junit,org.eclipse.core.resources,o
+ rg.eclipse.jdt.core,org.eclipse.jdt.launching,org.eclipse.ui,org.ecli
+ pse.ant.core,org.eclipse.debug.core,org.eclipse.debug.ui,org.eclipse.
+ ui.externaltools,org.eclipse.ant.ui,org.eclipse.core.runtime,org.ecli
+ pse.test.performance,org.eclipse.ui.console,org.eclipse.ant.launching
+ ,org.eclipse.core.externaltools
+Bundle-Version: 3.8.100.v20140203-1328
+Export-Package: org.eclipse.ant.tests.ui,org.eclipse.ant.tests.ui.debu
+ g,org.eclipse.ant.tests.ui.dtd,org.eclipse.ant.tests.ui.editor,org.ec
+ lipse.ant.tests.ui.editor.formatter,org.eclipse.ant.tests.ui.editor.p
+ erformance,org.eclipse.ant.tests.ui.editor.support,org.eclipse.ant.te
+ sts.ui.externaltools,org.eclipse.ant.tests.ui.performance,org.eclipse
+ .ant.tests.ui.separateVM,org.eclipse.ant.tests.ui.testplugin
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: anttestsui.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: testbuildfiles/import.xml
+SHA1-Digest: QGpZuxv3eY8Ethj3IdFeVeuhd7A=
+
+Name: testbuildfiles/bug396219.ent
+SHA1-Digest: 0t/HHFSvy+ZlrNhIhXeVjDhH+yY=
+
+Name: testbuildfiles/buildtest1.xml
+SHA1-Digest: ACPjSAz43ue2INME2FH9V9IfNUQ=
+
+Name: testbuildfiles/buildtest2.xml
+SHA1-Digest: j0V8kb75wtrHIDp8cCLoOE/L3I8=
+
+Name: testbuildfiles/buildtest3.xml
+SHA1-Digest: C9q3ffrmI/sECIUx0WLumGbx9Dc=
+
+Name: testbuildfiles/buildtest4.xml
+SHA1-Digest: re6rh9ZddbRJcXVUc/fnrSyZ5Dk=
+
+Name: testbuildfiles/echoing.xml
+SHA1-Digest: LjFbAwGzKUHq0NW9C43Dpgy2K4U=
+
+Name: testbuildfiles/85769.xml
+SHA1-Digest: zn6uHW1Y5krnFEGqOl28jk9Nn1M=
+
+Name: testbuildfiles/echoProperties.xml
+SHA1-Digest: gSETM54Enetkb6y4NZd/CMR7iOk=
+
+Name: testbuildfiles/macrodef.xml
+SHA1-Digest: Fp0LwhtS2g/GOmKKwa+1FgCjrHg=
+
+Name: testbuildfiles/breakpoints.xml
+SHA1-Digest: JKLwkgVv3qRTLixdqiuFKywWw/I=
+
+Name: testbuildfiles/bug377075.ent
+SHA1-Digest: 3Z+1CpLIqkM7ENSVv9nGjX9HTa8=
+
+Name: testbuildfiles/russianbuild.xml
+SHA1-Digest: J2Vgz50onQ9bucRkxddmI7ry/YU=
+
+Name: testbuildfiles/formatTest_target01.xml
+SHA1-Digest: 769BebF/UinoxkvwyKVE3eI2sVE=
+
+Name: testbuildfiles/formatTest_target02.xml
+SHA1-Digest: DWHly/TBfw6zPiLVDqFrEGPkjKM=
+
+Name: testbuildfiles/toBeImported.xml
+SHA1-Digest: Sf7wMw9EW5aBTCPWV6lM8r9zzSI=
+
+Name: testbuildfiles/formatTest_target03.xml
+SHA1-Digest: 9/0muvrpPjtFvyXHt7kOGjMP9WM=
+
+Name: testbuildfiles/importRequiringUserProp.xml
+SHA1-Digest: 9ok9qX5DzR1mDPwwPv2AYdzlzBA=
+
+Name: testbuildfiles/formatTest_source01.xml
+SHA1-Digest: lnws2QLHQxMQSOQqpQUPxvUz5O4=
+
+Name: testbuildfiles/96022.xml
+SHA1-Digest: d7hRPNH2B4GjcSfn/a1bRDt0+WY=
+
+Name: testbuildfiles/failingTarget.xml
+SHA1-Digest: ryX1n2iyn/k4ZN0VCoGkFYCeXrc=
+
+Name: testbuildfiles/74840.xml
+SHA1-Digest: AqVj8Ab7uM5YGh1mpDN6wsWE99w=
+
+Name: testbuildfiles/nestedElementAttributes.xml
+SHA1-Digest: tBHNh8cmP+douldSoblUduFtKpQ=
+
+Name: testbuildfiles/102282.xml
+SHA1-Digest: HpEtDQkyZ/1yKTRIa2dlo2cDgNI=
+
+Name: testbuildfiles/dependencytest.xml
+SHA1-Digest: dh2pAJ8mOYYlWYgiBC2k1OktFqM=
+
+Name: test.xml
+SHA1-Digest: wAtsWsN5P8rn6ndCklOw5VtK7vc=
+
+Name: testbuildfiles/importWithByteOrderMark.xml
+SHA1-Digest: aQ1cXbrAuCl9NtdUYvYI5wuLrOY=
+
+Name: testbuildfiles/input.xml
+SHA1-Digest: sPA0jMZVOkfmRKB/VhlbG1QUbOE=
+
+Name: testbuildfiles/toBeImportedWithByteOrderMark.xml
+SHA1-Digest: DzSzycHbNZabV18gnItdVtHJ0Zk=
+
+Name: testbuildfiles/ext-builders.xml
+SHA1-Digest: Bh6py5oSLKH7ZXut86NQJDLGcUw=
+
+Name: testbuildfiles/empty.xml
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: testbuildfiles/antUITestsSupport.jar
+SHA1-Digest: MJD0Ker12IPN4E3g1Y9uLbdbERI=
+
+Name: testbuildfiles/performance/build.xml
+SHA1-Digest: UrP0Pa8jfCFS38VECt+ZjqUts98=
+
+Name: testbuildfiles/98853.xml
+SHA1-Digest: J1r1GWHS3pC3PhxBbk3Vopj/jig=
+
+Name: testbuildfiles/89901.xml
+SHA1-Digest: 1IVGezhH1GDYGsqZwAjtYwKNMJ8=
+
+Name: plugin.properties
+SHA1-Digest: 8NtyaYfSfYa69MAeOXacCgw9hAw=
+
+Name: testbuildfiles/badproject.xml
+SHA1-Digest: aYOmKBCsAni7M0Ey6EB32pDyWBg=
+
+Name: testbuildfiles/test1.xml
+SHA1-Digest: uVJ4XD8x/sZj0IV8Ik6CYl1JM8o=
+
+Name: testbuildfiles/test2.xml
+SHA1-Digest: Y7fGtEbpnGjKHy9RcfPk8bJEpYw=
+
+Name: testbuildfiles/taskdef.xml
+SHA1-Digest: nZGrMvgmnWdQujxrdXLw5IXxBtc=
+
+Name: testbuildfiles/test3.xml
+SHA1-Digest: 9dhxMd8MUE0ri/ZsAGq35dfB3JA=
+
+Name: testbuildfiles/test4.xml
+SHA1-Digest: k7VK9IJO9JPUhgFoIaprTIq37UM=
+
+Name: testbuildfiles/test5.xml
+SHA1-Digest: qVF3pEAy1eqEl/x5iowcEGEHOxU=
+
+Name: testbuildfiles/antextpoint1.xml
+SHA1-Digest: z7iWIwCw7v5Ng3AA4SeTQW9jdFg=
+
+Name: testbuildfiles/antextpoint2.xml
+SHA1-Digest: ebmr0rMvuBM+NQUmkK2ZppM/DUM=
+
+Name: testbuildfiles/projectOnly.xml
+SHA1-Digest: Y5D/qIBlQgaPZJVRWx0mL5QUnik=
+
+Name: anttestsui.jar
+SHA1-Digest: mRLljH68/VcUqPHypC7eD+LhybI=
+
+Name: testbuildfiles/buildtest1.properties
+SHA1-Digest: ANjnI54ZJX7zhMqeHtr2Y7lZCCo=
+
+Name: plugin.xml
+SHA1-Digest: QFHuIlqeovrvHyFogcKxr4s4KLw=
+
+Name: testbuildfiles/outline_select_test_build.xml
+SHA1-Digest: NH0C56Cfci2bzk4U3KbQuV/g4ro=
+
+Name: testbuildfiles/extensionPointTypeSepVM.xml
+SHA1-Digest: xrmTQSRWZKJ4clwJIc9UMMwWJ9A=
+
+Name: testbuildfiles/refid.xml
+SHA1-Digest: j9KN3b664PtqQFQnvfcbYuQzn40=
+
+Name: testbuildfiles/build.xml
+SHA1-Digest: ZW6IunczLfiuek8jNrXWxahyUaQ=
+
+Name: testbuildfiles/build.Cp1251.xml
+SHA1-Digest: ztdbBwZwkGWheRCZ4qhwa7Rrc/4=
+
+Name: testbuildfiles/occurrencesTest.xml
+SHA1-Digest: FX4lRQN78hY4U/7+K4XgNQSIP1w=
+
+Name: testbuildfiles/89115.xml
+SHA1-Digest: Pmyq5C7qRXLzkNNmJqpSlwx4cig=
+
+Name: testbuildfiles/antextpoint.xml
+SHA1-Digest: iUmUCTJfH71kgfh/2DbxNFCxGFg=
+
+Name: testbuildfiles/customBoolean.xml
+SHA1-Digest: htER2szu+pMTwZh5IdqDwWLFmys=
+
+Name: lib/antUITestsSupport.jar
+SHA1-Digest: 7nWsMFpTK/sIS/Nj3+ZvNGcFHYM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: testbuildfiles/build.UTF8.xml
+SHA1-Digest: iTzeuSy0cDelK3ijBOaFQ9+yjy0=
+
+Name: testbuildfiles/debugAntCall.xml
+SHA1-Digest: l2ir08uvphryORQqzuXaVEsfnI4=
+
+Name: testbuildfiles/mixed.xml
+SHA1-Digest: yDRG9fzET0ix2679gyqxeVlDCow=
+
+Name: testbuildfiles/environmentVar.xml
+SHA1-Digest: wUGPfcNiyj0vXyxz5TQwoKSH/kI=
+
+Name: testbuildfiles/extensionPointTaskSepVM.xml
+SHA1-Digest: DZxEatByFat07Ynqce583qs9pW0=
+
+Name: testbuildfiles/javac.xml
+SHA1-Digest: wjpdqX7oUPib9pzq/zK5U81/tQU=
+
+Name: testbuildfiles/extensionPointSepVM.xml
+SHA1-Digest: Dih/vc+Fld1p6pjOPYmLWLKqVqI=
+
+Name: testbuildfiles/internalTargets.xml
+SHA1-Digest: HNIBnbI0jGtaNCQ0uSn0q9kqkQ0=
+
+Name: testbuildfiles/bad.xml
+SHA1-Digest: iKtl0QnQemtpbl8r4lv8G8I1neM=
+

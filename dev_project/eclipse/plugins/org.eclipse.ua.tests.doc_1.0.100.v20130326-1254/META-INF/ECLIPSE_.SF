@@ -1,0 +1,85 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: dqIfj0nq/6sGtdHe87NSBdo75vc=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: MlDWKadVs5bhFcGODXicAOcUIQ4=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/TocLinkChecker$Non
+ ReferenceFilter.class
+SHA1-Digest: ee8ovHcBzwHKqcjQDzm2O8pWaUY=
+
+Name: org/eclipse/ua/tests/doc/internal/Activator.class
+SHA1-Digest: htDSMRVYmpjbOuX6jMe0OehKzlI=
+
+Name: checkdoc.js
+SHA1-Digest: mbh4cEEu6OeqNxFRVz8/vGtAkCA=
+
+Name: org/eclipse/ua/tests/doc/internal/actions/VisitPageAction.class
+SHA1-Digest: sqrqY9fzetdjKpuBVjHYSVlmJ2g=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/TocLinkChecker$Ref
+ erenceFilter.class
+SHA1-Digest: pfkK0h9/eGCxD+Xztpin5Pzl8l4=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/TocLinkChecker.cla
+ ss
+SHA1-Digest: 3omR4PlESmvcdYnm4ed6Y4DiTic=
+
+Name: org/eclipse/ua/tests/doc/internal/actions/CheckTocAction.class
+SHA1-Digest: ug66r5a/nSx7bPLUoLz4WMEkcpo=
+
+Name: org/eclipse/ua/tests/doc/internal/actions/LoadTocAction$NotFound
+ Callout.class
+SHA1-Digest: RbA3nqrffEd3F6G/FOFWENDa5fo=
+
+Name: org/eclipse/ua/tests/doc/internal/actions/LoadTocAction$LinkProv
+ ider.class
+SHA1-Digest: 5nZe70Pz1vvO5kPSZiYYdhEqqqo=
+
+Name: org/eclipse/ua/tests/doc/internal/actions/LoadTocAction$MonitorT
+ hread.class
+SHA1-Digest: 0RkTDNbt5EDjoiFkEHwBD2RX62A=
+
+Name: org/eclipse/ua/tests/doc/internal/actions/LoadTocAction.class
+SHA1-Digest: 5HaZ98KYHUGsfT5xSbp/wEF4lMU=
+
+Name: org/eclipse/ua/tests/doc/internal/actions/CheckLinkAction.class
+SHA1-Digest: 54efrzeEfl7Yw8CIlZdBvecwyFg=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/OnLoadFilter.class
+SHA1-Digest: 8Vbj5ICGTzT6lvHUnM+pmwN2ffI=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/PrebuiltIndexCheck
+ er.class
+SHA1-Digest: /oXzN/tCvsvXv1UMXspB9Hb2YnY=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/TocLinkChecker$Ref
+ erenceOrSampleFilter.class
+SHA1-Digest: tJKPOFCDeMV0318NtGfZcMrGucw=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/OnLoadFilter$OutFi
+ lter.class
+SHA1-Digest: C9YwWRhmaTqpRJkDyfdL+36Zz2A=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/TocLinkChecker$Non
+ ReferenceNonSampleFilter.class
+SHA1-Digest: XDZJypHybrQUydCR34xFwuGvAE8=
+
+Name: test.xml
+SHA1-Digest: Wu4/y51rjov0ZabcfaGYQLW7o5k=
+
+Name: plugin.xml
+SHA1-Digest: D7k+jNIiTH/lUfiseqol4llg/Ho=
+
+Name: org/eclipse/ua/tests/doc/internal/linkchecker/AddScriptFilter.cl
+ ass
+SHA1-Digest: 8NE4ua4om/rS6yAFOUwKhV6E0HA=
+
+Name: org/eclipse/ua/tests/doc/internal/dialogs/SelectTocDialog.class
+SHA1-Digest: hSrppdOVcKuKfprpX2XsF8vJMfY=
+
+Name: org/eclipse/ua/tests/doc/internal/LinkCheckServlet.class
+SHA1-Digest: i8jwSbX3eeq1M1RaxYIMw/Vdl4E=
+
+Name: org/eclipse/ua/tests/doc/AllTests.class
+SHA1-Digest: NM+x+NUxJE7d5TOh4pZJdmvDpnI=
+

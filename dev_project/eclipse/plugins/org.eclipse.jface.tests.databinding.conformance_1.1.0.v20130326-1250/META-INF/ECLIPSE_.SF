@@ -1,0 +1,554 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: L4zhax3FHVnZprzxNgIlmatxnqY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: wLl/8DiKriGU63snuf8Do7bPh60=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$13.class
+SHA1-Digest: 6WjHW35yOuTP323tpxgrAzRYNGc=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableContractTest
+ $ChangeListener.class
+SHA1-Digest: jMBk4UPe6iy/X8LwBwMNwdOpDRs=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$6.class
+SHA1-Digest: 1lqEhrvv+zlfcEvh29X8SRQkCSw=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$17.class
+SHA1-Digest: 6ttKBKvt6qEFHOQOGOT4QKrXBvs=
+
+Name: org/eclipse/jface/databinding/conformance/delegate/IObservableCo
+ llectionContractDelegate.class
+SHA1-Digest: +nFNP8kzMmfRN4cosTvjdUFMex8=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$23.class
+SHA1-Digest: xmS2fJVuSgQ846fcS7aCEs5z+BY=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$27.class
+SHA1-Digest: Vly8KuObA9F7dIlpNf/X6/W98iI=
+
+Name: org/eclipse/jface/databinding/conformance/util/DelegatingRealm.c
+ lass
+SHA1-Digest: 6N9IX/j13Kpz8IH87Unv6+CxHRA=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest.class
+SHA1-Digest: YI+feJORDXQRIHNXq0XSwV+wb3k=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableListContract
+ Test.class
+SHA1-Digest: eVhXXEMEOevX5U+YzDeXP0KXdLY=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableValueContrac
+ tTest$1.class
+SHA1-Digest: eRkYFDVHQdOSJ5TqH0xTRdUBm6I=
+
+Name: org/eclipse/jface/databinding/conformance/delegate/IObservableVa
+ lueContractDelegate.class
+SHA1-Digest: 6UI/w4cJHe5LJJcq7ojJrlRwUDo=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableListContract
+ Test$4.class
+SHA1-Digest: 57m//3+JmcElmiFndqvqNhLzZH8=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$11.class
+SHA1-Digest: gXav14RCRanxfngvEG+3zl70OvI=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$4.class
+SHA1-Digest: MAWTGn3Eg/Hd+R9fXqf4Tumzno0=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableContractTest
+ $3.class
+SHA1-Digest: 3JEPWiwhOqBHW/Lu3+X0FMH2I4U=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$30.class
+SHA1-Digest: zM65lzjkbWLcfSrc8sVsR9aB5e0=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$15.class
+SHA1-Digest: zM4j3p0JstIMRmvTP7+TbDSYsgc=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$8.class
+SHA1-Digest: iTJHZfM47gTfwRFWc246TtgGlLE=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$13.class
+SHA1-Digest: U/dvrO7i0qdp5V3qF0bj8VB0ks0=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$13.class
+SHA1-Digest: vDgiET0da0mX5GY3ez4S5jfDlRY=
+
+Name: org/eclipse/jface/databinding/conformance/util/MapChangeEventTra
+ cker.class
+SHA1-Digest: EBoLWcW0eCFO4hvsh6pSGNqIaIo=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$17.class
+SHA1-Digest: CuF/iyCo16JnMcD9+xjiS6U73gU=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$17.class
+SHA1-Digest: VH3B0upfVPq9ISxtN9XiuPSTTzk=
+
+Name: org/eclipse/jface/databinding/conformance/util/SetChangeEventTra
+ cker.class
+SHA1-Digest: Pjt13v24VVoS0fCzrM/Yg0EiGeo=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$3.class
+SHA1-Digest: tjgpVa9QQu/W53uqenAgwZNZN3A=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$3.class
+SHA1-Digest: ZYdr3iwcNftMiGP1Dvyi94V3La4=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$7.class
+SHA1-Digest: tuYfT1473M8OVHkyIeodpptv0BY=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$10.class
+SHA1-Digest: b1wiwyfQs3b9mzBmnjttGz2FYls=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$3.class
+SHA1-Digest: qBR5CJjE8QJ+0TTZSwkysiuF43o=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$7.class
+SHA1-Digest: FV1l7i4af8Xv2rT/CBKGSei39HY=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$14.class
+SHA1-Digest: d+nGutzyPiyuJKbleGQQ7WguzeU=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$7.class
+SHA1-Digest: IMexYPz2xDfi+06LxVsN2l2DdSE=
+
+Name: org/eclipse/jface/databinding/conformance/util/ValueChangeEventT
+ racker.class
+SHA1-Digest: 1dtoI7qDob0z13m9pM4w1Il8lH8=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$18.class
+SHA1-Digest: pZHlTnkm7Q5tfw5aQXzJnuYSypQ=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$20.class
+SHA1-Digest: ioBok5Y0ON90FLjjDoeRP5RLLYA=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableValue
+ ContractTest$1.class
+SHA1-Digest: cAdJcgCfKNPpHC1aRhZCbKOnmiM=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$24.class
+SHA1-Digest: /Y9CRgcauUAi0FWPgGHYcT10Yno=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$28.class
+SHA1-Digest: HSz1B8pG3pGwh9f6P/OXc2peJcg=
+
+Name: org/eclipse/jface/databinding/conformance/util/StaleEventTracker
+ .class
+SHA1-Digest: rn6fRklK0ChHdaUwjN22310h7z8=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableValueContrac
+ tTest$2.class
+SHA1-Digest: Akr0az8Bak77FmAwPZKrNgJGd+I=
+
+Name: org/eclipse/jface/databinding/conformance/util/DisposeEventTrack
+ er.class
+SHA1-Digest: jYF6/UHEUC5pYwjZ2Mou69kJ8qw=
+
+Name: org/eclipse/jface/databinding/conformance/delegate/AbstractObser
+ vableCollectionContractDelegate.class
+SHA1-Digest: 4zeSAH4f04RP0HYfvkw2JSdK8Gw=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$1.class
+SHA1-Digest: ltorfbP1h3+z2zuoUxwxzuIgYGI=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableListContract
+ Test$1.class
+SHA1-Digest: dp5EfRpJQKSmeOYvo7hpU63uD34=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$12.class
+SHA1-Digest: 0owhwJeB3VPCQJsLZOk/0xovyGM=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$5.class
+SHA1-Digest: 5U8OLwF4OB/himPUmYZ4UbfO8Ys=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableListContract
+ Test$5.class
+SHA1-Digest: H5Rx3AI5wbCPWQNQD+JsJhMl+HY=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableContractTest
+ $4.class
+SHA1-Digest: BWz38MqMjQKnjqS2KAjL1XxuSpY=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$31.class
+SHA1-Digest: lgCs26qGEZch/4kxJ+YBs1m7hYs=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$10.class
+SHA1-Digest: ZoaToT+m2yAd/uM74yUaUeM4I48=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$10.class
+SHA1-Digest: Sw5zuq7zu3Dm0Qh5jWDDuXQPEg0=
+
+Name: about.html
+SHA1-Digest: Vqzh+dmagGqBawo1GQHYMRaLD0g=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest.class
+SHA1-Digest: 4FQeGEadYWO9TbwvMimvD5Fxajs=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest.class
+SHA1-Digest: b5kUGybeVMDB9aHaY/5LHTEFKA4=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$16.class
+SHA1-Digest: GAJz9CS8YISoe7DXSg8iFMnO+YI=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$9.class
+SHA1-Digest: clM0ES2bTeTkiLMIwGZKhSWN7jg=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$14.class
+SHA1-Digest: 8apbQM1Tmctr1cXSPeo/rrU1Dqk=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$14.class
+SHA1-Digest: V6BkBt7OD3mk+2a6IjPedpo3k9c=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest.class
+SHA1-Digest: z079ig3QX+1fS3R43f9a19IETFg=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$18.class
+SHA1-Digest: 5EcQuzEQy732g8zt0uykaJVeLtQ=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$4.class
+SHA1-Digest: a+cBZ4BZRKho25Sa4geIh7woTGY=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$4.class
+SHA1-Digest: Uj+UUt5CyA2D7TvvlbzkSFllDIY=
+
+Name: org/eclipse/jface/databinding/conformance/swt/SWTMutableObservab
+ leValueContractTest.class
+SHA1-Digest: n5DSJG8GJ27beRu+Ibr0v0bk/Mg=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$11.class
+SHA1-Digest: GuWnITBnb0wHleYkeTLyYoY8g3A=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$8.class
+SHA1-Digest: y3Rg39PobLCT3iYf44Rf8paFzvk=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$8.class
+SHA1-Digest: 7ln04OKlr+ihfLgrDK/9mpFri3Y=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$4.class
+SHA1-Digest: rVxNSUJebrk/Z63lJiexGtxHUcc=
+
+Name: org/eclipse/jface/databinding/conformance/util/CurrentRealm.clas
+ s
+SHA1-Digest: 66iTs11Dc58Mv+7aBEJO+QQuUTE=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$15.class
+SHA1-Digest: qJa5MqanmR63wWY8w49KUelpZ9U=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$8.class
+SHA1-Digest: zWvZQq2OKwsUatAIKpdgUq5OQZE=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$21.class
+SHA1-Digest: wPwlHeM6leVKV/s5moaTio5sG7M=
+
+Name: org/eclipse/jface/databinding/conformance/delegate/IObservableCo
+ ntractDelegate.class
+SHA1-Digest: w/FnKgSwzm2VWeSWsXBW6h7n+v4=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableDelegateTest
+ .class
+SHA1-Digest: 3yPONJedDwG8rvyQN2H9f+5LoU8=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$25.class
+SHA1-Digest: BqcchILcwNviW7X/DWfnOmY6NL8=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableValueContrac
+ tTest.class
+SHA1-Digest: uNO/498RFFd/iOD66VNBIcIaiOY=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$29.class
+SHA1-Digest: RcC1uWs41frqjlgOBfyu/UQHG6M=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableValueContrac
+ tTest$3.class
+SHA1-Digest: 2lRocuX2/ZSbwzGk9QdWOkUorUs=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableListContract
+ Test$2.class
+SHA1-Digest: AJnmTRTj1IKaqC3rwqFJ/GFzpaQ=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$2.class
+SHA1-Digest: Xa/+NKsndA5gGZdZvoX7C/uSfpg=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableContractTest
+ $1.class
+SHA1-Digest: htZ4jnT0ft9BxQ34y1MPsXJHUio=
+
+Name: org/eclipse/jface/databinding/conformance/delegate/AbstractObser
+ vableContractDelegate.class
+SHA1-Digest: 4qVZqYhBR81RM8+BUzEmGUCJTfs=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$13.class
+SHA1-Digest: 3zLQLexP4wpmo8/i1ECVcqGBn+o=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableListContract
+ Test$6.class
+SHA1-Digest: /SiUeQapwpvFpHNUQCNNZueNqoI=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$6.class
+SHA1-Digest: +8Ht5PdFJ0cGIfs7tJHN4oMFiTg=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$32.class
+SHA1-Digest: yWDm0973QNjvoJingYhUk9ZPHhk=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableContractTest
+ $5.class
+SHA1-Digest: PrXxDhxbc9sDRFDTb1RE0DO4QI0=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$11.class
+SHA1-Digest: voIK8anLVB6ZAvC2XdusdlBCVGg=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$11.class
+SHA1-Digest: eXHS8r8tyxTfqZsmV5ud6mO7/GE=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$17.class
+SHA1-Digest: 48wOkWs/GRYJTYZ8/yYx0oiPJHI=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$15.class
+SHA1-Digest: KQot8wtMhOtBmrgzq8RY/dnuO8M=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$15.class
+SHA1-Digest: lI3VnItjYkMqGbIGLLy/N6v7n6w=
+
+Name: org/eclipse/jface/databinding/conformance/util/SuiteBuilder.clas
+ s
+SHA1-Digest: fbP7pDvPF+eHRnTtXTyi980s3r4=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$19.class
+SHA1-Digest: xUdOXfwnSWONIzpuGi8hnnv6jDI=
+
+Name: org/eclipse/jface/databinding/conformance/swt/SWTObservableValue
+ ContractTest.class
+SHA1-Digest: 19z9hUPCyCrJ2k8jYm0mRMSXM50=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$1.class
+SHA1-Digest: VdwAJzsPVyJ/toqLR8iiOef8jAQ=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$1.class
+SHA1-Digest: UWmVjuPqXVFKpJ7vZl8LQ3zRQOM=
+
+Name: org/eclipse/jface/databinding/conformance/util/ListChangeEventTr
+ acker.class
+SHA1-Digest: doAaktN62aXwGQ4GknnmoAJWDOo=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableStaleContrac
+ tTest.class
+SHA1-Digest: 3siZpy+F478Qdm8FKiKnM96Fu+w=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$1.class
+SHA1-Digest: oE2fy58CEPf/Mzo5LoDQWWgJAWc=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$5.class
+SHA1-Digest: j5ll3oT1weze+zt9gblSPkw4CbE=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$5.class
+SHA1-Digest: 4Fbx76DykUbjqBNMZ7/qJXR+cHM=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableValue
+ ContractTest.class
+SHA1-Digest: xrirZJbwSSuLz/+8Wm7vp3QPWDQ=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$9.class
+SHA1-Digest: TtfGezw+OsVKa8tgkKpDv74wu00=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$9.class
+SHA1-Digest: Sn4wJe56/jv1U8nD02Jb+TydQYY=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$12.class
+SHA1-Digest: II0uRQVaH0FfBf8zzd6Pu8FW5fk=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$5.class
+SHA1-Digest: eYURnxDjEOSSC0/Ibr1UNE+GUNA=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$9.class
+SHA1-Digest: 8+BtDHnaBAKXyDpRX5K1MZ2Ljv8=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$16.class
+SHA1-Digest: /vb6TuCrvKC9mhrkDQbYRh0YPBc=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$22.class
+SHA1-Digest: +rH3tvuu+MamfeQ+CRjlBLAzEOE=
+
+Name: plugin.properties
+SHA1-Digest: 55mmCfPPcVRH/wtKlQkkJa9R7rM=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$26.class
+SHA1-Digest: 0CyrnsGeucK8oqeQ+7g1VQ2Vp5M=
+
+Name: org/eclipse/jface/databinding/conformance/util/RealmTester.class
+SHA1-Digest: fLETU095pwZ2R71UJ9w9KQ9EYO4=
+
+Name: org/eclipse/jface/databinding/conformance/util/SuiteBuilder$Para
+ meterizedTest.class
+SHA1-Digest: k9dWIRVk71EpiMAan9aK/3e48g0=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableContractTest
+ .class
+SHA1-Digest: 7orER9TF0RsQcUIyqINbhkL8XYc=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$ContainsListener.class
+SHA1-Digest: M3JS1ZMJHq1Jifu3P6Hrx6DeTdk=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableValueContrac
+ tTest$4.class
+SHA1-Digest: QPQ6hTcYO0OfWzIfVx3jB5xAmAE=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableStaleContrac
+ tTest$StaleListener.class
+SHA1-Digest: SosR/Tho70bZkoAHSyk0c5uInKg=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$10.class
+SHA1-Digest: P+EIC+HjPsfHRbVm2SpKk4oLBKk=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableListContract
+ Test$3.class
+SHA1-Digest: Yrw49T6WjX/oHU0AL+40kgk5FRQ=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$3.class
+SHA1-Digest: eoqmGwk6FVOU3KHbJom4vZ2wPuk=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableContractTest
+ $2.class
+SHA1-Digest: KPyVaULll9FEdJ+DdfnWjKH9ZDA=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableCollectionCo
+ ntractTest$7.class
+SHA1-Digest: KYtq+muExH3HFyw5JAmimdRp36M=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$14.class
+SHA1-Digest: XC+eJ31SHbZ/FI52PXtuv+pyXz4=
+
+Name: org/eclipse/jface/databinding/conformance/delegate/AbstractObser
+ vableValueContractDelegate.class
+SHA1-Digest: KkprUS+BkBiGLME/GFEbp/6dfmw=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$33.class
+SHA1-Digest: LFqJraudO5PvuaftiR7L/yf7UvA=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$12.class
+SHA1-Digest: /nFtn4TytHRPkdebJEshyFOjqjQ=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$12.class
+SHA1-Digest: AgD34oEf8PbYw+cxZuZrhCds8Ek=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$18.class
+SHA1-Digest: 9VHcyQ/x2ufiQFjcv7JjUMvc5kU=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$16.class
+SHA1-Digest: TXs+kDKFRYbVliJ1xRyv7d7KW2c=
+
+Name: org/eclipse/jface/databinding/conformance/ObservableValueContrac
+ tTest$1$ValueChangeListener.class
+SHA1-Digest: EaUMWyP7F7d3QQcAMV1LMx2gCpQ=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$16.class
+SHA1-Digest: KhrTukL2R4X7vGWYY+TPjiVCiro=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$2.class
+SHA1-Digest: HdDeNctNQnzNZYiVVkWg+Bt84Ek=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$2.class
+SHA1-Digest: W0ZrqEoLmmM3qetCAvAwScyXRz8=
+
+Name: org/eclipse/jface/databinding/conformance/util/ChangeEventTracke
+ r.class
+SHA1-Digest: KDwx3oiIMhOpeFWFGWzZ3zjvgdM=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableColle
+ ctionContractTest$6.class
+SHA1-Digest: l3iDq7b18dBh48SMMYNjcjOvFQo=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableListC
+ ontractTest$6.class
+SHA1-Digest: aN1Yzu7XWo1RWwbYp2TGdx8UlGg=
+
+Name: org/eclipse/jface/databinding/conformance/MutableObservableSetCo
+ ntractTest$2.class
+SHA1-Digest: ebOU+ZgSv0pWmhv+npzdbNuZlvI=
+

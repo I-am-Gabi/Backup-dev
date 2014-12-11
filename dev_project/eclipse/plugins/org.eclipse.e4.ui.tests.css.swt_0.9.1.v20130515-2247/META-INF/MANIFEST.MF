@@ -1,0 +1,97 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.e4.ui.tests.css.swt; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.ui.git;path="tests/org.eclipse.e4.ui.tests.css.sw
+ t";tag="I20130515-2000";commitId=bc510cfd80224d0d77919e36978d5bc71eb6
+ fa3d
+Require-Bundle: org.junit,org.eclipse.swt,org.eclipse.e4.ui.css.core,o
+ rg.eclipse.e4.ui.css.swt,org.w3c.css.sac,org.eclipse.e4.ui.css.swt.th
+ eme;bundle-version="0.9.1"
+Bundle-Version: 0.9.1.v20130515-2247
+Build-Jdk: 1.7.0_11
+Bundle-ActivationPolicy: lazy
+Bundle-Name: e4 css swt tests (Incubation)
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Import-Package: org.osgi.framework;version="1.7.0";resolution:=optiona
+ l,org.osgi.service.event;version="1.3.0";resolution:=optional
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/e4/ui/tests/css/swt/ButtonTextTransformTest.class
+SHA1-Digest: s3/6Hn9q7J2Uz40MaBmfGwPn3E4=
+
+Name: org/eclipse/e4/ui/tests/css/swt/CTabFolderTest.class
+SHA1-Digest: QJ2cLMgQsUhyIQChgC+EzaaZYFw=
+
+Name: org/eclipse/e4/ui/tests/css/swt/TestPropertyHelper$Base.class
+SHA1-Digest: Zggs8aeVK534zygdqE3eYZU19P8=
+
+Name: org/eclipse/e4/ui/tests/css/swt/DescendentTest.class
+SHA1-Digest: w2uTICGcDS/nOO4sy+ITSb4EAmU=
+
+Name: org/eclipse/e4/ui/tests/css/swt/ShellTest.class
+SHA1-Digest: npp/RpXHtFagK1ZR1gRBRfNTYxA=
+
+Name: org/eclipse/e4/ui/tests/css/swt/LabelTest.class
+SHA1-Digest: FEIFGVdWq+1yc1kD9oQPc+YmlXs=
+
+Name: org/eclipse/e4/ui/tests/css/swt/TestPropertyHelper$Impl.class
+SHA1-Digest: kZnbVD6MU1ChhnKyIU9oBv49100=
+
+Name: org/eclipse/e4/ui/tests/css/swt/TextTransformTest.class
+SHA1-Digest: 3WSjLa51MK1p/dvLOWQIxtIDJG4=
+
+Name: org/eclipse/e4/ui/tests/css/swt/CssSwtTestSuite.class
+SHA1-Digest: JC4RRRln+cxQ9vNUsSMAtlp1QFA=
+
+Name: org/eclipse/e4/ui/tests/css/swt/ThemeTest.class
+SHA1-Digest: itVF9Q51NZj3/abtfHKXazGjU8o=
+
+Name: org/eclipse/e4/ui/tests/css/swt/CSSSWTTestCase.class
+SHA1-Digest: 3IVm8jYE75+1vgtojZHiIN6PkvQ=
+
+Name: org/eclipse/e4/ui/tests/css/swt/IdClassLabelColorTest.class
+SHA1-Digest: 9EKu/d5Tolthzd1z3KzI6HfA6yg=
+
+Name: org/eclipse/e4/ui/tests/css/swt/TestPropertyHelper.class
+SHA1-Digest: vOkPUz+hbZIV+C4DIDNnh1NsM9U=
+
+Name: org/eclipse/e4/ui/tests/css/swt/TextTextTransformTest.class
+SHA1-Digest: Z0VX+995eKbdgdPT4uiUKQ1S800=
+
+Name: org/eclipse/e4/ui/tests/css/swt/CTabItemTest.class
+SHA1-Digest: 4uSuR+VM8MAMb7tJrV3bsAUvi0Y=
+
+Name: org/eclipse/e4/ui/tests/css/swt/ThemeTest$1.class
+SHA1-Digest: uYBGtSBppZeyr/TwBtQ+77eBM8A=
+
+Name: org/eclipse/e4/ui/tests/css/swt/ShellActiveTest.class
+SHA1-Digest: Xt9ti1rWTe+aNKIADcftFCGbNKA=
+
+Name: org/eclipse/e4/ui/tests/css/swt/CSSSWTTestCase$1.class
+SHA1-Digest: o7epYJPvlKfSW33hCLGEUMr/0JI=
+
+Name: org/eclipse/e4/ui/tests/css/swt/LabelTextTransformTest.class
+SHA1-Digest: yJS2ZR1WxreSzyX6H+eeZ4gZ3oU=
+
+Name: org/eclipse/e4/ui/tests/css/swt/MarginTest.class
+SHA1-Digest: RZKYduHH1HH+VS2IcDf+LFdTemU=
+
+Name: org/eclipse/e4/ui/tests/css/swt/GradientTest.class
+SHA1-Digest: bgGskiY3gVX/dZpfuRcyxzs73OA=
+
+Name: org/eclipse/e4/ui/tests/css/swt/CSSSWTWidgetTest.class
+SHA1-Digest: IN3GGiJLhSO+l1pWKtObRVm57RM=
+
+Name: org/eclipse/e4/ui/tests/css/swt/ButtonTest.class
+SHA1-Digest: ITQxm9jPD0BdFnSOw1jHkNtAvm0=
+
+Name: org/eclipse/e4/ui/tests/css/swt/CTabItemTest$1.class
+SHA1-Digest: D3zt8irrUvubE1xPNOhdiMIocPw=
+
+Name: test.xml
+SHA1-Digest: 46/0V97O31EYwquL5F2gCkxSaeg=
+

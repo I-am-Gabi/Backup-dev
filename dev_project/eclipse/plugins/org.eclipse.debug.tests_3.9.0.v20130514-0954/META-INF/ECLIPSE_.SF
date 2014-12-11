@@ -1,0 +1,383 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: yC7WTPAq2pD6aVLxZo47ASnyW58=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: F5pGhlOjxFg7QXKnhHGPzrAhrFQ=
+
+Name: test-import/Import5.launch
+SHA1-Digest: qLE89w5E25y9RlpD9RcZu7L6ipg=
+
+Name: org/eclipe/debug/tests/view/memory/MemoryRenderingTests.class
+SHA1-Digest: 9QKZgxXh8tAoKR+NRXNIhPveC2I=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerLazyTests.class
+SHA1-Digest: WlP25m+Ft5dXmmil/gwiBttNTMg=
+
+Name: org/eclipse/debug/tests/breakpoint/BreakpointOrderingTests.class
+SHA1-Digest: vmzFtZvTcXVhJoQ3y0xJMG8aveY=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerContentTests.clas
+ s
+SHA1-Digest: gBhIb/slqeiYbn6V9182VNyFn2Q=
+
+Name: org/eclipe/debug/tests/viewer/model/ChildrenUpdateTests$1.class
+SHA1-Digest: mVWlMD0i1a6tPk8LA72SBSx4BaY=
+
+Name: org/eclipe/debug/tests/viewer/model/SelectionTests$1.class
+SHA1-Digest: 2yZVLVHLj8ioU0P7CocRNMGSvyY=
+
+Name: org/eclipse/debug/tests/breakpoint/BreakpointOrderingTests$1.cla
+ ss
+SHA1-Digest: Zv7ONhoOtdoOZZH4xaxUlMKwk1g=
+
+Name: org/eclipe/debug/tests/launching/TestLaunchDelegate.class
+SHA1-Digest: X4E9grMKwDOf/v+dj65lkgYZWxo=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerSelectionTests.cl
+ ass
+SHA1-Digest: JlDmutvZvXUu5RAmeY3uZeWS78c=
+
+Name: org/eclipe/debug/tests/launching/RefreshTabTests.class
+SHA1-Digest: KWYz6yOJSjEHELdVElGh1ZOVa7I=
+
+Name: org/eclipse/debug/tests/expressions/ExpressionManagerTests$1.cla
+ ss
+SHA1-Digest: 7dDNtIhe7bfOhOTfFNSxi07MjDQ=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerCheckTests.class
+SHA1-Digest: a0ASIMM9VD44s5fFI5/7TUYWiKU=
+
+Name: org/eclipe/debug/tests/viewer/model/StateTests.class
+SHA1-Digest: wmprtN2kEuuYBzOGUatTax8iJh8=
+
+Name: icons/image1.gif
+SHA1-Digest: atuccVEW57R+YvBh+74T2itIQDQ=
+
+Name: test-import/Import4.launch
+SHA1-Digest: ddzHdxbgS6NNkEFIbkhYvNeJzLM=
+
+Name: org/eclipe/debug/tests/viewer/model/PopupTests.class
+SHA1-Digest: qdMskRpyqRj0x/NHpjmnMBVs608=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerTopIndexTests$1.c
+ lass
+SHA1-Digest: MspUEJMwbbcNdL2wI/ZhHamlSsI=
+
+Name: org/eclipe/debug/tests/viewer/model/TestModel$1.class
+SHA1-Digest: uXtgVC8on/tik15xPzHs2cql1Bg=
+
+Name: org/eclipe/debug/tests/viewer/model/ColumnPresentationTests$MyMo
+ del.class
+SHA1-Digest: EQpYOfUzP490UVn4SU25PvVOvNI=
+
+Name: org/eclipse/debug/tests/expressions/ExpressionManagerTests$Inser
+ tMoveListener.class
+SHA1-Digest: 0hE2KO3IIuXKZMwgaIOOOKjfTw4=
+
+Name: org/eclipse/debug/tests/LocalSuite.class
+SHA1-Digest: XWIWaksN+htZQlic+ugnn2PWZAc=
+
+Name: org/eclipe/debug/tests/launching/DebugFileStore.class
+SHA1-Digest: GmkFMWDLkoTkwc62TQaJaOdy/EE=
+
+Name: org/eclipe/debug/tests/viewer/model/PresentationContextTests.cla
+ ss
+SHA1-Digest: ojYtQ8j5ypzSAzNXbmNbDihofIk=
+
+Name: org/eclipe/debug/tests/viewer/model/ChildrenUpdateTests.class
+SHA1-Digest: QwyeAr9Y/2ugFm086K8WnBeD94c=
+
+Name: org/eclipe/debug/tests/launching/LaunchFavoriteTests.class
+SHA1-Digest: TFMiMFSr16EhcmkEuiQXjKeU/wA=
+
+Name: org/eclipe/debug/tests/viewer/model/TestModel$ModelProxy.class
+SHA1-Digest: ubIypMVzVwqyLaEcnsmjcOXS2tA=
+
+Name: test-import/Import3.launch
+SHA1-Digest: JrIi3Pgi8x2sg3nCHL8nZIvgOwg=
+
+Name: org/eclipe/debug/tests/viewer/model/FilterTests$TestViewerFilter
+ .class
+SHA1-Digest: zPLxKQDWuXtbqHnuT8z5dxfaWY0=
+
+Name: org/eclipe/debug/tests/viewer/model/CheckTests.class
+SHA1-Digest: joafEQRPXA9ZvhdnEu5/uBJ8+tM=
+
+Name: org/eclipe/debug/tests/launching/LaunchHistoryTests.class
+SHA1-Digest: 0YBI8V59ypH5VmX2Pwp5mzT8dC4=
+
+Name: org/eclipe/debug/tests/launching/DebugFileStore$DebugOutputStrea
+ m.class
+SHA1-Digest: JyKb5iReyB4wYpckDbAnUhDnUls=
+
+Name: org/eclipe/debug/tests/view/memory/MemoryBlockTwo.class
+SHA1-Digest: YnOkdEyP4pkN4MCrZM6U8pL+E5w=
+
+Name: org/eclipse/debug/tests/AutomatedSuite.class
+SHA1-Digest: PuW6X52O6s3VPjOJcLwAhVdDY3E=
+
+Name: org/eclipse/debug/tests/expressions/ExpressionManagerTests$Multi
+ Listener.class
+SHA1-Digest: bgx7eVE1J73p/JtyoZvxco9O2zI=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerStateTests.clas
+ s
+SHA1-Digest: e4nxZ1QqfJE9XEW8M8W5rCEyYDQ=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerPerformanceTest
+ s.class
+SHA1-Digest: q9sbXY6Xoukzjzg/rPkdQb+DLE4=
+
+Name: org/eclipse/debug/tests/breakpoint/BreakpointOrderingTests$2.cla
+ ss
+SHA1-Digest: xIwV8zdVY9nCJ7mFMDLD1CJM3c0=
+
+Name: org/eclipse/debug/tests/expressions/ExpressionManagerTests$2.cla
+ ss
+SHA1-Digest: zG9IgbQRb90u5jAPT+PNTkfiNcM=
+
+Name: org/eclipe/debug/tests/viewer/model/TreePathWrapper.class
+SHA1-Digest: JTC2r+VrM4YKrTo1f72VW/Kw2Hw=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerPopupTests.clas
+ s
+SHA1-Digest: 1f5sSVoImjbA8exsZuXU7pFi3gI=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerTopIndexTests.cla
+ ss
+SHA1-Digest: RdKii0mOqbSgw+UzRnzjo7j5IWU=
+
+Name: org/eclipe/debug/tests/viewer/model/TreeModelViewerAutopopulateA
+ gent.class
+SHA1-Digest: jzIXRFJJIsoY89eRA9hDTomLhQs=
+
+Name: org/eclipe/debug/tests/viewer/model/ColumnPresentationTests$MyCo
+ lumnPresentation.class
+SHA1-Digest: xcpnDvqLAudTNOuXdQAUsXmogQo=
+
+Name: org/eclipe/debug/tests/viewer/model/PerformanceTests.class
+SHA1-Digest: r5RaBqXzep4Wux/AVeBkqU/tiko=
+
+Name: test-import/Import2.launch
+SHA1-Digest: PCcPCiqUYy0I9YBeAApRbtC4SyU=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerDeltaTests.class
+SHA1-Digest: eaA1tdDc0ognPd7vqSCHVN5jNUo=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerContentTests.cl
+ ass
+SHA1-Digest: lXj/lMIDRRBGneqjheS8Dap9hss=
+
+Name: org/eclipse/debug/tests/breakpoint/BreakpointOrderingTests$TestL
+ ineBreakpoint.class
+SHA1-Digest: dnDUAk+PTMfqLX9b7VRFpu5/7xQ=
+
+Name: org/eclipse/debug/tests/statushandlers/StatusHandler.class
+SHA1-Digest: SM1kDqY1w/mEh/oZjIeGe3Go+R8=
+
+Name: about.html
+SHA1-Digest: ygLpGWwvNIC4pk39sF1UsHuSCFQ=
+
+Name: org/eclipe/debug/tests/launching/ArgumentsPrinter.class
+SHA1-Digest: rvMorEs+yh2XnogVnvm9svQl3Eg=
+
+Name: org/eclipe/debug/tests/viewer/model/FilterTests.class
+SHA1-Digest: 1cbsFYwx48+DOI6Pqy3x4CwO4uI=
+
+Name: org/eclipe/debug/tests/launching/AbstractLaunchTest.class
+SHA1-Digest: Ua9lbo0My1l34yCS2JwOR969eWY=
+
+Name: org/eclipe/debug/tests/viewer/model/ContentTests$TestModelWithCa
+ pturedUpdates.class
+SHA1-Digest: qu4YRnB+LJkcqiAJkIU3ZiIp1gk=
+
+Name: org/eclipe/debug/tests/view/memory/RenderingTypeDelegate.class
+SHA1-Digest: +rCgv0bpCDIjdHZ0CNgQEgWAtZo=
+
+Name: org/eclipe/debug/tests/launching/LaunchConfigurationTests$Resour
+ ceItem.class
+SHA1-Digest: /t9lQeX+Qn+nMBw7rGcG4GW2mL0=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerSelectionTests.
+ class
+SHA1-Digest: 8EOKBiMhjL+C17LsaGe3EZ99vNg=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerLazyModeTests.c
+ lass
+SHA1-Digest: SP/meJzqKbIWjm0HCQQci+Wu3H4=
+
+Name: org/eclipe/debug/tests/viewer/model/UpdateTests.class
+SHA1-Digest: Vgiyjkm3nbn9p/V+35tPpzyq65A=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerFilterTests.class
+SHA1-Digest: Wbp2m8bKLKOMHbjGcGzryinDcJg=
+
+Name: test-import/Import1.launch
+SHA1-Digest: zeBZ1W1nMJQKdGK4eFGnbWE3y9g=
+
+Name: org/eclipse/debug/tests/expressions/ExpressionManagerTests.class
+SHA1-Digest: M2DlUhbVf5RpaZthGI/1VTNOBbA=
+
+Name: org/eclipse/debug/tests/statushandlers/StatusHandlerTests.class
+SHA1-Digest: qavJOCS2St5RsYHMmd8zBLVaW0k=
+
+Name: org/eclipe/debug/tests/viewer/model/UpdateTests$1.class
+SHA1-Digest: gY1EXRtN2Yvsr9Wu0bbaxhJZFMU=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerUpdateTests.class
+SHA1-Digest: +EeNnzaMkd6r+f7psukEQfTGKEc=
+
+Name: org/eclipe/debug/tests/viewer/model/ITestModelUpdatesListenerCon
+ stants.class
+SHA1-Digest: pnB01HshsbTNqLxJm7SBmaALQb8=
+
+Name: org/eclipse/debug/tests/PerformanceSuite.class
+SHA1-Digest: FHSIMTUmsaM8akqYw1eA7OiJFlw=
+
+Name: org/eclipe/debug/tests/launching/LaunchManagerTests.class
+SHA1-Digest: A5LH8cDh0cKmHfq0jRZvi71nZYw=
+
+Name: org/eclipse/debug/tests/breakpoint/BreakpointOrderingTests$3.cla
+ ss
+SHA1-Digest: UlDRn5EvH4gGy17sDAmOstCOJ+A=
+
+Name: org/eclipe/debug/tests/viewer/model/DeltaTests.class
+SHA1-Digest: DQzkdSXmnsbFirbovxqT+rRMgQA=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerFilterTests.cla
+ ss
+SHA1-Digest: 8PzJ0myfVNIXO7SYNDZkgI/aTto=
+
+Name: org/eclipe/debug/tests/view/memory/MemoryBlockThree.class
+SHA1-Digest: ObAkAipbQQeAzo9sfhCv10Ay3VU=
+
+Name: icons/image2.gif
+SHA1-Digest: B51DZ1HF0hHgVBszUO0YDKDbg0w=
+
+Name: org/eclipe/debug/tests/viewer/model/TestModel$TestElement.class
+SHA1-Digest: g00IHCpZkOIaePc7zZnEItK1QLw=
+
+Name: org/eclipe/debug/tests/viewer/model/ColumnPresentationTests$1.cl
+ ass
+SHA1-Digest: HmzX+LmdL7+oBO873pKAem8GPls=
+
+Name: org/eclipe/debug/tests/launching/LaunchConfigurationTests$Listen
+ er.class
+SHA1-Digest: KnQiW5g3KuHuzBLFm2VToh0gQF8=
+
+Name: org/eclipe/debug/tests/view/memory/DynamicRenderingBindings.clas
+ s
+SHA1-Digest: t6W/O3p/P5zfpEYn/1cSjVRnrC4=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerUpdateTests.cla
+ ss
+SHA1-Digest: zXfxVp7h3AFYt03tUrplALqsyXM=
+
+Name: org/eclipe/debug/tests/viewer/model/PerformanceTests$1.class
+SHA1-Digest: cB9XrQ3cCoGq+XruovnMFUFfWec=
+
+Name: org/eclipe/debug/tests/viewer/model/LazyTests.class
+SHA1-Digest: fgP0mEm2bJ9rmfx57krt8Ni5geE=
+
+Name: org/eclipe/debug/tests/launching/LaunchConfigurationTests$1.clas
+ s
+SHA1-Digest: 4HtjT3C8BFCzlO6GBVAPR2/GMmM=
+
+Name: org/eclipe/debug/tests/view/memory/MemoryBlock.class
+SHA1-Digest: dg+BsZFzRaadSYKuqY7ize2VgvE=
+
+Name: org/eclipe/debug/tests/launching/ArgumentParsingTests.class
+SHA1-Digest: 37KOLU+DPdZZ+CAO5xKi9ojaDJE=
+
+Name: test.xml
+SHA1-Digest: fsWUkrkjtLleT3V6mP7FeYvbaCQ=
+
+Name: org/eclipe/debug/tests/viewer/model/FilterTransformTests.class
+SHA1-Digest: Z66YcFXm4yJVTicdMkxorXKeO08=
+
+Name: org/eclipe/debug/tests/launching/AcceleratorSubstitutionTests.cl
+ ass
+SHA1-Digest: I3ttifr4agG8/WaDXTdJBSGYXLA=
+
+Name: org/eclipse/debug/tests/TestsPlugin.class
+SHA1-Digest: 3Kgo43dOevgVMih0jUfocLOhgbY=
+
+Name: org/eclipe/debug/tests/viewer/model/SelectionTests.class
+SHA1-Digest: 1x1Wit886kQAKFLCFy+1ERsvpt4=
+
+Name: org/eclipe/debug/tests/launching/DebugFileSystem.class
+SHA1-Digest: aNuGDW2thDP4XXu/rN4OMIyZerM=
+
+Name: org/eclipe/debug/tests/viewer/model/VirtualViewerDeltaTests.clas
+ s
+SHA1-Digest: ZEcj5Gw+zhsYy3pFLSYaCprpQSU=
+
+Name: plugin.properties
+SHA1-Digest: bdpJoiTJMiuqW5IYYwQuEWQDDIM=
+
+Name: org/eclipe/debug/tests/view/memory/MemoryRenderingTests$1.class
+SHA1-Digest: HnJ9AIewfrKRwxDgqj50o56hAy4=
+
+Name: org/eclipe/debug/tests/viewer/model/ChildrenUpdateTests$BogusMod
+ elContentProvider.class
+SHA1-Digest: ZzjZGkDnaO5jAYSAjJv4Ap2Y50E=
+
+Name: org/eclipe/debug/tests/viewer/model/ColumnPresentationTests.clas
+ s
+SHA1-Digest: YAy+GckyjkP9VZDbjCkRDTEd/Yc=
+
+Name: org/eclipse/debug/tests/breakpoint/BreakpointOrderingTests$TestB
+ reakpoint.class
+SHA1-Digest: tXpVXwmL3B/Ljzlnx0qhw59SOJ4=
+
+Name: org/eclipe/debug/tests/viewer/model/TestModel.class
+SHA1-Digest: lwGaOdyq0L0I1s162hN7CBZu2Ik=
+
+Name: plugin.xml
+SHA1-Digest: hDxn6QGwYhxbVaClbsUhYXsbCVQ=
+
+Name: org/eclipe/debug/tests/viewer/model/SelectionTests$SelectionList
+ ener.class
+SHA1-Digest: 2V4pTJ5TgqG2Y1OXNHFAJ2Se6DM=
+
+Name: org/eclipe/debug/tests/view/memory/MemoryBlockOne.class
+SHA1-Digest: cPjfgdwW6TPwvdOgThOhMTrqVPw=
+
+Name: org/eclipe/debug/tests/launching/LaunchConfigurationTests.class
+SHA1-Digest: oVMutaEZvMYQwdjLWbyJFdXz+W8=
+
+Name: org/eclipe/debug/tests/viewer/model/ColumnPresentationTests$MyCo
+ lumnPresentation2.class
+SHA1-Digest: LyQvMokCD4wRmIVwmROAMk6pN1E=
+
+Name: org/eclipe/debug/tests/viewer/model/VisibleVirtualItemValidator.
+ class
+SHA1-Digest: x2XEWManDHzJGaa0t3mO/XeKntk=
+
+Name: org/eclipe/debug/tests/viewer/model/FilterTests$TestTMVFilter.cl
+ ass
+SHA1-Digest: 7Wxz2ldCd5czSLO0wGs94VoLOKg=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerStateTests.class
+SHA1-Digest: Q2dJ/FOkgK6ctyAd/EeeWj25naw=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerPerformanceTests.
+ class
+SHA1-Digest: ZJpJPSNrGaRR2mx97llqZJ5tr7I=
+
+Name: org/eclipe/debug/tests/viewer/model/JFaceViewerPopupTests.class
+SHA1-Digest: dQqjsZVNo9gJz+ewUbDVGRJGC98=
+
+Name: org/eclipe/debug/tests/viewer/model/TestModelUpdatesListener.cla
+ ss
+SHA1-Digest: jaJMFX4QdQ6aA/PutB8J8MzuxIQ=
+
+Name: org/eclipse/debug/tests/expressions/ExpressionManagerTests$Sinlg
+ eListener.class
+SHA1-Digest: fZmJbSc4kjkQPH7GDkrGUfd8nHA=
+
+Name: org/eclipe/debug/tests/viewer/model/ContentTests.class
+SHA1-Digest: 14x8VFNQSjmPgautpYJwCMFJZUc=
+
+Name: org/eclipe/debug/tests/view/memory/MemoryBlockDynamic.class
+SHA1-Digest: 8MHj6/Zmn6P2yJrwpPX79HhU2Vw=
+

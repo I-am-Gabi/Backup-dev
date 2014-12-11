@@ -1,0 +1,288 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.equinox.p2.tests.ui
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/equino
+ x/rt.equinox.p2.git;path="bundles/org.eclipse.equinox.p2.tests.ui";ta
+ g="I20130527-0800";commitId=51ac489b776bbc5eecf11f366ae1297c23d395ca
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.4.100",org.
+ eclipse.ui;bundle-version="3.6.0",org.eclipse.equinox.p2.metadata;bun
+ dle-version="1.0.0",org.eclipse.equinox.p2.metadata.repository;bundle
+ -version="1.0.100",org.eclipse.equinox.p2.ui;bundle-version="1.0.100"
+ ,org.eclipse.core.tests.harness;bundle-version="3.4.0",org.eclipse.eq
+ uinox.p2.core;bundle-version="1.0.100",org.eclipse.equinox.p2.engine;
+ bundle-version="1.0.100",org.eclipse.equinox.p2.director;bundle-versi
+ on="1.0.100",org.eclipse.equinox.p2.artifact.repository;bundle-versio
+ n="1.0.100",org.junit;bundle-version="3.8.0",org.eclipse.equinox.p2.r
+ epository;bundle-version="1.0.0",org.eclipse.equinox.p2.tests;bundle-
+ version="1.2.0",org.eclipse.equinox.p2.ui.sdk;bundle-version="1.0.200
+ ",org.eclipse.equinox.p2.ui.importexport;bundle-version="1.0.1"
+Bundle-Version: 1.0.300.v20130527-0108
+Build-Jdk: 1.7.0_11
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Import-Package: org.eclipse.equinox.internal.p2.operations,org.eclipse
+ .equinox.p2.operations;version="[2.0.0,3.0.0)"
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/p2/tests/ui/misc/LicenseManagerTest.class
+SHA1-Digest: vnCXpmDbXAOjMvUNCVj5EV9MxhI=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/CategoryElementWrapperTest
+ .class
+SHA1-Digest: bNMhobatadHkQjzqbkUyQ2x12SY=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/MockQueryProvider.class
+SHA1-Digest: swGE7Z2KY06KK/KvsjnhVfyentg=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstallationHistoryPageT
+ est$TestDialog2.class
+SHA1-Digest: 9i03RwdW6ZNdNeoqNw7WohlNV08=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InvokeByHandlerTests$1.c
+ lass
+SHA1-Digest: +BfR0mKGSAf/6WLZ+lanr+lOMLc=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/ActionTest.class
+SHA1-Digest: QJejGL0tTd0Lw3nOKagfSmPUt1M=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstallWizardTest$MyNewI
+ nstallOperation.class
+SHA1-Digest: MEu3or3LpOp/rKKhy6P+U/SDW6s=
+
+Name: org/eclipse/equinox/p2/tests/ui/operations/SizingTest.class
+SHA1-Digest: bIXPayAIItFkgOyEZTzOghmtRyw=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstallWizardTest.class
+SHA1-Digest: Wb6oyLymT3wvvI+RowYeFuG+QI8=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryDescriptorTest$Wrappe
+ dString.class
+SHA1-Digest: gpSTh13ThAavUm6iLn96z1fhXdo=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/WizardTest.class
+SHA1-Digest: m62uQHdNSq/m4znc6qu8LDB1adM=
+
+Name: org/eclipse/equinox/p2/tests/ui/AbstractProvisioningUITest$1.cla
+ ss
+SHA1-Digest: Pjh3CdkXOdUnpVlf4pPvDbCSSN0=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/UninstallWizardTest.clas
+ s
+SHA1-Digest: Y5ttppfIex78or2H7s4LidTgJ9M=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/ActionTest$1.class
+SHA1-Digest: +jzD4+4AJiY/+soUebHrerRFKTc=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstalledSoftwarePageTes
+ t.class
+SHA1-Digest: sVmmFMZblu2B3Q9Yez8hqIEoQls=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/AbstractQueryTest$1.class
+SHA1-Digest: GHUqoA7dLgkx1haAK1TLZ47tfmA=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/RepositoryManipulationPa
+ geTest.class
+SHA1-Digest: 4tAPtdVZKUeMBMjyl7BRJXj3mAA=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryDescriptorTest.class
+SHA1-Digest: GOOQo1CPEPTroU9BLXLEAEtj+oc=
+
+Name: org/eclipse/equinox/p2/tests/ui/misc/AllTests.class
+SHA1-Digest: JTevf7L8lPlw6Ck7d5L3Tipowx4=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstallationHistoryPageT
+ est$1.class
+SHA1-Digest: +a87oQx7CJFzo2Zon/BDemjoV/s=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/ColocatedRepositoryActio
+ nTest.class
+SHA1-Digest: UIYIksLYMeRUZjCEwCMT8DHP+C8=
+
+Name: org/eclipse/equinox/p2/tests/ui/repohandling/SiteImportExportTes
+ t.class
+SHA1-Digest: +/m4ovNf7BzsWde90oVvN0HRB4U=
+
+Name: org/eclipse/equinox/p2/tests/ui/misc/LicenseManagerTest$SimpleLi
+ cense.class
+SHA1-Digest: kxrLlGg9MKnzDrCkRXS1qSc9xx8=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryDescriptorTest$Simple
+ MatchQuery.class
+SHA1-Digest: npg7lTGp6OVIO3aEXNqmKZ5d9Ac=
+
+Name: org/eclipse/equinox/p2/tests/ui/operations/UninstallOperationTes
+ ts.class
+SHA1-Digest: GpCQAafbwZFcdCaJOiB5y39Lm9o=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/UpdateActionTest$TestUpd
+ ateAction.class
+SHA1-Digest: EdPshYHWuukaKku+CgQOg+qAYO0=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/UpdateActionTest.class
+SHA1-Digest: MdXDMBVk5jY6b9zZeUOxLbw6nSo=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/ProfileModificationActio
+ nTest.class
+SHA1-Digest: wm2LmrtGKSSjxRH02jTkY7maC3A=
+
+Name: test.xml
+SHA1-Digest: hIuWRD9zWWZ8oAE3X/4BmwdiD4o=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryableArtifactRepositor
+ yManagerTest.class
+SHA1-Digest: Rpk1wzSU1n4A11UN4O0rTGgC/S8=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/UpdateWizardTest.class
+SHA1-Digest: TLh42DZFkxLl3lPPGGeMXphjkuQ=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryableMetadataRepositor
+ yManagerTest.class
+SHA1-Digest: hzPREIvRO66FM/tWiYI924bbn9A=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/RemoveColocatedRepositor
+ yActionTest.class
+SHA1-Digest: dhSrCCygXwXjbMS0BQCof5PatwM=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryProviderTests.class
+SHA1-Digest: QHnzDmuyhEVDntR/4YpqjuzyCtc=
+
+Name: org/eclipse/equinox/p2/tests/ui/operations/UpdateOperationTests.
+ class
+SHA1-Digest: avAPoW1qsuxZuVen/2bbukUivgs=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/LatestIUVersionElementWrap
+ perTest.class
+SHA1-Digest: CJQohCoh+kL2QgGtbSLWZjGX/8M=
+
+Name: org/eclipse/equinox/p2/tests/ui/AbstractProvisioningUITest.class
+SHA1-Digest: bsI+r2FZL4QYWBdzizQLQ6GuYjg=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/AvailableIUWrapperTest.cla
+ ss
+SHA1-Digest: +dwAMqF2wdlMNC6Y/4Uum6ddERQ=
+
+Name: org/eclipse/equinox/p2/tests/importexport/ImportExportTests.clas
+ s
+SHA1-Digest: hRiGyzP1jGCdU2oe461cJKMi4WY=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InvokeByHandlerTests$2.c
+ lass
+SHA1-Digest: JYwoLNy+80WsNCGrzfbNEdBYh0w=
+
+Name: plugin.properties
+SHA1-Digest: 0jBflrpzlhZX89mUcgqw8x8NdIE=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstallWithRemediationTe
+ st.class
+SHA1-Digest: iHZ473Uv7yNFVOenB0h4CL4Yb9g=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/AbstractQueryTest.class
+SHA1-Digest: 9lDlSHDG8RJIY8O0SJirS4rcnhc=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/RepositoryManipulationPa
+ geTest$TestDialog.class
+SHA1-Digest: Bha1kghn5H7Z9gvnBoK3EK5pFfw=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/RemediationTest.class
+SHA1-Digest: ouoI5cfpQm2xLYkVVBHDetHmuRo=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstalledSoftwarePageTes
+ t$TestDialog.class
+SHA1-Digest: bZlLdHkBW2W0il8nPbQ6ShWxFMs=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstallationHistoryPageT
+ est.class
+SHA1-Digest: Vw0WI9q1XPMkoE4mxCsc5RdjRvo=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/PreferencePagesTest.clas
+ s
+SHA1-Digest: F7X4pV8daJV3xoDPkBVRaium+CI=
+
+Name: org/eclipse/equinox/p2/tests/ui/repohandling/AllTests.class
+SHA1-Digest: TdUSpmNW7w81goxDw3A19oGepIs=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryDescriptorTest$Simple
+ MatchQuery2.class
+SHA1-Digest: mPUZs6OadkDYSupemtpMuQT0j/E=
+
+Name: org/eclipse/equinox/p2/tests/ui/operations/ColocatedRepositoryTr
+ ackerTest.class
+SHA1-Digest: UzgljX49gwt0HYXdRnK1jODKENU=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryDescriptorTest$String
+ Wrapper.class
+SHA1-Digest: 8kmgMlI573Ec79p/b+bRyUiMijs=
+
+Name: org/eclipse/equinox/p2/tests/ui/operations/AllTests.class
+SHA1-Digest: d3/NYzAKqNii6PcUMtbWtclWNuk=
+
+Name: org/eclipse/equinox/p2/tests/ui/AutomatedTests.class
+SHA1-Digest: 2jURrjyXU32KeS1k/4i4NGGWj0U=
+
+Name: org/eclipse/equinox/p2/tests/importexport/ImportExportRemoteTest
+ s.class
+SHA1-Digest: UjS/fOF2ZXunKXTBn4k6CdwzaF0=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/AllTests.class
+SHA1-Digest: prMKtwlyzK6FhHqz3YNFfuJ/5ZA=
+
+Name: org/eclipse/equinox/p2/tests/ui/operations/InstallOperationTests
+ .class
+SHA1-Digest: a3c1AkVFqsrUoiZnaz0/WAJrTDM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/AnyRequiredCapabilityTest.
+ class
+SHA1-Digest: CooAQ/9LBhcPNynLhUcN5YB8jTY=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/QueryDescriptorTest$Simple
+ Queryable.class
+SHA1-Digest: O2fVXs6gzl7UgCfPXJEQvmQKiPY=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/ElementUtilsTest.class
+SHA1-Digest: /9Mr5rkCTgqXehtJnnoCKXlgUmA=
+
+Name: org/eclipse/equinox/p2/tests/importexport/AllTests.class
+SHA1-Digest: qRLiZDaYM318ocZeoOwU2mpRD0I=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/IUPropertyPagesTest.clas
+ s
+SHA1-Digest: xaruauixMuXetA39YYNKJ9Rvcz8=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/UninstallActionTest.clas
+ s
+SHA1-Digest: ML3fvqsSoHJmIpUn5NgyM1z1nfc=
+
+Name: org/eclipse/equinox/p2/tests/ui/operations/OperationFactoryTest.
+ class
+SHA1-Digest: J4AOEz7jvh3vyreTpkxaT/eKXLE=
+
+Name: org/eclipse/equinox/p2/tests/ui/actions/UninstallActionTest$Test
+ UninstallAction.class
+SHA1-Digest: uQpzUA47EZVFAw8BnxZEyRD8DZE=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/AllTests.class
+SHA1-Digest: xiM3kYF4m9tuamLWvadYGNay+hc=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/TranslationSupportTests.cl
+ ass
+SHA1-Digest: zl0ClGcC4TPIaeJPXYqJ4jf4KCo=
+
+Name: org/eclipse/equinox/p2/tests/ui/query/AllTests.class
+SHA1-Digest: bAxoVfo9J+qrse904MahCaa5Rs8=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InstallationHistoryPageT
+ est$TestDialog.class
+SHA1-Digest: +oCytifViO6otQMgsZ4J2oK8vKA=
+
+Name: org/eclipse/equinox/p2/tests/ui/dialogs/InvokeByHandlerTests.cla
+ ss
+SHA1-Digest: yj9/Ts/oBsKGicDRMYr1mvTQ8oA=
+

@@ -1,0 +1,73 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: PXXrPm1/8cByT5HIlaI47pCbGig=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 0LNh43rsTL7TjR0pKFWcINJ4Goc=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$BaseElement.class
+SHA1-Digest: AOcoSR5zwDuJ6ufLlnGf6+fQBcI=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/StyleRuleTest.class
+SHA1-Digest: lxV6UMxHrZtyIv8k7nEGzczYW5I=
+
+Name: org/eclipse/e4/ui/tests/css/core/util/ParserTestUtil.class
+SHA1-Digest: z0gbGkzLdtlbTQzosSmZT5+16oc=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/SelectorTest.class
+SHA1-Digest: +2/j5Ygjuy+hWMm+VaLdoiAQdlc=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/ValueTest.class
+SHA1-Digest: rBRtvwqRcaWQB/oR9pjJ246rcUk=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$1.class
+SHA1-Digest: oOzLZeWhbUjo7YP4tdzbl5sZKUU=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$2.class
+SHA1-Digest: gQKgr2SA+hLKAXh/P2lYZdTgsnE=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$3.class
+SHA1-Digest: Dv3N4Nrk/l36jDfUepS01L302gE=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$TestCSSEngine.cla
+ ss
+SHA1-Digest: VoKeEZEalXBaxfHGCBx+SYtVvG4=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/CascadeTest.class
+SHA1-Digest: Q8Ccqk0Nq2fWemmBaTAvBRJa7DA=
+
+Name: org/eclipse/e4/ui/tests/css/core/util/TestElement.class
+SHA1-Digest: F+Y8BoFXFnvyQfcGE4HKU+Dhe6w=
+
+Name: org/eclipse/e4/ui/tests/css/core/util/ParserTestUtil$1.class
+SHA1-Digest: +klL6EakxW7JQ1eycTd6G6oNWnI=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/ViewCSSTest.class
+SHA1-Digest: HaLXqI2dayaQOjHqQyonlZLWR7M=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$CollectionElement
+ .class
+SHA1-Digest: 8dbGm232dsN6Cx4XEYbw+jmj9z0=
+
+Name: org/eclipse/e4/ui/tests/css/core/CssCoreTestSuite.class
+SHA1-Digest: F6kv5CV1KS5gr+sFgHTpRfefUKA=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/MediaRulesTest.class
+SHA1-Digest: o+n9V9u1jAgKo+tsSVTwDdXDAd0=
+
+Name: org/eclipse/e4/ui/tests/css/core/Activator.class
+SHA1-Digest: fysJmZLkM3b3Tmgi75Xc1lLXwdY=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest.class
+SHA1-Digest: lAxvm6IDHTvRL7kHaB1StjKNbFY=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$SetElement.class
+SHA1-Digest: zp1P6jqRcOZ1GbcVV2jDNWtPBJY=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/RGBColorImplTest.class
+SHA1-Digest: 5QDYpIOY8BOOHptV2iRX38Pax9g=
+
+Name: test.xml
+SHA1-Digest: epMrxMiHNFLbqZvDA/54bsLTqLo=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/FontFaceRulesTest.class
+SHA1-Digest: hfpI//niCHR2u1MXyqYbILjcaa8=
+

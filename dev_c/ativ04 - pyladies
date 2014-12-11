@@ -1,0 +1,26 @@
+numero = "111111 129741 246315".split()
+cont = 0
+list_ok = []
+ok1 = ok2 = ok3 = 0
+
+for num in numero:
+    while(cont < 5):
+        if (num[cont]).__eq__(num[cont+1]): 
+            ok1 = False
+        else: 
+            ok1 = True
+        cont = cont + 1
+        
+    if sum([int(n) for n in str(num)]) % 2 == 0:
+        ok2 = True
+    else:
+        print(num)
+        ok2 = False
+        
+    if num[0] == num[-1]:
+        ok3 = False
+    else:
+        ok3 = True
+    if ok1 and ok2 and ok3:
+        print(num)
+    cont = 0

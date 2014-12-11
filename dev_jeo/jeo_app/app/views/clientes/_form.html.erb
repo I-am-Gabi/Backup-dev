@@ -1,0 +1,53 @@
+<%= form_for(@cliente) do |f| %>
+  <% if @cliente.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@cliente.errors.count, "error") %> prohibited this cliente from being saved:</h2>
+
+      <ul>
+      <% @cliente.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+<form role="form">
+  <div class="form-group col-xs-12">
+    <%= f.label :nome %><br>
+    <%= f.text_field :nome, :class => 'form-control' %>
+  </div>
+  <div class="form-group col-xs-12">
+    <%= f.label :email %><br>
+    <%= f.text_field :email, :class => 'form-control' %>
+  </div>
+  <div class="form-group col-xs-6">
+    <%= f.label :telefone01 %><br>
+    <%= f.text_field :telefone01, :class => 'form-control' %>
+  </div>
+  <div class="form-group col-xs-6">
+    <%= f.label :telefone02 %><br>
+    <%= f.text_field :telefone02, :class => 'form-control' %>
+  </div>
+  <div class="form-group col-xs-12">
+    <%= f.label :endereco %><br>
+    <%= f.text_field :endereco, :class => 'form-control' %>
+  </div>
+  <div class="form-group col-xs-6">
+    <%= f.label :bairro %><br>
+    <%= f.text_field :bairro, :class => 'form-control' %>
+  </div>
+  <div class="form-group col-xs-6">
+    <%= f.label :cidade %><br>
+    <%= f.text_field :cidade, :class => 'form-control' %>
+  </div>
+  <div class="form-group col-xs-12">
+    <%= f.label :data_nascimento %><br>
+    <%= f.date_select :data_nascimento, :class => 'form-control' %>
+  </div>  
+  <div class="actions col-xs-12">
+  <br>
+    <%= f.submit 'Cadastrar', :class => 'btn btn-default' %>
+  </div>
+</form>
+<br>
+<% end %>

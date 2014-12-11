@@ -1,0 +1,200 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ElJ7vd05fOC4FkkU/ba5sSfcFCQ=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: +svWrA5nN39oEp08am5lGb40XqI=
+
+Name: org/eclipse/equinox/region/tests/system/RegionSystemTests$1$1.cl
+ ass
+SHA1-Digest: BJ+9aRk4pNGIVubzhqTgoMyAKxc=
+
+Name: bundle_tests/ServiceProvider1.jar
+SHA1-Digest: YT2QpZmoqRSYToovAMhOYjaqkmY=
+
+Name: bundle_tests/ServiceProvider2.jar
+SHA1-Digest: XnfZS1M/i313UQaaBtSXMtp+8Eg=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionServiceEventHookT
+ ests$1.class
+SHA1-Digest: Otzc6UrHbYzLOQmpZlQw245I7/8=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionBundleCollisionHo
+ okTests.class
+SHA1-Digest: tRwFmfFIF84cbN+ndHgsoZ+LwYY=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionResolverHookTests
+ $StubBundleRequirement.class
+SHA1-Digest: pZgzJd53IVY/q1AqJFxw+y9bcDc=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionServiceFindHookTe
+ sts.class
+SHA1-Digest: /oWw84dVJrtpZzeesDw1AtbUhxw=
+
+Name: org/eclipse/equinox/region/tests/system/Bug346127Test.class
+SHA1-Digest: FyaZjUsULJOYW8jSZM+pHkQ2uCg=
+
+Name: org/eclipse/equinox/internal/region/StandardRegionDigraphPeriste
+ nceTests.class
+SHA1-Digest: +QteY+C9JLE0rX5l6Ou3M5F6pEo=
+
+Name: bundle_tests/PackageProvider1.jar
+SHA1-Digest: Fm0Qy8vullsTzjxZ9+sGKSVvUM4=
+
+Name: bundle_tests/PackageProvider2.jar
+SHA1-Digest: XVd03hwqXo0dLWQ2OGsYDN6YlEs=
+
+Name: org/eclipse/equinox/internal/region/BundleIdBasedRegionTests.cla
+ ss
+SHA1-Digest: 0N08cYwuSQQgMB62iDqQ09u3lS8=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionBundleEventHookTe
+ sts.class
+SHA1-Digest: 840oxUOB8aF6Ws+sU+ZmKfQSvSY=
+
+Name: org/eclipse/equinox/region/tests/system/Bug346127Test$1.class
+SHA1-Digest: 9qcYb3Y1+DkxADi72fWzu2XymUs=
+
+Name: bundle_tests/Singleton1.jar
+SHA1-Digest: YoQNPRKdv2Fd07UDBu8y8QQozos=
+
+Name: org/eclipse/equinox/region/tests/BundleInstaller$1.class
+SHA1-Digest: 2RN+WGZiYnYO2dYGhkKoCErr0ck=
+
+Name: bundle_tests/Singleton2.jar
+SHA1-Digest: ndMG9cPY3hVjeP3C2EQCzUk5QhA=
+
+Name: org/eclipse/equinox/region/tests/BundleInstaller$3.class
+SHA1-Digest: /erJ0XAqNNYrbbEcvYPh1Iq1DjU=
+
+Name: org/eclipse/equinox/internal/region/BundleIdBasedRegionTests$1.c
+ lass
+SHA1-Digest: SuqEUZzWV9Ms0zfj8S4WZVUFkRU=
+
+Name: org/eclipse/equinox/internal/region/BundleIdBasedRegionTests$3.c
+ lass
+SHA1-Digest: 2s7dt+dx6PMJH7JDpBNJa7kPGgw=
+
+Name: org/eclipse/equinox/region/tests/system/RegionSystemTests.class
+SHA1-Digest: NpXieSAoWN5NebIXwHIfL0pvva8=
+
+Name: org/eclipse/equinox/region/tests/AllTests.class
+SHA1-Digest: B4Sjxd2zOJ9LmkzHsvaGpBtCsuA=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionResolverHookTests
+ $StubBundleCapability.class
+SHA1-Digest: liUekxwTXllHj2xDJond7rk3dK0=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionBundleEventHookTe
+ sts$2.class
+SHA1-Digest: 0eD/g23qz4OitvvE+539VZxc7QY=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionResolverHookTests
+ $StubBundleRevision.class
+SHA1-Digest: WtPkP2aLadTAjD8plT6U5uUl7r0=
+
+Name: org/eclipse/equinox/internal/region/StandardRegionFilterTests.cl
+ ass
+SHA1-Digest: bKM4tX6CDKGBKhZZ/o2UYiuu+io=
+
+Name: stubs/org.eclipse.virgo.teststubs.osgi.jar
+SHA1-Digest: VU28Fz5SPiCXba4kGt/My0+aalE=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionResolverHookTests
+ .class
+SHA1-Digest: h8kakEemQQWmCq8FIvUahcsI91U=
+
+Name: bundle_tests/PackageClient1.jar
+SHA1-Digest: p+NwVtsIyHZP5Y+VAGvKLyjiI9c=
+
+Name: org/eclipse/equinox/internal/region/StandardBundleIdToRegionMapp
+ ingTests.class
+SHA1-Digest: sQ+8GHMGZSnkvcjbYQE/Gmxy+M4=
+
+Name: test.xml
+SHA1-Digest: MzV/2wVuEf4oFeaV8GOzvEe3v2s=
+
+Name: org/eclipse/equinox/region/tests/system/RegionPerformanceTests$2
+ .class
+SHA1-Digest: YEqR8SMUC9UekLmKmCKNZPDmL0A=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionBundleFindHookTes
+ ts.class
+SHA1-Digest: N/HM6AdeJBR49Tteo+nkscjQENk=
+
+Name: org/eclipse/equinox/internal/region/Bug395334Test.class
+SHA1-Digest: 9VTYRW2r4evAvaN4qrv4pLCJzOU=
+
+Name: org/eclipse/equinox/region/tests/system/AbstractRegionSystemTest
+ .class
+SHA1-Digest: dryBOX+KjkB4mZlLLniRmzMgeDI=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionServiceEventHookT
+ ests$2.class
+SHA1-Digest: P76G355UXCVmwZpbc1Ff7LN0qbE=
+
+Name: bundle_tests/BundleClient1.jar
+SHA1-Digest: 6pUnkBWjOf1jcManmRwpHmd1X30=
+
+Name: org/eclipse/equinox/internal/region/StandardRegionDigraphTests.c
+ lass
+SHA1-Digest: +OIMYevfBQlWUYARDHO7+yLwFxw=
+
+Name: bundle_tests/CapabilityProvider1.jar
+SHA1-Digest: dhMrC+iReUH5S9JHPh/+0N1oAdE=
+
+Name: bundle_tests/CapabilityProvider2.jar
+SHA1-Digest: PkpRdZ/Z5QTBAdIQLo3/fRUW3lY=
+
+Name: org/eclipse/equinox/region/tests/BundleInstaller.class
+SHA1-Digest: VG0YqQX7UjnveotKkfc5btzFX/k=
+
+Name: org/eclipse/equinox/region/tests/BundleInstaller$2.class
+SHA1-Digest: SiOtnOVLYzEyGTFyhFIFPkWQ/bI=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionResolverHookTests
+ $StubPackageCapability.class
+SHA1-Digest: PMqY15ihad8jq9YHP4JGmC4gKjI=
+
+Name: org/eclipse/equinox/internal/region/BundleIdBasedRegionTests$2.c
+ lass
+SHA1-Digest: ahOt6xqeuTbKi1qpM7PkStLQltU=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionBundleEventHookTe
+ sts$1.class
+SHA1-Digest: YUfr687n36B442lHKmYVjLGvfHo=
+
+Name: org/eclipse/equinox/region/tests/system/Bug346127Test$1$1.class
+SHA1-Digest: XnTFcI6auctAzACXDoJVXiEQe+M=
+
+Name: bundle_tests/ServiceClient1.jar
+SHA1-Digest: nF2WLL567Oe9weUV35gGymGe4eY=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionBundleEventHookTe
+ sts$3.class
+SHA1-Digest: VkLTsmehgR4480th4LzQBWMPdNg=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: bundle_tests/CapabilityClient1.jar
+SHA1-Digest: pf+t0Yy/xmxNWona3G6M2Q74cvY=
+
+Name: org/eclipse/equinox/region/tests/system/RegionPerformanceTests.c
+ lass
+SHA1-Digest: B74L6aL+hKcln7pkspZn3krMU4c=
+
+Name: org/eclipse/equinox/region/tests/system/RegionSystemTests$1.clas
+ s
+SHA1-Digest: BijmN+DRXo1Cfk6r8lLyeBbDBqw=
+
+Name: org/eclipse/equinox/internal/region/hook/RegionServiceEventHookT
+ ests.class
+SHA1-Digest: vKnFbjltWjZNpoY5B/u3SYT+AP8=
+
+Name: org/eclipse/equinox/internal/region/StandardRegionDigraphTests$T
+ estRegionDigraphVisitor.class
+SHA1-Digest: NUwj9XncdLVwjMiZXxwCPTKc9eM=
+
+Name: org/eclipse/equinox/region/tests/system/RegionPerformanceTests$1
+ .class
+SHA1-Digest: 0nYnMBXRCbv1zgdmL6oXpwFI000=
+

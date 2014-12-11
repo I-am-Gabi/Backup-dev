@@ -1,0 +1,185 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: tYBzEDL7qEr0RpgLpZGmabbhd/Q=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: JhBAZCtbmwj76NQFumB6ZBxAkSA=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/FwkAdminAndSimpleConfig
+ uratorTest.class
+SHA1-Digest: CeR8ura8uVarH9D+YavrZNYfT/w=
+
+Name: dataFile/org.eclipse.equinox.simpleconfigurator.jar
+SHA1-Digest: 77wzNQ6Iwe18ZX/kdJfarEDeNzw=
+
+Name: dataFile/readerTest1/conf/config.ini
+SHA1-Digest: QsXPc0w2W7OYzZj2Cr8aXKHocAo=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ReaderTestBug267850.cla
+ ss
+SHA1-Digest: Fchtx7FGNFmVGYWUj4C8KcfpZx4=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/RemovingABundle.class
+SHA1-Digest: ODbYn7Ah/sLl16zjgK815gaHKGE=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/OSGiVersionChange.class
+SHA1-Digest: HGnqFnnvxVtIcM+KwJTTpUDPxDg=
+
+Name: dataFile/sharedconfiguration/ignoreUserConfig/user-config.ini
+SHA1-Digest: m/Ry1mn4FLeM7h70boB9VbzKVAQ=
+
+Name: dataFile/dummy.frameworkextension_1.0.0.jar
+SHA1-Digest: qnvgdaVcFpG6yjxE4W7Binxr5ts=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/AbstractFwkAdminTest.cl
+ ass
+SHA1-Digest: ShVFu5J0O2620X9XR1cHpFHFGkw=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/Bug258370.class
+SHA1-Digest: lqjwP0fxxlezjmNo8/KwpdbZ+f0=
+
+Name: dataFile/bundle_1/META-INF/MANIFEST.MF
+SHA1-Digest: CuJ4fiKnnAxn9gZ1WGkB0vfYSrI=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/TestEclipseDataArea.cla
+ ss
+SHA1-Digest: SaIuPhj0K/KVqFFD/N2bzHFHka0=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/TestVMArg.class
+SHA1-Digest: N7YGGRL+VTU14ihtia/LCBcwft4=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/SimpleConfiguratorComin
+ gAndGoing.class
+SHA1-Digest: IjfMkNWVbTJdGmPnB+FRIQjGJJ0=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/RemovingAllBundles.clas
+ s
+SHA1-Digest: u8y7eTPpsHbz8GAltBlk1aj5L/Q=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/MacOSLikeSetup.class
+SHA1-Digest: n9gMnHAXymBLAKcZRRaYRLA+KKg=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/CleanupTest.class
+SHA1-Digest: GTL0YAV/ySL/0zFdCrwRNnHHGXY=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ReaderTest1.class
+SHA1-Digest: eRQXhC69pOtKpIDErI6+SVkJPPY=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ReaderTest3.class
+SHA1-Digest: x8pyPFha8gFGD4Y2P1Md9ol3zPI=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ReaderTest5.class
+SHA1-Digest: fL5dSIqVIbj0ZebEvyN3Xvc2stM=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/NoConfigurationValueInE
+ clipseIni.class
+SHA1-Digest: sg4Vcwr2TY3fc32fcUkn4hkQlAE=
+
+Name: dataFile/readerTestBug267850/conf/config.ini
+SHA1-Digest: NlQSS1Ywn9dapSlHswRmAXf0skw=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/AllTests.class
+SHA1-Digest: gtyWKe3V0kMek4idTp0Bu/OroDM=
+
+Name: dataFile/readerTest3/configuration/config.ini
+SHA1-Digest: wcsYszWJ6p8eRS28/oFOXkdZHHQ=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/UtilsTest.class
+SHA1-Digest: 5/uddYQxz+JihJFxqhLk4G+EKJY=
+
+Name: dataFile/org.eclipse.osgi.jar
+SHA1-Digest: FCo4t6GbdopBiFnWmJiEGS8EZ/U=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/RelativePathTest.class
+SHA1-Digest: VL14eSSnUjcc0OIeSgXsIIryGFI=
+
+Name: dataFile/readerTestBug285935/eclipse.ini
+SHA1-Digest: FGVpwjo3hhKQpFKp/LC+3JQr7lY=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/NoRenamingLauncherIni.c
+ lass
+SHA1-Digest: f6ab542/jbFfCLzZldaL7QdPzQM=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/RenamingLauncherIni.cla
+ ss
+SHA1-Digest: 4oFgbLopiFh1Txh9860xEe2Vj+8=
+
+Name: dataFile/bundle_2/META-INF/MANIFEST.MF
+SHA1-Digest: wOS3Vui07oNERhcz4kYXM1Mslnw=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/LauncherConfigLocationT
+ est.class
+SHA1-Digest: NgneYZdO6SP/uABWdeZvrfFG1LM=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/FrameworkExtensionTest.
+ class
+SHA1-Digest: q789CrtLEvri98HEyh2uTpBDdaI=
+
+Name: dataFile/sharedconfiguration/config.ini
+SHA1-Digest: ptpFyLffQmtj5K3LfBmTpJ1SDnw=
+
+Name: dataFile/sharedconfiguration/ignoreUserConfig/config.ini
+SHA1-Digest: tRKYcIaAe8KokPQ1QMiBjVxp9/U=
+
+Name: dataFile/readerTest1/eclipse.ini
+SHA1-Digest: vNbeUBWXI3MKjSPKtVzsmsXSjx8=
+
+Name: dataFile/sharedconfiguration/user-noshare-config.ini
+SHA1-Digest: ZK/zNB9gQFTykG6RYCTIOU5tRzU=
+
+Name: dataFile/readerTest3/eclipse.ini
+SHA1-Digest: dxxRYHAboz75tq58a0LPNj2KZ+Q=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/LauncherDataTest.class
+SHA1-Digest: fCGtyMy6kU2rXmn33AYPhO+jbTM=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/TestRunningInstance.cla
+ ss
+SHA1-Digest: RxExF5AelY84CKLssZ7Vd8gEIgo=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/SharedConfigurationTest
+ .class
+SHA1-Digest: GWf/qYA5UFJoZoVlOOwcPUj94lI=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ParserUtilsTest.class
+SHA1-Digest: K/UQTnbWkWlijjxY9YJDKSZT1cc=
+
+Name: dataFile/sharedconfiguration/user-config.ini
+SHA1-Digest: sjPpInuDGWQWhXjqVQD1vP2DPjI=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ReaderTestBug285935.cla
+ ss
+SHA1-Digest: /gd0Q2H+BK9wbhddHk3AznPjIlo=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/Activator.class
+SHA1-Digest: YHiccUb3oACGfrrAur+VBM2WeBc=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/SimpleConfiguratorTest.
+ class
+SHA1-Digest: C5XFSAmr+klPxTwjL/SUu6vGMrU=
+
+Name: dataFile/readerTestBug267850/eclipse.ini
+SHA1-Digest: nqw0TmNj+xqEf4CaABYyzdA4Tts=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ReaderTest2.class
+SHA1-Digest: bSUJn7n4/Jo7YyYnrpQR0uC4WkQ=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/Bug196525.class
+SHA1-Digest: iio07LmcOW8MsDGRltDZCRnqd44=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ReaderTest4.class
+SHA1-Digest: jHVDeEkDMjlzpj4DV77cVYuRaFI=
+
+Name: dataFile/org.eclipse.osgi_3.4.0.jar
+SHA1-Digest: 1Uzi3oKTZiGE/psTBpDSTkjSE6Q=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: dataFile/readerTestBug285935/conf/config.ini
+SHA1-Digest: HJNTByfQZTaFid2lPSWBZsfOxtM=
+
+Name: dataFile/org.eclipse.equinox.launcher.jar
+SHA1-Digest: Iy1l2LxaMzOzjo0gX3SKpAXuyS8=
+
+Name: org/eclipse/equinox/frameworkadmin/tests/ManipulatorTests.class
+SHA1-Digest: tjZiD2YRs1mpL84aaXyUqMrKTU4=
+

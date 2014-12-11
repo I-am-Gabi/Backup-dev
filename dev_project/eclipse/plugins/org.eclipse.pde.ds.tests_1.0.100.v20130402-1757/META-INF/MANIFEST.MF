@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.pde.ds.tests
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/pde/ec
+ lipse.pde.ui.git;path="ds/org.eclipse.pde.ds.tests";tag="I20130409-08
+ 00";commitId=2ca89ec9388f87c3a7139beb1594a2dd468ac92f
+Bundle-Activator: org.eclipse.pde.internal.ds.tests.Activator
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.4.0,4.0.0)
+ ",org.junit;bundle-version="3.8.2",org.eclipse.pde.core;bundle-versio
+ n="[3.3.0,4.0.0)",org.eclipse.pde.ds.core;bundle-version="[1.0.0,2.0.
+ 0)",org.eclipse.text;bundle-version="[3.3.0,4.0.0)"
+Bundle-Version: 1.0.100.v20130402-1757
+Export-Package: org.eclipse.pde.internal.ds.tests;x-internal:=true
+Build-Jdk: 1.7.0_11
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/internal/ds/tests/AllDSModelTests.class
+SHA1-Digest: 0bD3ycvESYr4XKIJFds2OHnh4Ho=
+
+Name: org/eclipse/pde/internal/ds/tests/DSServiceTestCase.class
+SHA1-Digest: oNtMlr/rQXK0aO9EbJHMs86s5/k=
+
+Name: org/eclipse/pde/internal/ds/tests/DSObjectTestCase.class
+SHA1-Digest: GostAphlbLHaYslVMXdW8jU8cxI=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/pde/internal/ds/tests/DSComponentTestCase.class
+SHA1-Digest: F/t78iYvF1J+r5zLnb1EnUexKkA=
+
+Name: plugin.properties
+SHA1-Digest: I7vBrqTF1KqSHoMAMCjhqNa2NBU=
+
+Name: org/eclipse/pde/internal/ds/tests/DSv10tov11TestCase.class
+SHA1-Digest: KqRQx4qaeUR7l1Vv/1EWBsaN5dc=
+
+Name: org/eclipse/pde/internal/ds/tests/DSProvideTestCase.class
+SHA1-Digest: kyMPr2PLMSOGj17bXPvKXSk1WBc=
+
+Name: org/eclipse/pde/internal/ds/tests/Activator.class
+SHA1-Digest: HUD+wSB1agMPYO+zeywU3RtTkmE=
+
+Name: org/eclipse/pde/internal/ds/tests/AbstractDSModelTestCase.class
+SHA1-Digest: AtHoQJuRVPVdXVzsw77bMeHVMH8=
+
+Name: org/eclipse/pde/internal/ds/tests/DSImplementationTestCase.class
+SHA1-Digest: YvCmniEoC91u9IgwaFfiCZrYFYM=
+
+Name: test.xml
+SHA1-Digest: TbXJitXFetKDDBql+Hl1AccWrhg=
+
+Name: org/eclipse/pde/internal/ds/tests/DSReferenceTestCase.class
+SHA1-Digest: +Du/9fWHJdbyowXZFN+TczdIFgU=
+
+Name: org/eclipse/pde/internal/ds/tests/DSPropertiesTestCase.class
+SHA1-Digest: TbnnB1ZLgW8u6ljl+B38Z8/yicE=
+
+Name: org/eclipse/pde/internal/ds/tests/DSPropertyTestCase.class
+SHA1-Digest: qPnfk9DPCxWONQ8MvRl0iICi1n0=
+

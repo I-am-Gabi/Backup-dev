@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.jdt.core.tests.binaries
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/jdt/ec
+ lipse.jdt.core.binaries.git;path="org.eclipse.jdt.core.tests.binaries
+ ";tag="I20130402-0800";commitId=a735640caaf03ecd75bfaf5167d0d9dc00d91
+ 06b
+Bundle-Version: 1.0.1.v20120112-1458
+Build-Jdk: 1.7.0_11
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: EclipseVisitorBug.java
+SHA1-Digest: op78V3Bc0VwWfl0JefzhzhIHxzo=
+
+Name: perf-test-project.zip
+SHA1-Digest: v2ZD4Jfweqqwx0UkwPhAWUxSu/I=
+
+Name: full-source-R3_0.zip
+SHA1-Digest: GOubjBsfBpLrddhvQnLGM4+Bd3Q=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: GenericTypeTest.java
+SHA1-Digest: NY8CPEpDeXX3oU8Rhxn/mwXgubs=
+
+Name: plugin.properties
+SHA1-Digest: haOMw3kSrlBGrUGH0vubh00kNaA=
+

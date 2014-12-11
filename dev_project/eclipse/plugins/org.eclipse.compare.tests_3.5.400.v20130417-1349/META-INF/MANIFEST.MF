@@ -1,0 +1,500 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.compare.tests;singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.team.git;path="tests/org.eclipse.compare.tests";t
+ ag="I20130419-1752";commitId=35f1b3a99bb4dcc042cd007a14103e5707eec5e3
+Bundle-Activator: org.eclipse.compare.tests.CompareTestPlugin
+Require-Bundle: org.junit,org.eclipse.compare,org.eclipse.jface.text,o
+ rg.eclipse.jface,org.eclipse.core.runtime,org.eclipse.test.performanc
+ e,org.eclipse.ui,org.eclipse.core.resources,org.eclipse.core.tests.re
+ sources,org.eclipse.core.tests.harness,org.eclipse.core.filesystem
+Bundle-Version: 3.5.400.v20130417-1349
+Export-Package: org.eclipse.compare.tests,org.eclipse.compare.tests.pe
+ rformance
+Build-Jdk: 1.7.0_11
+Bundle-ClassPath: comparetests.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: patchdata/2hunks_autofuzz_wrong_fuzz_used/patch.txt
+SHA1-Digest: QNRiGSar87T6gVjw+6dGxp04ZaY=
+
+Name: patchdata/bug150591_lf_lf_lf/patch_lf.txt
+SHA1-Digest: HSdGs1vSQrwLolSuiiypelHNa5U=
+
+Name: patchdata/shiftdown_f0/exp_context.txt
+SHA1-Digest: jnTYhDdeL3yjmMfcn8bpgkeGfL0=
+
+Name: patchdata/autoshift_fuzz1_begin/exp_context.txt
+SHA1-Digest: Gp5ggT66t4gnwaSTMffWgmXHtfM=
+
+Name: patchdata/shiftdown_f2/exp_context.txt
+SHA1-Digest: jnTYhDdeL3yjmMfcn8bpgkeGfL0=
+
+Name: patchdata/2hunks_autofuzz-f0-f2/patch.txt
+SHA1-Digest: 5/Bf7Vicnsh4FGTOqy9SfHc7bkI=
+
+Name: patchdata/exp_workspacePatchAddition2.txt
+SHA1-Digest: j8W7Hh2y9J4mjWTIifYHrbdMOr0=
+
+Name: patchdata/fuzz1/context.txt
+SHA1-Digest: ZMqvB+5ZudMLNj2zgl4SLRY9ttM=
+
+Name: patchdata/autoshift_fuzz1_begin/patchConfiguration.properties
+SHA1-Digest: GwV2XmvN7/rkHVAIrYqkfUwQj0A=
+
+Name: patchdata/patch_dateunknown.txt
+SHA1-Digest: 5DGcx7vZwezqXG8+g4hvsXcGrQw=
+
+Name: patchdata/shift_correct/patchConfiguration.properties
+SHA1-Digest: EQjBNcc6ds6AxNX5gRMWwzMtKKY=
+
+Name: patchdata/deletion_autofuzz/context.txt
+SHA1-Digest: Bwj206v/FR/kXZZ/+Ba0/I5eavI=
+
+Name: patchdata/context.txt
+SHA1-Digest: ZMqvB+5ZudMLNj2zgl4SLRY9ttM=
+
+Name: patchdata/196847/stuff_expected_result.txt
+SHA1-Digest: 9+s3l/cP170L9RukkWDbztcFTy4=
+
+Name: patchdata/addition_autofuzz-f2/context.txt
+SHA1-Digest: Bwj206v/FR/kXZZ/+Ba0/I5eavI=
+
+Name: patchdata/deletion_shift_f3_missplaced/patch_f3.txt
+SHA1-Digest: v8R4GvIh1g/6z8RrznhuoISLT4U=
+
+Name: patchdata/fail.txt
+SHA1-Digest: zQOye5ZEMjQ9m2NbDQ5mA2yG0FQ=
+
+Name: patchdata/autofuzz-f1/exp_context.txt
+SHA1-Digest: uc00eu5jiryavyOe8VGNHS8FcaY=
+
+Name: patchdata/autofuzz-f2/exp_context.txt
+SHA1-Digest: PC/kKo8ioRgdQTr3c213nc4/4Ng=
+
+Name: patchdata/bug150591_lf_crlf_lf/context_lf.patched.txt
+SHA1-Digest: KII7D+s3mcEsAxJnZneuCUBMiMA=
+
+Name: patchdata/2hunks_autofuzz-f1-f0/patch.txt
+SHA1-Digest: EOGWq1UuCg7yIegAs2seYc6ijI0=
+
+Name: patchdata/bug150591_lf_lf_lf/patchConfiguration.properties
+SHA1-Digest: aFcTu2LMcLxmvCNsTnLorypLrTA=
+
+Name: patchdata/autoshift_fuzz1_begin/context.txt
+SHA1-Digest: pT5Tv4uKwlM72TGl4oqEjVRmfnA=
+
+Name: patchdata/2hunks_autofuzz-f1-f0/exp_context.txt
+SHA1-Digest: ha2PjXUsX8U+g2IofARlyRshwmA=
+
+Name: patchdata/patch_context3_context.txt
+SHA1-Digest: NJj4YuhwUY/IuxGDdjTu3MLRa/4=
+
+Name: patchdata/bug150591_crlf_crlf_crlf/patchConfiguration.properties
+SHA1-Digest: U89UDDbRpVN92nEQSsNiUaag6CM=
+
+Name: patchdata/exp_workspacePatchDelete2.txt
+SHA1-Digest: Ikt8npc/y/5Dqj6IiRZW8UczZ1E=
+
+Name: patchdata/patch_context0.txt
+SHA1-Digest: UpxbUs6pRxKm/1dpuioMN4UT4lE=
+
+Name: patchdata/autoshift_fuzz1_end/patchConfiguration.properties
+SHA1-Digest: GwV2XmvN7/rkHVAIrYqkfUwQj0A=
+
+Name: patchdata/bug150591_lf_lf_lf/context_lf.txt
+SHA1-Digest: ZMqvB+5ZudMLNj2zgl4SLRY9ttM=
+
+Name: patchdata/2hunks_autofuzz_wrong_fuzz_used/act_context.txt
+SHA1-Digest: 81FwBFE7ekyuWTeit9cvs7nXnOg=
+
+Name: patchdata/patch_datevalid.txt
+SHA1-Digest: h27hzrZjimFzHEQpZhl0pkhupb0=
+
+Name: patchdata/patch_modifyHunks.txt
+SHA1-Digest: L6o0XcLDNgeUaCt56jQZNpz6uG8=
+
+Name: patchdata/autofuzz-f1/context.txt
+SHA1-Digest: ZMqvB+5ZudMLNj2zgl4SLRY9ttM=
+
+Name: patchdata/bug150591_cr_crlf_cr/patchConfiguration.properties
+SHA1-Digest: Tcwqz39L1IWIdLPTiL8q5NaLddQ=
+
+Name: patchdata/shift_correct/patch_f0.txt
+SHA1-Digest: iPrTnXofEloFbPXMYG7JS1K7Iuc=
+
+Name: patchdata/bug150591_crlf_lf_crlf/context_crlf.patched.txt
+SHA1-Digest: rH+vk/bCfsMWiQIs0yRrXNagpvc=
+
+Name: patchdata/2hunks_autofuzz-f0-f1/patch.txt
+SHA1-Digest: wNaBHXBCNg3z1EifzT2XdrvxlkU=
+
+Name: patchdata/2hunks_autofuzz_wrong_fuzz_used/exp_context.txt
+SHA1-Digest: myAKczkfq0P2esawIfC46/UrC/Y=
+
+Name: patchdata/exp_removeHunks.txt
+SHA1-Digest: LOnYrE3hfbkMrsUevabOvoanUMU=
+
+Name: patchdata/shiftdown_f2/patchConfiguration.properties
+SHA1-Digest: rkMXdsBMIU4cKE32JtzcB3iS780=
+
+Name: patchdata/patch_dateerror.txt
+SHA1-Digest: 80i2+DaWJGQJlCP1jTVwBkcC4UA=
+
+Name: patchdata/addition_shift_f3_misplaced/patchConfiguration.propert
+ ies
+SHA1-Digest: ppT3qTjlLwDznAfAHaZF30MeXAg=
+
+Name: patchdata/shiftdown_f0/patch_f0.txt
+SHA1-Digest: bHE8f18EuFhAvLQmj6lnDW3hsCU=
+
+Name: patchdata/196847/stuff.txt
+SHA1-Digest: PkQxtkgBKy1/QXkp36A9V+jBIKQ=
+
+Name: patchdata/patch_addition.txt
+SHA1-Digest: +irDwe+/sgsZuNWQ+BiF7HhyEjE=
+
+Name: patchdata/deletion_shift_f3_missplaced/context.txt
+SHA1-Digest: 2d+fIRLug17uBGKbbjJGE7BjrQo=
+
+Name: patchdata/autofuzz_cantfind/patch.txt
+SHA1-Digest: c/ibVVYDot15IcBm7ITEsNbxmEQ=
+
+Name: patchdata/deletion_shift_f2/exp_context.txt
+SHA1-Digest: yss4/RfdqgvRvuz/j5fmFWhQOdk=
+
+Name: patchdata/patch_addHunks.txt
+SHA1-Digest: qUd2nqLDw4/YkSogC3fmgcQsi8w=
+
+Name: patchdata/2hunks_switch/exp_context.txt
+SHA1-Digest: ha2PjXUsX8U+g2IofARlyRshwmA=
+
+Name: patchdata/exp_workspacePatchMod2.txt
+SHA1-Digest: Iyud9gW1luCEuEp5UcAN+SISaxE=
+
+Name: patchdata/2hunks_shift_autofuzz-1/patch.txt
+SHA1-Digest: r5yST6KnJ1CU5iOVcYy/jg6TqQk=
+
+Name: patchdata/2hunks_autofuzz_wrong_fuzz_used/context.txt
+SHA1-Digest: Txwqgbd8TOPT3w1/vXwWGgpnxUk=
+
+Name: patchdata/fuzz1/patchConfiguration.properties
+SHA1-Digest: GwV2XmvN7/rkHVAIrYqkfUwQj0A=
+
+Name: linereaderdata/unterminated.txt
+SHA1-Digest: Uox47KWXc2iDdyq/YWlaLolNXwM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: patchdata/2hunks_autofuzz-f0-f1/context.txt
+SHA1-Digest: oOJrOdRGp6Wg0Fa7OxOpFSL1kW4=
+
+Name: patchdata/bug150591_cr_crlf_cr/context_cr.patched.txt
+SHA1-Digest: nSqE/VovpWO74f75+dAkOOFFRSI=
+
+Name: patchdata/autoshift_fuzz1_begin/patch_f1.txt
+SHA1-Digest: 6OMdjkTjMffSSffZm3oz75qSCjc=
+
+Name: patchdata/shift_correct/context.txt
+SHA1-Digest: 2Suu9OzFzMehwKX7giNTFyMzubA=
+
+Name: patchdata/deletion_autofuzz/exp_context.txt
+SHA1-Digest: yss4/RfdqgvRvuz/j5fmFWhQOdk=
+
+Name: patchdata/exp_context.txt
+SHA1-Digest: KII7D+s3mcEsAxJnZneuCUBMiMA=
+
+Name: patchdata/bug150591_cr_cr_cr/context_cr.patched.txt
+SHA1-Digest: nSqE/VovpWO74f75+dAkOOFFRSI=
+
+Name: patchdata/patch_createHunk0.txt
+SHA1-Digest: Waod2Zbh9WP6iltcwuOJU7rNMN0=
+
+Name: patchdata/2hunks_switch_fail/patch.txt
+SHA1-Digest: 7O6LMO2+uZH8SFXt6ZpDmu5cgso=
+
+Name: patchdata/bug150591_cr_cr_cr/patchConfiguration.properties
+SHA1-Digest: 5Z8OnC/u/f+YJEMwSAWp2YZc4aw=
+
+Name: patchdata/bug150591_crlf_crlf_crlf/context_crlf.txt
+SHA1-Digest: 3oojuJE/UQ7kvg5iz374Y4CxPSw=
+
+Name: patchdata/patch_createHunk2.txt
+SHA1-Digest: 9fCQ7eEGTd2FMoS44oM0JplxNoA=
+
+Name: patchdata/addition.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: patchdata/deletion_shift_f3_missplaced/patchConfiguration.proper
+ ties
+SHA1-Digest: ppT3qTjlLwDznAfAHaZF30MeXAg=
+
+Name: patchdata/deletion_shift_f2/context.txt
+SHA1-Digest: Bwj206v/FR/kXZZ/+Ba0/I5eavI=
+
+Name: patchdata/196847/stuff_actual_result.txt
+SHA1-Digest: mN2Z/Aoe+mygDhkuoFVZ7rzJcEw=
+
+Name: patchdata/bug150591_cr_cr_cr/patch_cr.txt
+SHA1-Digest: zsVdqm0+Zy+cooLVEv5xkzhzOws=
+
+Name: patchdata/2hunks_switch/context.txt
+SHA1-Digest: oOJrOdRGp6Wg0Fa7OxOpFSL1kW4=
+
+Name: patchdata/bug150591_crlf_lf_crlf/patchConfiguration.properties
+SHA1-Digest: j1MDIlP5lLjEf7XLJgPKdJWAv44=
+
+Name: patchdata/fuzz2/context.txt
+SHA1-Digest: cvgLD/MEGrORwiRBg3ghi6VVlXE=
+
+Name: comparetests.jar
+SHA1-Digest: HeeHZun+8AcPlDtryIm1qkXJ+ew=
+
+Name: patchdata/2hunks_shift_autofuzz-1/context.txt
+SHA1-Digest: mnJDc8EC09JqY9qOSkfrxTr84XY=
+
+Name: patchdata/bug150591_lf_crlf_lf/patch.txt
+SHA1-Digest: VkaLkzO7i9k0ZkIMN7xqECQv170=
+
+Name: patchdata/shiftdown_f2/patch_f2.txt
+SHA1-Digest: OsS7seSNgX5QiB4gNlYIR4v9sBk=
+
+Name: patchdata/patch_workspacePatchDelete.txt
+SHA1-Digest: D69WD14DA9snms15XH4y+ZTneZQ=
+
+Name: patchdata/autofuzz-f2/patch.txt
+SHA1-Digest: r91zUdXmT/UeJiOEGHefn9oorL4=
+
+Name: patchdata/2hunks_switch/patch.txt
+SHA1-Digest: T1ztwG7bUVuzrJSlRFFxmCqFGbc=
+
+Name: patchdata/context_full.txt
+SHA1-Digest: RjMUUn7kmrAgwiv4X+jnI4T3oOk=
+
+Name: patchdata/2hunks_switch_fail/context.txt
+SHA1-Digest: zpYHCFw/O8b/yWVHJKTb17bFR0k=
+
+Name: linereaderdata/empty.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: patchdata/autofuzz_cantfind/exp_context.txt
+SHA1-Digest: ZMqvB+5ZudMLNj2zgl4SLRY9ttM=
+
+Name: patchdata/shiftdown_f0/context.txt
+SHA1-Digest: GX7pJEFDlDkAFdqcDvxz+auD8VE=
+
+Name: patchdata/patch_workspacePatchAddition.txt
+SHA1-Digest: IsgMnJbvCuBXQn9HC2J83MoB9Fo=
+
+Name: patchdata/shiftdown_f2/context.txt
+SHA1-Digest: GX7pJEFDlDkAFdqcDvxz+auD8VE=
+
+Name: patchdata/bug150591_lf_crlf_lf/context_lf.txt
+SHA1-Digest: ZMqvB+5ZudMLNj2zgl4SLRY9ttM=
+
+Name: patchdata/fuzz2/patchConfiguration.properties
+SHA1-Digest: rkMXdsBMIU4cKE32JtzcB3iS780=
+
+Name: patchdata/addition_autofuzz-f2/patch.txt
+SHA1-Digest: ldOprGgmvmTpAix6E4BtOMAXCZM=
+
+Name: patchdata/autofuzz-f1/addition.txt
+SHA1-Digest: tDdtz9gls3fOAaRMcZ8YnXlYkE0=
+
+Name: patchdata/bug150591_lf_lf_lf/context_lf.patched.txt
+SHA1-Digest: KII7D+s3mcEsAxJnZneuCUBMiMA=
+
+Name: patchdata/patch_removeHunks.txt
+SHA1-Digest: EidnVgeOhqzT8zRWUzyYofozIAM=
+
+Name: patchdata/autoshift_fuzz1_end/exp_context.txt
+SHA1-Digest: zUmIE17ogqBmdGy8L7VA0QODqnk=
+
+Name: patchdata/exp_workspacePatchDelete1.txt
+SHA1-Digest: yMwAf7FCoqPyLhFSqFsQ4AiiZIM=
+
+Name: patchdata/patch_context1.txt
+SHA1-Digest: HSdGs1vSQrwLolSuiiypelHNa5U=
+
+Name: patchdata/exp_addition2.txt
+SHA1-Digest: tDdtz9gls3fOAaRMcZ8YnXlYkE0=
+
+Name: patchdata/patch_context3.txt
+SHA1-Digest: /mpeUXirH3UpfiDZZQGthZIK4tk=
+
+Name: patchdata/deletion_shift_f3_missplaced/exp_context.txt
+SHA1-Digest: RrszP7kcD6LbAOPhRwUz+QDJvsA=
+
+Name: test.xml
+SHA1-Digest: 67/jF6pHIhPpGEzgT09xhw3rzQ8=
+
+Name: patchdata/autofuzz-f2/context.txt
+SHA1-Digest: KInHkRCpIs7cnvegaJBcZBv5H/8=
+
+Name: patchdata/patch_addition_context.txt
+SHA1-Digest: NajI/yxnkcp9OT/aUhEt09OpNpE=
+
+Name: patchdata/autofuzz_cantfind/context.txt
+SHA1-Digest: ZMqvB+5ZudMLNj2zgl4SLRY9ttM=
+
+Name: patchdata/exp_hunkFilter.txt
+SHA1-Digest: edIvUQYZ2mK9L233PD8PbJV5Sl4=
+
+Name: patchdata/addition_shift_f3_misplaced/exp_context.txt
+SHA1-Digest: 7BWaCEBwqCyfY4P+2UFkS+u6rHM=
+
+Name: patchdata/shiftdown_f0/patchConfiguration.properties
+SHA1-Digest: EQjBNcc6ds6AxNX5gRMWwzMtKKY=
+
+Name: patchdata/2hunks_autofuzz_wrong_fuzz_used/patchConfiguration.pro
+ perties
+SHA1-Digest: U8dM+r3WVccnBFYTqWTy9HJp65w=
+
+Name: patchdata/2hunks_autofuzz-f1-f0/context.txt
+SHA1-Digest: oOJrOdRGp6Wg0Fa7OxOpFSL1kW4=
+
+Name: patchdata/2hunks_autofuzz-f0-f1/exp_context.txt
+SHA1-Digest: ha2PjXUsX8U+g2IofARlyRshwmA=
+
+Name: patchdata/2hunks_autofuzz-f0-f2/exp_context.txt
+SHA1-Digest: 3s54JnSeY3+c5FB2tyCnT6hHMds=
+
+Name: patchdata/bug150591_crlf_lf_crlf/context_crlf.txt
+SHA1-Digest: 3oojuJE/UQ7kvg5iz374Y4CxPSw=
+
+Name: plugin.properties
+SHA1-Digest: h9PzZDjd8TfFzYHfw1EvlTUHqEo=
+
+Name: patchdata/fuzz1/patch_f1.txt
+SHA1-Digest: HcmOAA7fW4cGTyDnaXcekdD7QYM=
+
+Name: patchdata/shift_correct/exp_context.txt
+SHA1-Digest: 6J2qd9g1t0PtpB3C1Nv4c2yo9Ns=
+
+Name: patchdata/exp_modifyHunks.txt
+SHA1-Digest: F2kGMqfY+bMccZdhSWQel7aFLok=
+
+Name: patchdata/exp_createFilePatch.txt
+SHA1-Digest: /CzTm16jJ2pfN9mS+cWeTIlEWq4=
+
+Name: patchdata/bug150591_lf_crlf_lf/patchConfiguration.properties
+SHA1-Digest: vscrYNs4W+Gb6cBR5+0vKJytA+0=
+
+Name: linereaderdata/normal.txt
+SHA1-Digest: e9FmDvfmCiJwA28zASrZN23J6wA=
+
+Name: patchdata/autoshift_fuzz1_end/context.txt
+SHA1-Digest: SXuWlGoZo+zNzqWbj37yPnatO3c=
+
+Name: patchdata/deletion_shift_f2/patch_f2.txt
+SHA1-Digest: yWVkO0KOGi0nUXDVj2Gls1bjODs=
+
+Name: patchdata/autofuzz-f1/patch.txt
+SHA1-Digest: HcmOAA7fW4cGTyDnaXcekdD7QYM=
+
+Name: patchdata/196847/stuff_patch.txt
+SHA1-Digest: Iwt3H26hLiduSM0hKPE0nYtqEAc=
+
+Name: patchdata/exp_addition.txt
+SHA1-Digest: 1nqk5oMIYD5H+ETr19P/nTHpPWM=
+
+Name: patchdata/deletion_shift_f2/patchConfiguration.properties
+SHA1-Digest: rkMXdsBMIU4cKE32JtzcB3iS780=
+
+Name: patchdata/bug150591_crlf_lf_crlf/patch_lf.txt
+SHA1-Digest: HSdGs1vSQrwLolSuiiypelHNa5U=
+
+Name: patchdata/exp_workspacePatchMod1.txt
+SHA1-Digest: EiwBWPFqJTFSf33F7llCz1L2Uu0=
+
+Name: patchdata/patch_addition2.txt
+SHA1-Digest: TEPX3R6oZkU2swqfS0cX4jmS/og=
+
+Name: patchdata/fuzz1/exp_context.txt
+SHA1-Digest: uc00eu5jiryavyOe8VGNHS8FcaY=
+
+Name: patchdata/exp_workspacePatchMod3.txt
+SHA1-Digest: wv2mvEH1myMjvc4KyQbePfaaML8=
+
+Name: patchdata/fuzz2/exp_context.txt
+SHA1-Digest: JUWQqhA7aw+LrxMZ0mw/eIUQaRI=
+
+Name: patchdata/addition_shift_f3_misplaced/context.txt
+SHA1-Digest: Bwj206v/FR/kXZZ/+Ba0/I5eavI=
+
+Name: patchdata/exp_addHunks.txt
+SHA1-Digest: iqd5u6mH/6h6Rwea2iigG8h9Umo=
+
+Name: patchdata/2hunks_shift_autofuzz-1/exp_context.txt
+SHA1-Digest: nIb3VkyhqM87Xhhq/FCfymSRjV4=
+
+Name: patchdata/bug150591_crlf_crlf_crlf/patch.txt
+SHA1-Digest: VkaLkzO7i9k0ZkIMN7xqECQv170=
+
+Name: patchdata/2hunks_autofuzz-f0-f2/context.txt
+SHA1-Digest: oOJrOdRGp6Wg0Fa7OxOpFSL1kW4=
+
+Name: patchdata/deletion_autofuzz/patch.txt
+SHA1-Digest: YkIbR2OxdqV0cFV1WWwQptwAvSU=
+
+Name: patchdata/196847/patchConfiguration.properties
+SHA1-Digest: EXzWI10sMPkPPdVIda4NjvxD4Og=
+
+Name: patchdata/fuzz2/patch_f2.txt
+SHA1-Digest: h0fyx/jupO3XfGOXqcshJkbQnTg=
+
+Name: patchdata/addition_shift_f3_misplaced/patch_f3.txt
+SHA1-Digest: 9/hRUAzHzET3I4asZe8zCssry+k=
+
+Name: patchdata/exp_workspacePatchAddition.txt
+SHA1-Digest: ryogSdwE8g4E7QkMDjdklvsNexs=
+
+Name: patchdata/bug150591_crlf_crlf_crlf/context_crlf.patched.txt
+SHA1-Digest: rH+vk/bCfsMWiQIs0yRrXNagpvc=
+
+Name: patchdata/bug150591_cr_crlf_cr/context_cr.txt
+SHA1-Digest: tRrmMk0MoQlW9NLiudkAEMpqCqA=
+
+Name: patchdata/addition_autofuzz-f2/exp_context.txt
+SHA1-Digest: JP0uJlSVQmumC1fr3RNyp1SFsyc=
+
+Name: patchdata/patch_context3_header.txt
+SHA1-Digest: bVFeL+6hCOzmE5rJu35BMtENbn8=
+
+Name: patchdata/bug150591_cr_crlf_cr/patch.txt
+SHA1-Digest: VkaLkzO7i9k0ZkIMN7xqECQv170=
+
+Name: patchdata/patch_oneline_context.txt
+SHA1-Digest: WF7EDJZ/wPjHyAmFKR3DQyXWl4g=
+
+Name: patchdata/patch_hunkFilter.txt
+SHA1-Digest: IR1BCFpttn7SSY0kYkTyc/QT8NY=
+
+Name: patchdata/patch_createHunk1.txt
+SHA1-Digest: OeWRrCHrMTjeo65a33gXZcjGYVk=
+
+Name: patchdata/bug150591_cr_cr_cr/context_cr.txt
+SHA1-Digest: tRrmMk0MoQlW9NLiudkAEMpqCqA=
+
+Name: patchdata/patch_createHunk3.txt
+SHA1-Digest: JxLaKGD/JJUxBIaV9hVj9UQ5QS0=
+
+Name: patchdata/patch_workspacePatchMod.txt
+SHA1-Digest: lwj/QuDnRnoEwv24N3eBbqvFQ1o=
+
+Name: patchdata/2hunks_switch_fail/exp_context.txt
+SHA1-Digest: LEjHfr4YsLFYXMPQHyQDkCO+j1U=
+
+Name: patchdata/autoshift_fuzz1_end/patch_f1.txt
+SHA1-Digest: dbgOKL3wQjjZyyvPEwe6gq3acu0=
+

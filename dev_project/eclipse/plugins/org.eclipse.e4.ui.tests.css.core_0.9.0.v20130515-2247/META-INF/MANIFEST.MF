@@ -1,0 +1,89 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.e4.ui.tests.css.core
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.ui.git;path="tests/org.eclipse.e4.ui.tests.css.co
+ re";tag="I20130515-2000";commitId=bc510cfd80224d0d77919e36978d5bc71eb
+ 6fa3d
+Require-Bundle: org.eclipse.core.runtime,org.junit,org.eclipse.swt,org
+ .eclipse.e4.ui.css.core,org.eclipse.e4.ui.css.swt,org.w3c.css.sac,org
+ .eclipse.core.tests.harness
+Bundle-Activator: org.eclipse.e4.ui.tests.css.core.Activator
+Bundle-Version: 0.9.0.v20130515-2247
+Build-Jdk: 1.7.0_11
+Bundle-ActivationPolicy: lazy
+Bundle-Name: e4 css core tests (Incubation)
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$BaseElement.class
+SHA1-Digest: rYCQB4roqeokjzEKRNuYlLimjZI=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/StyleRuleTest.class
+SHA1-Digest: LUErDEQ7CoHn4/OfL0aY32fz0MU=
+
+Name: org/eclipse/e4/ui/tests/css/core/util/ParserTestUtil.class
+SHA1-Digest: 6i4Zz9+m1+IcEM8Yhbea8NfFCPM=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/SelectorTest.class
+SHA1-Digest: WU9c7CtSj/ygRLFB3N2Ap4O14dk=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/ValueTest.class
+SHA1-Digest: tnXxQ0hkOTfOsvqdK8K48vxc1NU=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$1.class
+SHA1-Digest: oTnzn8fegC9FWA+iRxNFytgABEg=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$2.class
+SHA1-Digest: bYcgQoqRKtt6ekigMd524fZUiUk=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$3.class
+SHA1-Digest: 30aUQBtO9eq1MttLvPvUkF9fbN4=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$TestCSSEngine.cla
+ ss
+SHA1-Digest: +D7/N/kFsybp6ohmhgTT5q/woeA=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/CascadeTest.class
+SHA1-Digest: BVvz2c6jz3y26UJ6FxA8LMiTPOE=
+
+Name: org/eclipse/e4/ui/tests/css/core/util/TestElement.class
+SHA1-Digest: ihaeq5IxXaJSLXyck2I4Yf9Xmss=
+
+Name: org/eclipse/e4/ui/tests/css/core/util/ParserTestUtil$1.class
+SHA1-Digest: Dzx5ZNKYDzbWpYeBh6iv9U0/JT4=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/ViewCSSTest.class
+SHA1-Digest: MGLT/Xt6oJDVm+5n36zKHIGxELI=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$CollectionElement
+ .class
+SHA1-Digest: xSaOet2Qy/QLOkWBMiQg0RfAjP0=
+
+Name: org/eclipse/e4/ui/tests/css/core/CssCoreTestSuite.class
+SHA1-Digest: sD6eDXfehKH4VWbbSbdAhnzCfYE=
+
+Name: org/eclipse/e4/ui/tests/css/core/Activator.class
+SHA1-Digest: MxmLv+CG8fPs38ZZ7w89m2sNgpY=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/MediaRulesTest.class
+SHA1-Digest: DgYT2M6m4daX1Rae62hEwXxwfUY=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest$SetElement.class
+SHA1-Digest: a87hjbVcRB/zjdmk41XUOefF2b0=
+
+Name: org/eclipse/e4/ui/tests/css/core/CSSEngineTest.class
+SHA1-Digest: 3EwXAXSyRUUNMAk9B+gPD+Jt4pI=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/RGBColorImplTest.class
+SHA1-Digest: HjbqYhabnVgVRkuHdogRPlsGusM=
+
+Name: test.xml
+SHA1-Digest: kYdJzpCJYaoymf4MwFkFeGcdvD4=
+
+Name: org/eclipse/e4/ui/tests/css/core/parser/FontFaceRulesTest.class
+SHA1-Digest: ePIOTdYKQ381llvg0zb4oL1Ne8o=
+

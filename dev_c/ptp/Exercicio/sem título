@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main() {
+    int n, i, j, contador, mult, valor;
+    n = i = j = contador = mult = 0; 
+  
+    scanf("%i ", &n);
+    while (contador < n) {   
+        if ((contador + 2) * (contador + 1) * (contador) == n){
+            valor = 1;   
+            return 0;
+        }  
+        else {
+            valor = 2;
+        }
+        contador = contador + 1;
+    }  
+    if (valor == 1) {
+        printf("oi");
+    }
+    return 0;
+}

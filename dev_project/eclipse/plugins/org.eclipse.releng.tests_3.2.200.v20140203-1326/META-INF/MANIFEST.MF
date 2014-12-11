@@ -1,0 +1,57 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.releng.tests;singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.releng.git;path="bundles/org.eclipse.releng.tests
+ ";tag="M20140205-0800";commitId=d0189c1c5103aa398b6802b8c5548dab91dfe
+ dd1
+Require-Bundle: org.eclipse.core.runtime,org.junit,org.eclipse.jgit;bu
+ ndle-version="[3.0.0,4.0.0)";resolution:=optional,org.eclipse.core.re
+ sources,org.eclipse.egit.core;bundle-version="[3.0.0,4.0.0)";resoluti
+ on:=optional,org.eclipse.releng.tools;bundle-version="3.6.100"
+Bundle-Version: 3.2.200.v20140203-1326
+Export-Package: org.eclipse.releng.tests
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: relengtests.jar
+Bundle-Vendor: %Plugin.providerName
+Bundle-Name: %Plugin.name
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: notes.txt
+SHA1-Digest: uIl0GZ7dmuv+qP35X3F3LPvnDjE=
+
+Name: ignoreErrorsUnix.txt
+SHA1-Digest: TWWYVOjJbmInhDYDz3TAd8U6UKU=
+
+Name: pom.xml
+SHA1-Digest: /1Hd29rjZHZndj2jbsoHyFzyYJY=
+
+Name: ignoreFiles.txt
+SHA1-Digest: e+NS7OYSQXGx3lXcsSIxpCE+mTU=
+
+Name: ignoreErrorsWindows.txt
+SHA1-Digest: eeqQWfYFxF+qSsiBJ69NWS9mwIY=
+
+Name: compareoptions.properties
+SHA1-Digest: CRlOFxSo7b7+XT3x7pfG9KuQC9A=
+
+Name: relengtests.jar
+SHA1-Digest: gzwZTu/XVgqyyPzaz++UbQGoXQQ=
+
+Name: forceQualifierUpdate.txt
+SHA1-Digest: NjJfzP+9PN4dkOGz2wkX9DAw4bc=
+
+Name: test.xml
+SHA1-Digest: NNR9TbMOcRfOzzzqfp1OWplti3M=
+
+Name: compare.properties
+SHA1-Digest: LSWrOLu4aNu4AfFYx4s0T07NNqU=
+
+Name: plugin.properties
+SHA1-Digest: wowgX3pIl6zMWAN2HED/F/HstmY=
+

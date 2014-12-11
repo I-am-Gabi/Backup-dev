@@ -1,0 +1,105 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.equinox.security.tests;singleton:=tru
+ e
+Eclipse-LazyStart: true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/equino
+ x/rt.equinox.bundles.git;path="bundles/org.eclipse.equinox.security.t
+ ests";tag="I20130402-0800";commitId=452e0c8dae5a52ad9bb97e073caa16b40
+ c3c1eee
+Bundle-Activator: org.eclipse.equinox.internal.security.tests.Security
+ TestsActivator
+Require-Bundle: org.eclipse.core.tests.harness;bundle-version="3.4.0",
+ org.junit,org.eclipse.osgi;bundle-version="3.4.0",org.eclipse.equinox
+ .security;bundle-version="0.0.1",org.eclipse.equinox.registry;bundle-
+ version="3.4.0",org.eclipse.equinox.preferences;bundle-version="3.2.2
+ 00"
+Bundle-Version: 1.0.100.v20130327-1442
+Export-Package: org.eclipse.equinox.internal.security.tests;x-internal
+ :=true,org.eclipse.equinox.internal.security.tests.storage;x-internal
+ :=true,org.eclipse.equinox.security.tests;version="1.0.0"
+Build-Jdk: 1.7.0_11
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: Eclipse.org
+Bundle-Name: Equinox security tests
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/internal/security/tests/storage/WinPreferenc
+ esTest.class
+SHA1-Digest: peENxqjiQNiKwf6L5K2A3iXT2Rc=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/LowPriorityM
+ odule.class
+SHA1-Digest: nyfzxgVlq0M4B6QfLXdyg9SrFZ8=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/SlashEncodeT
+ est.class
+SHA1-Digest: eCTymqjDeKKHi4B04NYMQo4ZpvM=
+
+Name: SecurePrefsSample/1/secure_storage.equinox
+SHA1-Digest: 7DrV4eSBAGOg+eCZtxGIrrk8bYc=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/HighPriority
+ Module.class
+SHA1-Digest: oONGckdmR1EOcgFyy+d5sDgY4oY=
+
+Name: Plugin_Testing/priority/high/plugin.xml
+SHA1-Digest: meI4lHzIsXEr/2BC2pexlw4prRQ=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/ManualTest.c
+ lass
+SHA1-Digest: 2xqkzUywChS7S2IvMbxSk33lsM4=
+
+Name: Plugin_Testing/priority/high/META-INF/MANIFEST.MF
+SHA1-Digest: e9SzdkEEJ50tSp+AMFoEWb+0Plw=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/StorageAbstr
+ actTest.class
+SHA1-Digest: AxP4vym2E7Mz7Bs5F/7VNapmMvs=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/SecurePrefer
+ encesTest.class
+SHA1-Digest: gucyAEqIuwEfeKKmF7sYehpuSIo=
+
+Name: org/eclipse/equinox/internal/security/tests/SecurityTestsActivat
+ or.class
+SHA1-Digest: P7jkovAk6w8GMlIPq775bpd8yHo=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/Base64Test.c
+ lass
+SHA1-Digest: OXcX2A72y1rYcahUjyqgyIqMQeo=
+
+Name: Plugin_Testing/priority/low/plugin.xml
+SHA1-Digest: /ZvxW0MM1QguLAz53tYJZJN6GgA=
+
+Name: test.xml
+SHA1-Digest: ZT/scuBcAM8fiz1J2Ry9UiX4GME=
+
+Name: plugin.xml
+SHA1-Digest: kRGvHtAIj78E7VNkdAK7CfEhLGM=
+
+Name: org/eclipse/equinox/security/tests/AllSecurityTests.class
+SHA1-Digest: 14VzJ57W2E9TTxRGgL8kkOH67zs=
+
+Name: Plugin_Testing/priority/low/META-INF/MANIFEST.MF
+SHA1-Digest: RVZLXc6UoBtH152JgqiXQhcWAIM=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/DefaultPrefe
+ rencesTest.class
+SHA1-Digest: GtTtLx51JHIfeHzlthLR4rt2upQ=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/WaitingRegis
+ tryListener.class
+SHA1-Digest: bFS/MuqTur5No5MfjKhC65lhG4c=
+
+Name: org/eclipse/equinox/internal/security/tests/storage/DynamicPrefe
+ rencesTest.class
+SHA1-Digest: hQkGiNHe0vbYymb86IMVkRySraA=
+

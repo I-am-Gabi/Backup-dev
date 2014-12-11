@@ -1,0 +1,753 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.osgi.tests;singleton:=true
+Eclipse-LazyStart: true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/equino
+ x/rt.equinox.framework.git;path="bundles/org.eclipse.osgi.tests";tag=
+ "M20130630-1609";commitId=3256d9a9dff3d1e8fef267c78fe10bf28804ac99
+Bundle-Activator: org.eclipse.osgi.tests.OSGiTestsActivator
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.core.tests.harnes
+ s,org.eclipse.test.performance,org.junit
+Bundle-Version: 3.9.0.v20130606-1531
+Export-Package: org.eclipse.osgi.tests.bundles,org.eclipse.osgi.tests.
+ appadmin
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: osgitests.jar
+Bundle-Vendor: Eclipse.org
+Bundle-Name: Core OSGi Tests
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+DynamicImport-Package: ext.framework.b
+Import-Package: org.osgi.service.event; resolution:="optional"
+Bundle-ManifestVersion: 2
+
+Name: bundle_tests/console.test.jar
+SHA1-Digest: EZlkqubOtFUWxZn2iFvaqqmzsJU=
+
+Name: bundle_tests/test.fragment5.jar
+SHA1-Digest: qoFT378wdggcNTrzsTRwA40sscA=
+
+Name: bundle_tests/security.a.frag.a.jar
+SHA1-Digest: NYiVYmdWn0eoEldziY+981Q267I=
+
+Name: bundle_tests/test.link.e.client.jar
+SHA1-Digest: +7XkQPtGOX0RqvjuGYbe+fviMx8=
+
+Name: test_files/security/pkcs12/ca2_root.p12
+SHA1-Digest: eqAB+yLwovdVgp8Pkja1aHABlYA=
+
+Name: bundle_tests/chain.test.b.jar
+SHA1-Digest: 1FGO3fZK16JRYlaq1dTyPezVrLY=
+
+Name: bundle_tests/test.bug287636.b.jar
+SHA1-Digest: 4Aa7Q6W+LFdiLir0Vam9LH20ytM=
+
+Name: bundle_tests/exporter.importer4.jar
+SHA1-Digest: GAASD8N7rma/qNsbkB55bsFbKew=
+
+Name: test_files/security/pkcs12/ca2_ou.p12
+SHA1-Digest: hJMmW1qqgHbjflUs9pottRblE4o=
+
+Name: bundle_tests/test.link.c.jar
+SHA1-Digest: ClfL5it5N3TdYEfdKlAgEv39cmw=
+
+Name: test_files/internal/plugins/appAdminTests/appadmin.test01/plugin
+ .xml
+SHA1-Digest: 6xAbK2VGFIxsxXtliJOHORC2Si4=
+
+Name: test_files/security/bundles/signed.jar
+SHA1-Digest: KC13dsZZhh9r/J/s7hPU1uWL8F8=
+
+Name: test_files/genericCapability/p5.v101.osgi.MF
+SHA1-Digest: T6mH04h4kMK/hrClPXQr0JVWDOY=
+
+Name: test_files/genericCapability/p3.equinox.MF
+SHA1-Digest: jrvyjSX/cKGw7rk+5QvRMIrQmJU=
+
+Name: test_files/internal/plugins/installTests/bundle18/META-INF/MANIF
+ EST.MF
+SHA1-Digest: u/QUlt4S1ZO+6gW9eE96sa1D06A=
+
+Name: test_files/genericCapability/c6.v160.osgi.MF
+SHA1-Digest: Wq24Q7D0WL3WUxXEAR6HE4ybOQI=
+
+Name: test_files/security/pkcs12/ca1_leafa.p12
+SHA1-Digest: FM6dmZsTQjmf5HimyrFXVPh60yE=
+
+Name: test_files/resourcetests/bundles/test/folder/paren).txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/internal/plugins/installTests/bundle02_1.0.0/plugin.x
+ ml
+SHA1-Digest: InaAKQsRJWZDyOLKaWlRUvord1I=
+
+Name: test_files/genericCapability/c4.v100.osgi.MF
+SHA1-Digest: cO6TfHhwmeyQX/k9zIk/xXlD+14=
+
+Name: test_files/genericCapability/c1.osgi.MF
+SHA1-Digest: B7Xj4JbvCIQQnQuStBoAqHaIgpo=
+
+Name: test_files/genericCapability/c3.osgi.MF
+SHA1-Digest: mSd6ltyGsnBm4AwvwjvhsmETF9Y=
+
+Name: test_files/genericCapability/c2.equinox.MF
+SHA1-Digest: 6OXk8l2jvTFIJ9W/lQz66fVbWww=
+
+Name: test_files/genericCapability/c5.osgi.MF
+SHA1-Digest: 6NkeVquNn9OJdvFq3fRCml98AfU=
+
+Name: bundle_tests/security.a.jar
+SHA1-Digest: T1FmPbu/wLvJi6Tf0Ows6C79hUs=
+
+Name: bundle_tests/test.bug259903.c.jar
+SHA1-Digest: Jhjh6iIDuU6ScCwjzGKnjIwmj4k=
+
+Name: test_files/genericCapability/p5.v110.osgi.MF
+SHA1-Digest: Xk3FE5qRdUBekXEfi8PZTYL1BJo=
+
+Name: test_files/security/bundles/multiply_signed_with_corrupt.jar
+SHA1-Digest: MUSS/6DbWd106M8zNH/nsF27F4A=
+
+Name: bundle_tests/legacy.lazystart.b.jar
+SHA1-Digest: UX+LxvxweOtlbUTGi0U/eT7voxI=
+
+Name: test_files/internal/plugins/installTests/bundle03/plugin.xml
+SHA1-Digest: 1rZEJqk5Ffi8saWZ3JCvx0tbnyw=
+
+Name: test_files/resourcetests/bundles/test/file2.txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/wiringTests/bundles/resource.tf2/META-INF/MANIFEST.MF
+SHA1-Digest: fKr8gQXYZgYU3vRW+4lEATVnXP8=
+
+Name: test_files/internal/plugins/installTests/bundle15/META-INF/MANIF
+ EST.MF
+SHA1-Digest: bERcWblGrsPB6bRGvtLlYRfUBPA=
+
+Name: bundle_tests/xfriends.test2.jar
+SHA1-Digest: jOWlUUCwmPdM61EmRTrbmuimWbQ=
+
+Name: bundle_tests/test.jar
+SHA1-Digest: jJqnnEL76oAHqBeLX9aHweV8pJI=
+
+Name: bundle_tests/substitutes.b.jar
+SHA1-Digest: J5x8LRWLuz2v2QIx4ctDEI4pbZ8=
+
+Name: test_files/genericCapability/p7.v100.osgi.MF
+SHA1-Digest: WGS2MkJmXAwgZYqRgX1x1pe8Qpg=
+
+Name: bundle_tests/test.bug287750.jar
+SHA1-Digest: xl49CWQ2D17n1XcvjamUyBYgatM=
+
+Name: bundle_tests/substitutes.f.jar
+SHA1-Digest: /FqVoMTE2nCilYxQ5YAaDdKZpuI=
+
+Name: test_files/internal/plugins/installTests/bundle06/plugin.xml
+SHA1-Digest: aSYgCzkTooCEU7zcv05qju8cQkk=
+
+Name: bundle_tests/substitutes.j.jar
+SHA1-Digest: 1u2xhdIVAtRN/pL3Nyz+GP/NDy4=
+
+Name: bundle_tests/nativetest.a1.jar
+SHA1-Digest: yfJOPMlWygIt+Y8ff4TJ6otchDI=
+
+Name: test_files/security/bundles/SHA256withRSA.jar
+SHA1-Digest: F+tOg60v36r2KgqrLqQOgWi4txc=
+
+Name: bundle_tests/test.bug306181a.jar
+SHA1-Digest: wFAld/RvYNgcsvh5c90lQxS7y1Y=
+
+Name: test_files/genericCapability/p2.osgi.name.MF
+SHA1-Digest: l3s7tNetT8Su1TdVQ/eqXqkXouI=
+
+Name: bundle_tests/substitutes.n.jar
+SHA1-Digest: 77F9uv+ggsBil0WdX5h/PlVGhAs=
+
+Name: bundle_tests/activator.error3.jar
+SHA1-Digest: ZsrvEryBSy0F9oxpEzvVc5LQ2Vw=
+
+Name: bundle_tests/frag.multiple.exports.jar
+SHA1-Digest: had3o3VQtxYLKmK2jQhy5oelG/w=
+
+Name: test_files/security/leafkeys.jks
+SHA1-Digest: KpiemOhRCnIo+cqgGgAYAi9ZRcA=
+
+Name: test_files/internal/plugins/installTests/bundle12/META-INF/MANIF
+ EST.MF
+SHA1-Digest: aEZXjAfQKx0cPluy9RA2Q5abqJU=
+
+Name: bundle_tests/test.bug235958.x.jar
+SHA1-Digest: QX9IaTotiYDEPxEoFbUp0jTEUjI=
+
+Name: test_files/security/pkcs12/ca2_leafb.p12
+SHA1-Digest: YFN3gu7VdnUziDGdMjsicYeKNAE=
+
+Name: test_files/genericCapability/c4.v120.osgi.MF
+SHA1-Digest: VkGOHiEUmfndNpJJmnaNFpNyDLI=
+
+Name: bundle_tests/ext.framework.b.jar
+SHA1-Digest: sHZLSEt+KUR0Wu8IwSRF6xcufek=
+
+Name: bundle_tests/host.multiple.exports.jar
+SHA1-Digest: qlv0hSF1zwOgPvrfM5Kqk0a//po=
+
+Name: test_files/wiringTests/bundles/singleton.tb1v1/META-INF/MANIFEST
+ .MF
+SHA1-Digest: seVX9+nPCGK5WhZUCP3hMygseco=
+
+Name: bundle_tests/substitutes.b.frag.jar
+SHA1-Digest: ivpLqjY+DpdOp8/bVQwcJHRMVkw=
+
+Name: bundle_tests/fragment.test.attach.frag.a.jar
+SHA1-Digest: r1NU8pBJJS63PE69YK4e+2hHEDE=
+
+Name: test_files/internal/plugins/installTests/bundle09/plugin.xml
+SHA1-Digest: 22DTfgNlz4Hw5iKDD5L3g4uzQj4=
+
+Name: bundle_tests/osgi.lazystart.c.jar
+SHA1-Digest: KSPm7kWDToUVArTqitjyjH5/9Bc=
+
+Name: bundle_tests/ext.extclasspath.a.jar
+SHA1-Digest: u1gDfFtUNsnuQucpobx5tKDPy8o=
+
+Name: bundle_tests/nativetest.b2.jar
+SHA1-Digest: 6k91Ks/ZAoaWUTlH9niOBaSB4Hs=
+
+Name: test_files/wiringTests/bundles/resource.tb4/META-INF/MANIFEST.MF
+SHA1-Digest: NzA45aYQiQJ2znBOYx0Jk4K6KsI=
+
+Name: test_files/security/bundles/multiply_signed.jar
+SHA1-Digest: QmiHEQ8eulgmz2xuckha2OZR5DA=
+
+Name: test_files/internal/plugins/installTests/bundle07b/plugin.xml
+SHA1-Digest: O5KNZPvM5ncA7J9rXsyn1CrTy+g=
+
+Name: bundle_tests/test.fragment4.jar
+SHA1-Digest: VjsE4dF810d9RTxB8jLQd49KSBA=
+
+Name: test_files/genericCapability/c6.v110.osgi.MF
+SHA1-Digest: 4IYsgIaT86Uf0N2q/ib54UDXeNQ=
+
+Name: bundle_tests/buddy.registered.a.test2.jar
+SHA1-Digest: QUoDjsSigWldNfrlb6u84bJn4mA=
+
+Name: bundle_tests/test.link.a.client.jar
+SHA1-Digest: B6ql6GZMr5jOD+ndYcUkjp87O3E=
+
+Name: bundle_tests/chain.test.a.jar
+SHA1-Digest: YrLKlDREUr7LZkMNJyCwn2jlbv0=
+
+Name: bundle_tests/buddy.dependent.a.jar
+SHA1-Digest: FReBvVlNWNyAxCgfJhoXGy3Fjac=
+
+Name: bundle_tests/test.link.b.jar
+SHA1-Digest: kCAQW6iRrLK0ctkm/1Sok3BeA3M=
+
+Name: bundle_tests/exporter.importer3.jar
+SHA1-Digest: OFIbOQBPGXO2Ht6shc3Wb66KZ8s=
+
+Name: test_files/resolverTests/p1.MF
+SHA1-Digest: daXpXyjSuMSZdRHuua2fx8Uj98c=
+
+Name: test_files/devCPTests/devCP/tb1/resource.txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/resourcetests/bundles/test/folder/file2.txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: bundle_tests/chain.test.jar
+SHA1-Digest: IhYHlxM88Qwe1Wqs+IiT1p6gacw=
+
+Name: test_files/wiringTests/bundles/resource.tb1/META-INF/MANIFEST.MF
+SHA1-Digest: bGBbdtdAbTaFKs5Fu++pw7Ml0QY=
+
+Name: bundle_tests/circularity.test.a.jar
+SHA1-Digest: HvFtKZh3QT4/zNLRChuEJ6ZC+98=
+
+Name: test_files/internal/plugins/installTests/bundle10/plugin.xml
+SHA1-Digest: M80G2ZG8OVn/ZNR2UNXv63+jT/8=
+
+Name: bundle_tests/fragment.test.attach.host.a.require.jar
+SHA1-Digest: 0ginsstBDHO9OVjCn3Qh5blfnL0=
+
+Name: test_files/resourcetests/bundles/test/folder/paren(.txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/security/pkcs12/README
+SHA1-Digest: vfWMkZpYfUIKvqhgnwvWyQkGNxo=
+
+Name: bundle_tests/test.bug259903.a.update.jar
+SHA1-Digest: BED/lRYV6lyLYW5lPNTuzoVIEMM=
+
+Name: test_files/genericCapability/c1.osgi.frag.MF
+SHA1-Digest: S2i4pUCQgqpvHurz8EWmartr8DQ=
+
+Name: bundle_tests/test.bug259903.b.jar
+SHA1-Digest: fQW9Zy8bVVBIpxq7XkOmKtUcqBc=
+
+Name: test_files/security/bundles/test.bug252098.jar
+SHA1-Digest: Sl4c+jJVADjurCPmPM0nhgG2Fgk=
+
+Name: test_files/genericCapability/p6.v100.osgi.MF
+SHA1-Digest: pEAPKFDZXcZtlVEssF1+KrynQWo=
+
+Name: bundle_tests/legacy.lazystart.a.jar
+SHA1-Digest: YuZisA1aJ4S/QW+yy+69C4k0JA0=
+
+Name: test_files/genericCapability/p2.equinox.MF
+SHA1-Digest: 8J+yGaG4W6gMChu4x9lwz8SNzDs=
+
+Name: test_files/devCPTests/tb1/META-INF/MANIFEST.MF
+SHA1-Digest: AzCILXenbg8o6zGuyZTKHCVdiLI=
+
+Name: test_files/resourcetests/bundles/test/file1.txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/genericCapability/p1.osgi.MF
+SHA1-Digest: Jp6R6AoCdY7nSxm/k+vOR4nyKsI=
+
+Name: test_files/security/bundles/SHA1withRSA.jar
+SHA1-Digest: HvDOBcNXZmyVb8xaYV9xKkOTzSQ=
+
+Name: test_files/genericCapability/p3.osgi.MF
+SHA1-Digest: Rfahx0JdMrR0J4xdeNANV7VM7KU=
+
+Name: test_files/security/bundles/signed_with_metadata_removed.jar
+SHA1-Digest: LdVLYXj4oqyiLYCz5k+nNyiLd+Y=
+
+Name: test.xml
+SHA1-Digest: Ugo9F/OFrhvRjvOoKLXgizVGqE0=
+
+Name: test_files/genericCapability/p1.osgi.name.MF
+SHA1-Digest: 0v6pbI4umSWJmtM7V6leM127rM8=
+
+Name: test_files/security/bundles/SHA384withRSA.jar
+SHA1-Digest: +qgHutV7CLgy9ajtr7CRAxQeA4A=
+
+Name: test_files/security/bundles/signed_with_corrupt.jar
+SHA1-Digest: /AGTvvIarfH6oj0uJD+ZQ0wXPx0=
+
+Name: bundle_tests/buddy.dependent.a.test2.jar
+SHA1-Digest: 601tVWyPmis6OeYYqYRtN+ujv0c=
+
+Name: bundle_tests/test.bug287636.a2.jar
+SHA1-Digest: suitz5ZNDu4/L5pQtdfLQXUho54=
+
+Name: test_files/genericCapability/c6.v130.osgi.MF
+SHA1-Digest: tnWdHOkmXeIsxIXwZO5od7yiPvc=
+
+Name: bundle_tests/buddy.invalid.a.jar
+SHA1-Digest: itTce5nI3Uw62C+kDpcMUpELDOM=
+
+Name: bundle_tests/xfriends.test1.jar
+SHA1-Digest: jH21WwQ7yCQuwWiasKjMUtfs7aU=
+
+Name: test_files/genericCapability/c1.equinox.MF
+SHA1-Digest: kETaSyjgCzj0pl+Pdcx7oTP7eBw=
+
+Name: bundle_tests/substitutes.a.jar
+SHA1-Digest: xBMLOtqVgkyTtJfYk9CpFr3JUYk=
+
+Name: bundle_tests/substitutes.e.jar
+SHA1-Digest: j9L0JKZ7+eygOYklRXAHnR34o60=
+
+Name: bundle_tests/ext.framework.a.importer.jar
+SHA1-Digest: 99xqRqv9kWlVthPAkrIcMrT4mjQ=
+
+Name: test_files/internal/plugins/appAdminTests/appadmin.test01/META-I
+ NF/MANIFEST.MF
+SHA1-Digest: SziybftnVboMdvpedJLJzO9fVc0=
+
+Name: bundle_tests/substitutes.i.jar
+SHA1-Digest: K+Y/M2MxGeA0k1Okm9NpkL6hZzE=
+
+Name: bundle_tests/substitutes.m.jar
+SHA1-Digest: ImdRCI4B8jn20kkhKAURbAntwxo=
+
+Name: test_files/security/bundles/signed_with_metadata_added.jar
+SHA1-Digest: wRLS56VZSyigd1+L+O3JGpGvvv8=
+
+Name: bundle_tests/activator.error2.jar
+SHA1-Digest: Hao1DACnPaUIzcuibrO/yfgkTbw=
+
+Name: plugin.xml
+SHA1-Digest: TePJIonmNxwCHmdr7LmOuLiYzE0=
+
+Name: test_files/internal/plugins/installTests/bundle16/META-INF/MANIF
+ EST.MF
+SHA1-Digest: xmvSh+i8BNKEpDskSYq/rYgfy+Y=
+
+Name: bundle_tests/substitutes.q.jar
+SHA1-Digest: nyb///I9tBlpp9Hfc1FY++XnWjw=
+
+Name: bundle_tests/test2.jar
+SHA1-Digest: PnCzFhbM5KCWpKMIN+U5E5dnc5Y=
+
+Name: test_files/security/pkcs12/ca2_leafa.p12
+SHA1-Digest: 4NRGzTk0kKHXidgZO+Z2Qo/K4+U=
+
+Name: bundle_tests/ext.framework.a.jar
+SHA1-Digest: IA9OPuPkw94m2hr117CBmtVUuZE=
+
+Name: test_files/configuration/bundle02/plugin.xml
+SHA1-Digest: UEmNbkiLKZPr/A3asEodOZlPLQM=
+
+Name: test_files/security/pkcs12/ca1_root.p12
+SHA1-Digest: UUXKZDWzjWrui7TaNr5w0hR9QrA=
+
+Name: test_files/security/bundles/signed_with_sf_corrupted.jar
+SHA1-Digest: A4zGONhMExM85x/bDCs7igcwp2A=
+
+Name: test_files/resolverTests/p2.MF
+SHA1-Digest: 940I2kdEc8rva7kRiYU+FOyvEg4=
+
+Name: bundle_tests/osgi.lazystart.b.jar
+SHA1-Digest: GwGyMi/8VTdSkX5OyXPQtmi1RlY=
+
+Name: bundle_tests/nativetest.b1.jar
+SHA1-Digest: 0+MmIwyDP+tD3MPLDLfY99ObJc4=
+
+Name: test_files/internal/plugins/installTests/bundle05/plugin.xml
+SHA1-Digest: Hn5IomGGmT9HHpLYdA5AlAbjciU=
+
+Name: bundle_tests/fragment.test.attach.host.a.v2.jar
+SHA1-Digest: vzjOG4qV7LhKV4uD7Kd0PSSRvhw=
+
+Name: test_files/resourcetests/bundles/file.txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: bundle_tests/test.fragment3.jar
+SHA1-Digest: YYQgdPOZ3Nvk3BzHPvxWx6I4Pws=
+
+Name: test_files/genericCapability/c6.v150.osgi.MF
+SHA1-Digest: 3190L9oF3gCPsfvzNlszERlx02M=
+
+Name: test_files/resolverTests/c1.MF
+SHA1-Digest: iYCCHku5osnYOVev1ZxOZgw1k0s=
+
+Name: test_files/internal/plugins/installTests/bundle13/META-INF/MANIF
+ EST.MF
+SHA1-Digest: DUiOKWpUu+sYLUS8YOsy/S2wm4M=
+
+Name: test_files/internal/plugins/installTests/bundle08b/plugin.xml
+SHA1-Digest: /wOEnfqeVG8PB2P6BTPV33ehjbI=
+
+Name: bundle_tests/buddy.registered.a.test1.jar
+SHA1-Digest: PUjPr6flHpmOKL7+mHb7AdI2O4I=
+
+Name: bundle_tests/ext.extclasspath.a.importer.jar
+SHA1-Digest: flFYjOh0kX4n5pCO7s2i0CdIIjU=
+
+Name: test_files/wiringTests/bundles/singleton.tb1v2/META-INF/MANIFEST
+ .MF
+SHA1-Digest: mDx6e7tJm5Qc07akKwjLiLpvUGY=
+
+Name: bundle_tests/test.link.a.jar
+SHA1-Digest: hqc6uxgGpmFnfSCgG8RAJ0H4w08=
+
+Name: bundle_tests/exporter.importer2.jar
+SHA1-Digest: IhnirJS0rSwX6s6zygDKcYt36Mc=
+
+Name: bundle_tests/chain.test.d.jar
+SHA1-Digest: FQ5MdDXRsbq45mnU+drZwgf+wXs=
+
+Name: test_files/configuration/bundle03/META-INF/MANIFEST.MF
+SHA1-Digest: qOCs1rdeYJY1MakvKV2/5m6CP9s=
+
+Name: bundle_tests/test.link.e.jar
+SHA1-Digest: re/hOnsklGyBRHLe2CvB3aLbKtE=
+
+Name: test_files/genericCapability/p5.v100.osgi.MF
+SHA1-Digest: 8FCyGIKrfUvd1oIWGLC3HPhnV+k=
+
+Name: bundle_tests/test.manifestpackage.jar
+SHA1-Digest: 2D5u6Bnlc9tZX5D8TMLMqiBeBw4=
+
+Name: test_files/resourcetests/bundles/test/folder/file1.txt
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/internal/plugins/installTests/bundle08/plugin.xml
+SHA1-Digest: MFGvNt7Wnx6FMbx07OWWga8ABdQ=
+
+Name: bundle_tests/buddy.registered.a.jar
+SHA1-Digest: je4qqaT01RrfINSfkbSwskvpRHE=
+
+Name: test_files/wiringTests/bundles/resource.tb5/META-INF/MANIFEST.MF
+SHA1-Digest: utPQCYAQ7ZKNguD9fPRPRZYtK20=
+
+Name: bundle_tests/nativetest.d.jar
+SHA1-Digest: BnHEu6Ue8IRIDFJNuIL+hKEzSwk=
+
+Name: test_files/security/bundles/signed_with_metadata.jar
+SHA1-Digest: OlYf77Ds1Q5dkxfmAX41rvLlWXg=
+
+Name: test_files/genericCapability/c2.osgi.MF
+SHA1-Digest: o933ZHGMGc97cQuQFohaZkgG4lE=
+
+Name: bundle_tests/circularity.test.jar
+SHA1-Digest: /fdF7wJC+diNtWqYKTU6QUHH4PY=
+
+Name: bundle_tests/test.bug259903.a.jar
+SHA1-Digest: jhAHxXYGQLslE1Ff8jTXczVzgzw=
+
+Name: test_files/security/bundles/SHA1withDSA.jar
+SHA1-Digest: tg8L5E94zfct/2dtX0YIMkUO5JE=
+
+Name: bundle_tests/test.logging.a.jar
+SHA1-Digest: lBnmDRO/BXp6K1I5NXo47Xk4xH4=
+
+Name: test_files/security/pkcs12/ca1_ou.p12
+SHA1-Digest: wHIFKac3Gym+SDF3sw/xJx4/mv4=
+
+Name: test_files/wiringTests/bundles/resource.tb2/META-INF/MANIFEST.MF
+SHA1-Digest: N+7fVh6ahcMX1KHIlcl0+Jdbk+I=
+
+Name: bundle_tests/buddy.dependent.a.test1.jar
+SHA1-Digest: XpN9sunw8Zi4qKr5MEwHp1ZnbhI=
+
+Name: bundle_tests/osgi.lazystart.jar
+SHA1-Digest: v926pcK++lW5osyMxeZR8dB4bc4=
+
+Name: bundle_tests/test.bug287636.a1.jar
+SHA1-Digest: gL6+Ml6Sf9HNPWW0zPdWEypKapM=
+
+Name: bundle_tests/legacy.lazystart.jar
+SHA1-Digest: PV8gmO1cPibG6gWam8RyNnI9MfY=
+
+Name: test_files/security/eclipse.jks
+SHA1-Digest: CTE4dRqkHohHW5N+a3pVF90MvIk=
+
+Name: bundle_tests/client1.multiple.exports.jar
+SHA1-Digest: HVm6vb0LtXaUPMBzVJhW8S3KHTs=
+
+Name: test_files/genericCapability/c4.v110.osgi.MF
+SHA1-Digest: N2G3aRODRPY16RDSWa2Kzo+RExc=
+
+Name: bundle_tests/test.link.c.client.jar
+SHA1-Digest: 2l5xK+xYBseE2AwY051BTvUa1rI=
+
+Name: bundle_tests/substitutes.a.frag.jar
+SHA1-Digest: fnhAF3JvpUqC3Q3U3Ve7N4KFQF4=
+
+Name: bundle_tests/substitutes.d.jar
+SHA1-Digest: rPnMz95bQ+F65fh8xzfnBxF4iuA=
+
+Name: bundle_tests/substitutes.h.jar
+SHA1-Digest: S+r5nU/LN4xjEvJP1+bbwBQGYss=
+
+Name: test_files/genericCapability/p1.equinox.MF
+SHA1-Digest: cLscXQ9UY1PJ9rdFzZyUnTZchAI=
+
+Name: bundle_tests/substitutes.l.jar
+SHA1-Digest: A33UKUDcLuATVxHeprmsflk3DgE=
+
+Name: bundle_tests/activator.error1.jar
+SHA1-Digest: oZRROtJefe/e9RA9IAuzZumRdw4=
+
+Name: bundle_tests/substitutes.p.jar
+SHA1-Digest: Buq5sWNerJ894m1xQKzyTESH8FM=
+
+Name: test_files/genericCapability/c6.v100.osgi.MF
+SHA1-Digest: SeDzKrWgBA9X1WqS8SEcUWLw3Xg=
+
+Name: test_files/security/bundles/unsigned.jar
+SHA1-Digest: ZA8we0VxJfT6nkXuPgNZiTkl3DU=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: test_files/genericCapability/p7.v110.osgi.MF
+SHA1-Digest: KAzLeqTUZXdRQrggTuSQCgPu0Gg=
+
+Name: bundle_tests/ext.framework.a.requires.jar
+SHA1-Digest: Oo4vPdnoSYwt1YFH2bCMfjF8G/I=
+
+Name: bundle_tests/osgi.lazystart.a.jar
+SHA1-Digest: 5uHpYD7y9WPifYsO6C79V7FLnSA=
+
+Name: test_files/security/bundles/README
+SHA1-Digest: nHUk4toDqAU6n4x7vAK7tK10h+0=
+
+Name: bundle_tests/test.tccl.jar
+SHA1-Digest: fpXXrbG0BV4xf0BvpFxMcAvHFdc=
+
+Name: test_files/internal/plugins/installTests/bundle17/META-INF/MANIF
+ EST.MF
+SHA1-Digest: gHlCpa8VHuIgtXl+6BBxejbFD0U=
+
+Name: bundle_tests/test.fragment2.jar
+SHA1-Digest: 295suKt/kHfypbvT7D7Zzn2AogM=
+
+Name: test_files/genericCapability/c4.v130.osgi.MF
+SHA1-Digest: FEOHzQRfT43NucjC+AV0QUI+8cg=
+
+Name: test_files/genericCapability/c3.equinox.MF
+SHA1-Digest: W92YPM/vXcOIC6KW717t6UtVy9M=
+
+Name: bundle_tests/exporter.importer1.jar
+SHA1-Digest: UmSKN/zKLcCecAJEYOnsiQn+Bro=
+
+Name: bundle_tests/chain.test.c.jar
+SHA1-Digest: iOrDHBYlneKpDTtNpI9xMRy6WW0=
+
+Name: bundle_tests/test.link.d.jar
+SHA1-Digest: OjDtCFg7kYTA+uBWYE4Ahr0pAbo=
+
+Name: test_files/resolverTests/r1.MF
+SHA1-Digest: ubGmR7MnR51k9zkpeWqrb8k3axg=
+
+Name: test_files/security/bundles/signed_tsa.jar
+SHA1-Digest: IxEjTrnCi2VlRe28kFQUlmCIxUI=
+
+Name: bundle_tests/nativetest.c.jar
+SHA1-Digest: BXIQA3A6OUqL7Er8KP9wfiz+R8Y=
+
+Name: test_files/internal/plugins/installTests/bundle04/plugin.xml
+SHA1-Digest: 7v5yTWHaeLaxHqugUz+aGgjq5HY=
+
+Name: test_files/resourcetests/bundles/test/plugin.xml
+SHA1-Digest: 2tPutHwFZCxD2QW1SeoAEc8VerA=
+
+Name: test_files/wiringTests/bundles/resource.tf1/META-INF/MANIFEST.MF
+SHA1-Digest: 845VXD7L0yx42RClRk8mdLaW010=
+
+Name: test_files/internal/plugins/installTests/bundle14/META-INF/MANIF
+ EST.MF
+SHA1-Digest: CHv+GAaEW2RZ3adl2eEr0HoPU+c=
+
+Name: test_files/resourcetests/bundles/test/folder/paren(
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/genericCapability/c6.v120.osgi.MF
+SHA1-Digest: ITIqum8GzKH8CukomEuX3nKulps=
+
+Name: test_files/resourcetests/bundles/test/folder/paren)
+SHA1-Digest: vr/v5r0KgXXpmoPyF+09Lb/lW8g=
+
+Name: test_files/security/pkcs12/ca1_leafb.p12
+SHA1-Digest: KtXu9wma23xd6j3lEHUQrtSVHNw=
+
+Name: bundle_tests/fragment.test.attach.host.a.jar
+SHA1-Digest: j5lo6fi9pcegpPnhXx7LebzHj4I=
+
+Name: bundle_tests/security.b.jar
+SHA1-Digest: 4XWyBqah6NtbdcPeJh5SvTf/X5Q=
+
+Name: test_files/security/bundles/SHA512withRSA.jar
+SHA1-Digest: S0xS6euSdhiYYBjj9JEKGBahK2M=
+
+Name: test_files/internal/plugins/installTests/bundle07/plugin.xml
+SHA1-Digest: MQvAWne93IhJBVjmQxcmznsyvMw=
+
+Name: bundle_tests/legacy.lazystart.c.jar
+SHA1-Digest: VFS7RuzTdaH/YLZ2Fv1RtVMruHk=
+
+Name: bundle_tests/test.link.postponed.jar
+SHA1-Digest: zh/A50jzLgYKwv0EAmEGmHkaOl0=
+
+Name: test_files/genericCapability/p2.osgi.MF
+SHA1-Digest: denfW6x3z8Z8FQ1OJiu2f+MNqfs=
+
+Name: test_files/genericCapability/p4.osgi.MF
+SHA1-Digest: v4XwsdfxVTdMQPxIRyhnISIw2us=
+
+Name: test_files/internal/plugins/installTests/bundle11/META-INF/MANIF
+ EST.MF
+SHA1-Digest: aUKczGwb7WpFKKlvijWY53aJhnk=
+
+Name: osgitests.jar
+SHA1-Digest: 2MLwETnCF0G1rdc/uaF6YwGPzPI=
+
+Name: bundle_tests/xfriends.test3.jar
+SHA1-Digest: mIXVE/XxayVlgRjSZEl72wggIkM=
+
+Name: bundle_tests/test.filter.a.jar
+SHA1-Digest: cxQJaAwoBtppnOPCGmgCCZiAW6s=
+
+Name: bundle_tests/substitutes.c.jar
+SHA1-Digest: 11uYab+BzLWhwielRPvqOyMfIEw=
+
+Name: test_files/genericCapability/p6.v110.osgi.MF
+SHA1-Digest: MK/EGTtokkRVW+tDCOsUo51jbPw=
+
+Name: test_files/configuration/bundle01/META-INF/MANIFEST.MF
+SHA1-Digest: lCtsj0jTz+BE+1rgsSrsuWupm14=
+
+Name: bundle_tests/geturl.jar
+SHA1-Digest: tYzAwjE49hsxhuSdcj4RX4+5Qi8=
+
+Name: bundle_tests/substitutes.g.jar
+SHA1-Digest: N/XD91wSWiHytG89MfTSCKxIMok=
+
+Name: bundle_tests/nativetest.a2.jar
+SHA1-Digest: mCoDcDcpU47mSmfLLUBXJ5mQoTM=
+
+Name: bundle_tests/substitutes.k.jar
+SHA1-Digest: Mq/ZS9rzn3foNJxR+8ra9lpe8IU=
+
+Name: test_files/wiringTests/bundles/resource.tb3/META-INF/MANIFEST.MF
+SHA1-Digest: 4Y2FUPlySXWuMzEM+ylWE9/tzsQ=
+
+Name: test_files/internal/plugins/installTests/bundle 01/plugin.xml
+SHA1-Digest: d6NrKBSjZX4GvQPDdPP/DqsQ+44=
+
+Name: bundle_tests/test.bug286307.jar
+SHA1-Digest: WW2jUJHi8H9gsMgTz9SMcSun2ds=
+
+Name: bundle_tests/test.bug306181b.jar
+SHA1-Digest: 9TvbtPuVlk+E3YuE9L1/FV3+iT4=
+
+Name: bundle_tests/activator.error4.jar
+SHA1-Digest: mj5f9ZaYHW5RPMZfi+20adJTCIA=
+
+Name: bundle_tests/client2.multiple.exports.jar
+SHA1-Digest: uMAl2MM5qDl3EzRxG4dtGZkXXac=
+
+Name: test_files/resourcetests/bundles/test/META-INF/MANIFEST.MF
+SHA1-Digest: y9ng3KoS57DtrV3VkK04YmSSlug=
+
+Name: test_files/genericCapability/c6.v140.osgi.MF
+SHA1-Digest: sLalqp0xKsjXA7lC1BCIGkC1PXU=
+
+Name: bundle_tests/test.bug235958.y.jar
+SHA1-Digest: /rMgaBaaRP+/JBNY60zc1VS6ya8=
+
+Name: bundle_tests/thread.locktest.jar
+SHA1-Digest: CezRxKeXXnWoehlfyHuCyCRSASA=
+
+Name: bundle_tests/test.link.b.client.jar
+SHA1-Digest: jIOqFMpOCX1K410O44j3OvEezOc=
+
+Name: test_files/security/bundles/signed_with_metadata_corrupt.jar
+SHA1-Digest: TRzkvScbcW4QOBq5rHMZKHqgC9M=
+
+Name: test_files/genericCapability/c1.equinox.name.MF
+SHA1-Digest: 4Hq/JjseLmTkRMzmIhTdSf0TGuY=
+
+Name: test_files/genericCapability/c2.equinox.name.MF
+SHA1-Digest: YnfZVW30in613bkaY+LbBUxLhC4=
+
+Name: test_files/genericCapability/c3.equinox.name.MF
+SHA1-Digest: /9TRNinKcSEoUomfRvURPLsUXTI=
+
+Name: test_files/resolverTests/r2.MF
+SHA1-Digest: ud3W44/gzDoHNS7xJ0oRKsbPU1c=
+
+Name: test_files/security/keystore.jks
+SHA1-Digest: LWowCcmRGw6zTMu96v3I6+vrzUA=
+
+Name: bundle_tests/fragment.test.attach.frag.b.jar
+SHA1-Digest: E0mWepss5hTVNuYmLymK0UfSVQk=
+
+Name: test_files/genericCapability/p1.osgi.frag.MF
+SHA1-Digest: aQ+Hx6i8bdkKTE0Jifz1kLZ4g9s=
+
+Name: test_files/genericCapability/p3.osgi.name.MF
+SHA1-Digest: e8Tbz7Aq7DLrSywWEEyKlPN1pKE=
+
+Name: bundle_tests/test.fragment1.jar
+SHA1-Digest: F/hmgPh5XH7Kv1huT2TvFxmM8WY=
+

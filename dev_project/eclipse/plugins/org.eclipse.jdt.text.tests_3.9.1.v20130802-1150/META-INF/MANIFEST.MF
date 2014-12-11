@@ -1,0 +1,109 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.jdt.text.tests
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/jdt/ec
+ lipse.jdt.ui.git;path="org.eclipse.jdt.text.tests";tag="M20130807-100
+ 0";commitId=90928fd72108fbe903e8e236108a88a1b748c694
+Bundle-Activator: org.eclipse.jdt.text.tests.JdtTextTestPlugin
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.7.0,4.0.0)
+ ",org.eclipse.compare.core;bundle-version="[3.5.0,4.0.0)",org.eclipse
+ .core.filesystem;bundle-version="[1.2.0,2.0.0)",org.eclipse.core.reso
+ urces;bundle-version="[3.5.0,4.0.0)";resolution:=optional,org.eclipse
+ .jface.text;bundle-version="[3.5.0,4.0.0)",org.eclipse.ui.workbench.t
+ exteditor;bundle-version="[3.5.0,4.0.0)",org.eclipse.ui.editors;bundl
+ e-version="[3.5.0,4.0.0)",org.eclipse.jdt.ui;bundle-version="[3.9.0,4
+ .0.0)",org.junit;bundle-version="4.8.1",org.eclipse.ui;bundle-version
+ ="[3.5.0,4.0.0)",org.eclipse.jdt.core;bundle-version="[3.8.0,4.0.0)",
+ org.eclipse.ui.ide;bundle-version="[3.5.0,4.0.0)",org.eclipse.debug.c
+ ore;bundle-version="[3.5.0,4.0.0)",org.eclipse.jdt.debug;bundle-versi
+ on="[3.4.0,4.0.0)",org.eclipse.text.tests;bundle-version="[3.5.0,4.0.
+ 0)",org.eclipse.jface.text.tests;bundle-version="[3.5.0,4.0.0)",org.e
+ clipse.core.filebuffers.tests;bundle-version="[3.5.0,4.0.0)",org.ecli
+ pse.jdt.ui.tests;bundle-version="[3.6.0,4.0.0)",org.eclipse.test.perf
+ ormance;bundle-version="[3.5.0,4.0.0)",com.ibm.icu;bundle-version="4.
+ 4.2"
+Bundle-Version: 3.9.1.v20130802-1150
+Export-Package: org.eclipse.jdt.text.tests,org.eclipse.jdt.text.tests.
+ contentassist,org.eclipse.jdt.text.tests.performance,org.eclipse.jdt.
+ text.tests.spelling,org.eclipse.jdt.text.tests.templates
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: jdttexttests.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Plugin.providerName
+Bundle-Name: %Plugin.name
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: testResources/semanticHighlightingTest1/test/ExternalClass.java
+SHA1-Digest: BXcuaBXDB6l8+LzEvDuvDEMOebo=
+
+Name: testResources/typingInvocationCountTest1/Test.java
+SHA1-Digest: 7T5DTOtfzzGez4HgFQYU0VqgXME=
+
+Name: testResources/indentation/bug122261/Modified.java
+SHA1-Digest: M9YmanWIUjGxZsx2pXGOKpxmegc=
+
+Name: jdttexttests.jar
+SHA1-Digest: cpTL7oYcu0nceMYEA9BSYd23RoY=
+
+Name: testResources/semanticHighlightingTest1/SHTest.java
+SHA1-Digest: hFX6fxpvXuH9sq/t29yDEs6c7So=
+
+Name: testResources/semanticHighlightingTest1/Autoboxing.java
+SHA1-Digest: tAIBG57vCmgubiDr+bQ5CzHaejk=
+
+Name: about.html
+SHA1-Digest: wGIbdDNiTBPPSfdFQCiAiC5JkN8=
+
+Name: plugin.properties
+SHA1-Digest: qeGEcOmhfL4q+bv8Iladsgw4gN4=
+
+Name: testResources/org.eclipse.swt-R3_0.zip
+SHA1-Digest: gaNRD2luye83FGUuMGgnBc/pwRU=
+
+Name: testResources/indentation/bug122261/Before.java
+SHA1-Digest: 9hDO8v2WueV6ah0MRmaxaEaTSPc=
+
+Name: testResources/indentation/emptySingleLineComment01/Modified.java
+SHA1-Digest: TWZSuWQNPEjt+ZcZPTGXupACoIM=
+
+Name: testResources/indentation/unchanged/Modified.java
+SHA1-Digest: hY5Yx7NdX0JXkino+XCwgaYChRw=
+
+Name: testResources/indentation/emptySingleLineComment02/Modified.java
+SHA1-Digest: 2NrFBhGwrIErmk/qiTedqmgE6EY=
+
+Name: testResources/indentation/emptySingleLineComment03/Modified.java
+SHA1-Digest: fzIUzXWRBe/8ToOCPcuTZZRv2LA=
+
+Name: testResources/javaDocIndentStrategyTest1/Test.java
+SHA1-Digest: NaK6874XMuIS/GVz14AhNhS/e18=
+
+Name: testResources/org.eclipse.text-R3_0.zip
+SHA1-Digest: N9GpiUiVbBrDRVdUny6XJI7qPQY=
+
+Name: testResources/indentation/emptySingleLineComment01/Before.java
+SHA1-Digest: TWZSuWQNPEjt+ZcZPTGXupACoIM=
+
+Name: test.xml
+SHA1-Digest: Sb3EKAnEUSBGSmSXUEnpPUUfsow=
+
+Name: testResources/indentation/unchanged/Before.java
+SHA1-Digest: hY5Yx7NdX0JXkino+XCwgaYChRw=
+
+Name: testResources/indentation/emptySingleLineComment02/Before.java
+SHA1-Digest: fa1e+ImRdmNuFAsic/75Sv80iEE=
+
+Name: testResources/indentation/emptySingleLineComment03/Before.java
+SHA1-Digest: bGVpuzw8t01gvgY61USWH883L70=
+
+Name: testResources/folderLinkTarget1/.project
+SHA1-Digest: 4gDTWg17efdlZCeyuSEI2PrSDvw=
+
+Name: testResources/folderLinkTarget1/test1/test2/C.java
+SHA1-Digest: CeBDbAVNKwRPRn/yp4vuW/wsxBY=
+

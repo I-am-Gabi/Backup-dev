@@ -1,0 +1,149 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.jdt.apt.pluggable.tests;singleton:=tr
+ ue
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/jdt/ec
+ lipse.jdt.core.git;path="org.eclipse.jdt.apt.pluggable.tests";tag="M2
+ 0131127-0800";commitId=f993e6f03cae8a4c4022c36ffb3938e24a284798
+Bundle-Activator: org.eclipse.jdt.apt.pluggable.tests.Apt6TestsPlugin
+Require-Bundle: org.junit,org.eclipse.jdt.apt.pluggable.core,org.eclip
+ se.core.resources,org.eclipse.core.runtime,org.eclipse.jdt.apt.core,o
+ rg.eclipse.jdt.core.tests.builder,org.eclipse.jdt.core.tests.compiler
+ ,org.eclipse.test.performance,org.eclipse.jdt.core,org.eclipse.ui.ide
+Bundle-Version: 3.3.500.v20131120-1433
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: .
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/apt/pluggable/tests/ScalingTests.class
+SHA1-Digest: ykp8W1ZL7evD3s/wm2CyLWYpDQM=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/annotations/Message6.class
+SHA1-Digest: 8PBtecofdw3Q30h1OQ1+CsIjF7Y=
+
+Name: META-INF/services/javax.annotation.processing.Processor
+SHA1-Digest: D/sM9AZWrqpNp+UlRbxjO4YE8wM=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/ProcessorTestStatus.class
+SHA1-Digest: 3xBQb7Yvv8KX17A1NDZkMC8xwb0=
+
+Name: lib/annotations.jar
+SHA1-Digest: kcDbCb5C6IH/Veq6M234k+XVGWc=
+
+Name: plugin.properties
+SHA1-Digest: U+UeaiAtOgK4pT3t3pX7cop3zYs=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/annotations/ModelTestTrigger
+ .class
+SHA1-Digest: r58QCcG2wkCBipwvXOHE4XWNC8s=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/processors/modeltester/Model
+ TesterProc.class
+SHA1-Digest: 2utY8XaRwPcgS5b5YBoIGIK7Ot0=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/processors/buildertester/Tes
+ tFinalRoundProc.class
+SHA1-Digest: Nmcv5F+kGk/jorQB4nlu3+LCWrQ=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/processors/genclass6/GenClas
+ s6Proc.class
+SHA1-Digest: m29/qZJn2Ta5UpwlbSyF0RjYMy0=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/IdeTestUtils.class
+SHA1-Digest: EZBTeeQBuCp7J72bRL3z+Qk0uzI=
+
+Name: plugin.xml
+SHA1-Digest: WCk25/nfS32I4Y+BogLTrweYIDE=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/TestAll.class
+SHA1-Digest: lWubErJ5ibJbonXM6KChRIm5pEk=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/ModelTests.class
+SHA1-Digest: 0e42VDB29oVMS51U7YqGllxBjMA=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/annotations/FilerTestTrigger
+ .class
+SHA1-Digest: rcJb4OZlmPptboysXQWW8eYF0tc=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/processors/buildertester/Inh
+ eritedAnnoProc.class
+SHA1-Digest: 68LhD5PGbrKrfhiPTIfdTijX2UI=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/annotations/LookAt.class
+SHA1-Digest: Rd6Z0bZ/OaHIXrsmPqhD7jkkNdM=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/processors/filertester/Filer
+ TesterProc.class
+SHA1-Digest: LXopnHR7r6sTudQxZf4yzl0SmRU=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/TestBase.class
+SHA1-Digest: 1/5SWman1Qfue9nPP1MxsKWutaU=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: resources/targets/infrastructure/NoAnno.java
+SHA1-Digest: oF/Z+FNXnU5yqvgHNqU6TGgTovU=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/InfrastructureTests.class
+SHA1-Digest: Mw9rQmFfB8J9z0s63ZSaFBXSNn0=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/BuilderTests.class
+SHA1-Digest: 95JqM8iPdzt6zueGzco7hodWO6w=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/TestUtils.class
+SHA1-Digest: ipaT5UwoxjUj2gVkD5kd6eVswfQ=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/annotations/InheritedTrigger
+ .class
+SHA1-Digest: KDenJUJvuJZddoSf+FRhVY2beJg=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/annotations/GenClass6.class
+SHA1-Digest: nhO3dzFXtkyu2BNbcZDeaD8+xTk=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/annotations/FinalRoundTestTr
+ igger.class
+SHA1-Digest: /lX/90re9EWrNoz1f1fnrk0VIiQ=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/FilerTests.class
+SHA1-Digest: PsJKM5JuS4Iin7s8uhu9OrPGvs8=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/Apt6TestsPlugin.class
+SHA1-Digest: m73ax10Tc0+PVzwTsfe1oHiFvCc=
+
+Name: resources/targets/filer03a/Parent03.java
+SHA1-Digest: 8fEbnXU/FR14u6xkuiq0THeozk0=
+
+Name: resources/targets/filer03b/Parent03.java
+SHA1-Digest: Sp4wxkSUA2kmXX3TmSn0g0fupu4=
+
+Name: resources/targets/filer02a/Parent02.java
+SHA1-Digest: FAHnTADIzGVnCdVPSAj8fH30Yr8=
+
+Name: resources/targets/filer02b/Parent02.java
+SHA1-Digest: jPepd0W43RVhU/coMd0OFHKW44o=
+
+Name: resources/targets/filer01a/Parent01.java
+SHA1-Digest: PQ+4yAe4B2Eq5oxPmbCpB81XOYA=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/PerformanceTests.class
+SHA1-Digest: +0k6j7JxdQbUKfrVZ9b6lbnSwcA=
+
+Name: resources/targets/filer01b/Parent01.java
+SHA1-Digest: cWHHMMRIUKoR3NIPRvh0AxNDcNU=
+
+Name: test.xml
+SHA1-Digest: e28wHVLTtkPgsBeuH9JWtVvzojM=
+
+Name: org/eclipse/jdt/apt/pluggable/tests/processors/message6/Message6
+ Proc.class
+SHA1-Digest: pvqgrLtJXGvYtkry0yqiZkBKdcY=
+

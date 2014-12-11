@@ -1,0 +1,83 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.ui.tests.performance;singleton:=true
+Eclipse-LazyStart: true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.ui.git;path="tests/org.eclipse.ui.tests.performan
+ ce";tag="I20130516-2200";commitId=f3a281531ddf2aa81af4f270c14c5f18ac7
+ b8729
+Bundle-Activator: org.eclipse.ui.tests.performance.UIPerformancePlugin
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.co
+ re.tests.harness,org.junit,org.eclipse.test.performance,org.eclipse.c
+ ore.resources,org.eclipse.ui.tests.harness,org.eclipse.ui.ide,org.ecl
+ ipse.jface.text,org.eclipse.ui.editors,org.eclipse.ui.workbench.texte
+ ditor,org.eclipse.e4.ui.model.workbench,org.eclipse.ui.views,org.ecli
+ pse.e4.core.contexts
+Bundle-Version: 1.1.400.v20130516-0811
+Bundle-ClassPath: uiperformance.jar
+Build-Jdk: 1.7.0_11
+Bundle-Name: Performance Plug-in
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: icons/dynamic.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: icons/imagetests/dynamic.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: icons/mockeditorpart1.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: icons/imagetests/mockeditorpart1.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: uiperformance.jar
+SHA1-Digest: w1Ulc9fhtuDm2YrPLHAKzD/9Zlw=
+
+Name: icons/mockeditorpart2.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: icons/imagetests/mockeditorpart2.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: icons/binary_co.gif
+SHA1-Digest: cWBzO5h/qRA1SK8GW/siJ1RqoHg=
+
+Name: icons/imagetests/binary_co.gif
+SHA1-Digest: cWBzO5h/qRA1SK8GW/siJ1RqoHg=
+
+Name: icons/imagetests/anything.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: icons/anything.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: icons/imagetests/view.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: data/testContentType.zip
+SHA1-Digest: C1Coj3C7DpsAGmFBrViCQj8yZGU=
+
+Name: icons/view.gif
+SHA1-Digest: /FcNMyZSYRapLsm3Ps9saKZMcZY=
+
+Name: pom.xml
+SHA1-Digest: 58FZ/471BZ8XmyA86v5YKayGp10=
+
+Name: icons/imagetests/editor.gif
+SHA1-Digest: UOq0+Os0tLvzOoTRPLPV0E9Ze0Q=
+
+Name: icons/editor.gif
+SHA1-Digest: UOq0+Os0tLvzOoTRPLPV0E9Ze0Q=
+
+Name: test.xml
+SHA1-Digest: jP1lWMXedqhssch4lDqaz/Po8TQ=
+
+Name: plugin.xml
+SHA1-Digest: aXlgap0ZFIEz5Qy7fDnzn+1D3Zw=
+

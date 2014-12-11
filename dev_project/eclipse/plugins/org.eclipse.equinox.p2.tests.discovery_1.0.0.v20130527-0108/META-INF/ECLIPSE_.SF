@@ -1,0 +1,133 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 511GjeNcP2x/wKupKuikw8mk9rY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ygfoCTvzZOLC/pNwawL9zJ6L6UY=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/mock/CatalogItemMock
+ Factory.class
+SHA1-Digest: ry0qblFZ69xwR0sONzeJW13oH1A=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/ConnectorDiscoveryRe
+ moteTest.class
+SHA1-Digest: SGZlY+qi+lJQq3eZAzzF33PxX/k=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/DirectoryParserTest.
+ class
+SHA1-Digest: Enq1WuzwR9REhSGKUzKxxWJDp8I=
+
+Name: testdata/org.eclipse.mylyn.discovery.test1-feature/.project
+SHA1-Digest: 8705YGWVuRmLGTpcVkLjnbccnOU=
+
+Name: plugin.properties
+SHA1-Digest: Bd6q+e59LSLjCviHc0O1euwQJpA=
+
+Name: testdata/update/features/org.eclipse.mylyn.discovery.test1_1.0.0
+ .201001200403.jar
+SHA1-Digest: le7BicfiyfgE0/Rk+iAzN/cbxeI=
+
+Name: testdata/update/content.jar
+SHA1-Digest: jPIf9QI7Df2X8dXYqlDzqaeLOmw=
+
+Name: testdata/org.eclipse.mylyn.discovery.test1-feature/build.propert
+ ies
+SHA1-Digest: uv9F3wZsG+NmwG4NQKhi/F3tQl8=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/RemoteBundleDiscover
+ yStrategyTest.class
+SHA1-Digest: OboZIUulFrzWh3sicS9seIRd9TY=
+
+Name: plugin.xml
+SHA1-Digest: c8jnTO+RN/XgRlaYwbc56qIItMA=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/util/CatalogCategory
+ ComparatorTest.class
+SHA1-Digest: lNG8wgH9m8sZbgPDtQP50pHRaUE=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/mock/MockDiscoverySt
+ rategy.class
+SHA1-Digest: f0d8vbuxnV7mC9jT/IqbsbTrrcE=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/ConnectorDiscoveryTe
+ st.class
+SHA1-Digest: 41hyVh9013tfocJtn/bKK9O+RxA=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/mock/AbstractMockFac
+ tory.class
+SHA1-Digest: rQEIETNaqui0vW4evX1rlPhVD/o=
+
+Name: org/eclipse/equinox/p2/discovery/tests/DiscoveryTestConstants.cl
+ ass
+SHA1-Digest: UPru+zTFjkwlCRLOSH1fHrVHExY=
+
+Name: .api_description
+SHA1-Digest: jCOSx1gFreIA4mEaDErjJz245xQ=
+
+Name: about.html
+SHA1-Digest: XdBS9kxmiT518TumURNkJrXqdZM=
+
+Name: testdata/org.eclipse.mylyn.discovery.test2-feature/.project
+SHA1-Digest: eE2UIFp918wlUPvllXyosMIxHEc=
+
+Name: org/eclipse/equinox/p2/discovery/tests/AllDiscoveryTests.class
+SHA1-Digest: WtDamienvmbNL9CW5IXEKxmqSaw=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/ConnectorDiscoveryTe
+ st$1.class
+SHA1-Digest: 8pL3nVp8uYi+ubhXm6C6K8VHfiw=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/ConnectorDiscoveryTe
+ st$2.class
+SHA1-Digest: f+pO2Vods0eWO0bb66E9H9/qUZU=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/ConnectorDiscoveryTe
+ st$3.class
+SHA1-Digest: TrvUsNEr08rE5wmxnGs9pv/vugY=
+
+Name: testdata/update/features/org.eclipse.mylyn.discovery.test2_1.0.0
+ .201001200403.jar
+SHA1-Digest: laOVDT7MvHihG5eIfwEW6wIqlUw=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/mock/MockCatalogSour
+ ce.class
+SHA1-Digest: Mm1ll4zq2y3i2POzg/4nkX5tVlY=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/ConnectorDiscoveryTe
+ st$4.class
+SHA1-Digest: vG0884noamslzP5DqKZQAGLhmV8=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/ConnectorDiscoveryTe
+ st$5.class
+SHA1-Digest: bHT8/ngTpxUwnWwiazVFpr3Hm7k=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/util/CatalogConnecto
+ rComparatorTest.class
+SHA1-Digest: cNTI//oTostHNs5/wbZeYQWcWok=
+
+Name: testdata/org.eclipse.mylyn.discovery.test2-feature/build.propert
+ ies
+SHA1-Digest: LmJ/nLzYLoxUY+66Y0Wen5S+Fq8=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/mock/CatalogCategory
+ MockFactory.class
+SHA1-Digest: WhDA43hhL0PTpiB6D/22sFM2tKs=
+
+Name: testdata/update/artifacts.jar
+SHA1-Digest: SUQH5WIj4qLqIeIBdu0HmOdCnDs=
+
+Name: test.xml
+SHA1-Digest: 23/xIjg3/irZDcyz4LTBBdq9J8g=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/BundleDiscoveryStrat
+ egyTest.class
+SHA1-Digest: CZWBAQLqpu1w6vPrvat9qXzQ+iw=
+
+Name: org/eclipse/equinox/p2/discovery/tests/core/mock/MockBundleDisco
+ veryStrategy.class
+SHA1-Digest: +6u6FsDS1bmBSFm1S3niQYB+fSw=
+
+Name: testdata/org.eclipse.mylyn.discovery.test1-feature/feature.xml
+SHA1-Digest: I5ILmLjlJT+H7J5GXVuW4CNgNwc=
+
+Name: testdata/org.eclipse.mylyn.discovery.test2-feature/feature.xml
+SHA1-Digest: YAbDxunB0We7jvr5qzBST2zJ8qc=
+

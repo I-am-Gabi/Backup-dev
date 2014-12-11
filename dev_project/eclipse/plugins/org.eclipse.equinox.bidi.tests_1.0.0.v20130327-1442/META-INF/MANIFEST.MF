@@ -1,0 +1,97 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.equinox.bidi.tests;singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/equino
+ x/rt.equinox.bundles.git;path="bundles/org.eclipse.equinox.bidi.tests
+ ";tag="I20130402-0800";commitId=452e0c8dae5a52ad9bb97e073caa16b40c3c1
+ eee
+Require-Bundle: org.junit;bundle-version="3.8.2",org.eclipse.equinox.b
+ idi;bundle-version="0.10.0",org.eclipse.equinox.registry;bundle-versi
+ on="3.5.0"
+Export-Package: org.eclipse.equinox.bidi.internal.tests;x-internal:=tr
+ ue,org.eclipse.equinox.bidi.tests
+Bundle-Version: 1.0.0.v20130327-1442
+Build-Jdk: 1.7.0_11
+Bundle-ActivationPolicy: lazy
+Bundle-Name: BiDi tests
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextMethodsTes
+ t$TestHandlerMyComma.class
+SHA1-Digest: 6bJ+GxYgxiubQSSf85Sv1lZ291Q=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextTest.class
+SHA1-Digest: lg9A4q00l3lZwXfyY1l5o3NGWb0=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextStringReco
+ rdTest.class
+SHA1-Digest: ntJ6Rc067wzkLIaphXGVQ2tXDKk=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextProperty.c
+ lass
+SHA1-Digest: enRvZG2S+LnNnVxQsNVqxkcMBME=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextSomeMoreTe
+ st$TestHandler1.class
+SHA1-Digest: OdbPVES6GZ9LVHQDmIYE6hAL1+E=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextSomeMoreTe
+ st$TestHandler2.class
+SHA1-Digest: wWv1x0/F/iHeylnq8Y8dkvX9IeI=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextSomeMoreTe
+ st$TestHandler3.class
+SHA1-Digest: iAJ8A1Nb1fS2k/JHUFBEuV6lYe0=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextMethodsTes
+ t.class
+SHA1-Digest: /6EPRdd6Ov6RFfjvFlFj+kDeBAU=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextProcessorT
+ est.class
+SHA1-Digest: GHgTLW1nHptXow4+UWecU1XNQNQ=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextMathTest.c
+ lass
+SHA1-Digest: WaWV2AOJDnnnw1vPf+i1t/F9e2Y=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextSomeMoreTe
+ st.class
+SHA1-Digest: Y4/qLTk/4MsTVKMwf3ufkmFJtfQ=
+
+Name: org/eclipse/equinox/bidi/tests/StructuredTextTestSuite.class
+SHA1-Digest: K5qPJ7WKFmysKhjvqcaddKYlqLI=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextFullToLean
+ Test.class
+SHA1-Digest: qDbX9ab5lHtlBdY5EFCcIpO+2CQ=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextTestBase.c
+ lass
+SHA1-Digest: YmvghrAWc/CvHkUxa7jSFetml4o=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextExtensions
+ Test.class
+SHA1-Digest: Xm0Ed0srs0b02P0nLlzz+R6iKr0=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextMath.class
+SHA1-Digest: YwFQ7GO5xHA24E8DZwXBltckua8=
+
+Name: test.xml
+SHA1-Digest: TV+lCy4gFfK/J5+DM/y4TRkUb2Y=
+
+Name: plugin.xml
+SHA1-Digest: FcY/DADkJBl6ZLIylDut7QQIxP8=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextSystem.cla
+ ss
+SHA1-Digest: Sw9odDRKcT6pIYUGD3HMRauXzsU=
+
+Name: org/eclipse/equinox/bidi/internal/tests/StructuredTextExtensibil
+ ityTest.class
+SHA1-Digest: bzQR9u1pVpZSt/NnIr3Dc1WQwso=
+

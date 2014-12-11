@@ -1,0 +1,466 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 4LKmDxeC60v0PXEArSiPfAXC4E0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: QKnznDQCD+yUkRHNnHr8/X+X0Y4=
+
+Name: testprograms/StackTraces.java
+SHA1-Digest: tq0EFv+AZWpBwI8Rq1XTyBHillo=
+
+Name: testprograms/DropTests.java
+SHA1-Digest: njZIMXxV4NfSG/9AmkEyE09OZ/w=
+
+Name: testprograms/MigrationTests.java
+SHA1-Digest: 6q7+RjrEfaO77CeR1QX3PmVXa24=
+
+Name: testprograms/LotsOfFields.java
+SHA1-Digest: eG95nQNv9DZv61DAkdVPUohTUcM=
+
+Name: testprograms/ConsoleVariableLineLength.java
+SHA1-Digest: M1/ZxPKj4PDBU5RLqKofLhQHz7U=
+
+Name: testresources/plist-bad2.xml
+SHA1-Digest: j0tby8Vd3l+33ctotyiAazZ0VRo=
+
+Name: testprograms/java6/AllInstancesTests.java
+SHA1-Digest: PWSRyESyT4llrHGNmSsqRIt1yI8=
+
+Name: testprograms/InstanceFilterObject.java
+SHA1-Digest: Gnp3k+bkznLFnkFdlR0eOybf78Y=
+
+Name: testprograms/BPManagerPerf.java
+SHA1-Digest: yWSy8dlO3YQP9DRPc5Hsji7Q6Uc=
+
+Name: testfiles/source/SomeClass.java
+SHA1-Digest: 05QZZN7HAAGkUzN5sjYDuIKw8wI=
+
+Name: testprograms/org/eclipse/debug/tests/targets/CallLoop.java
+SHA1-Digest: UgONK307owOs8OwiyaN+9sY850c=
+
+Name: testfiles/test-jre/lib/classes.txt
+SHA1-Digest: pRfs6CGQrJaI+cQzXJn1yk45hGA=
+
+Name: testprograms/a/MoveeRecipientSource
+SHA1-Digest: Y73dagosBuOQQTeUMfAdr6OPJHk=
+
+Name: testprograms/StepFilterOne.java
+SHA1-Digest: B7jddqeoIHiAOn3ZmcVVry56MVc=
+
+Name: testprograms/MethodLoop.java
+SHA1-Digest: xKddc+VadNHVDoBrGPOyRcftpaA=
+
+Name: testfiles/test-jre/bin/test-foundation11-win32.ee
+SHA1-Digest: MvMW2YpTgoi70cOkmiRHZHKvE1c=
+
+Name: testprograms/org/eclipse/debug/tests/targets/CallStack.java
+SHA1-Digest: Q8RE8S0wxlJEu3/osa4K2AS/HQo=
+
+Name: testsource-j2se-1.5/a/b/c/StepIntoSelectionWithGenerics.java
+SHA1-Digest: nHOxLAuu8SVe4tzagkqgy18V3/w=
+
+Name: testfiles/test-jre/lib/opt-ext/opt-ext.jar
+SHA1-Digest: 6ezRhaRdZqnxxnCvvlzNWnzVZfY=
+
+Name: testsource-j2se-1.5/a/b/c/MethodBreakpoints.java
+SHA1-Digest: /AGI/FRgSgcLvoWWxFkSYrHeCqY=
+
+Name: testprograms/org/eclipse/debug/tests/targets/InfiniteLoop.java
+SHA1-Digest: 9Q1NzdU1Ua6+mVpTC5KYid8GS+w=
+
+Name: testprograms/org/eclipse/debug/tests/targets/ArrayDetailTests.ja
+ va
+SHA1-Digest: GTMqXtS5Vo6Zsx66tDbFcCVqdFg=
+
+Name: testprograms/BreakpointsLocationBug344984.java
+SHA1-Digest: +NJPj7e4YkRS4735g1VPu5sxbeU=
+
+Name: testfiles/test-jre/lib/source/sourceaddsource.jar
+SHA1-Digest: hrt1IDGLiPmS1zEGCEVzYS/3PiE=
+
+Name: testresources/testJarWithOutRoot.jar
+SHA1-Digest: 6YlpshVsnLHobQz7Ili67d1EfKk=
+
+Name: testprograms/LargeSourceFile.java
+SHA1-Digest: QNE9oUhAAklue8ZlCRIhD7hZEMI=
+
+Name: testprograms/CompileError.java
+SHA1-Digest: 5Nxdw7lKBj2fG10u3/9H5al0o2Q=
+
+Name: testprograms/ArrayDetailTestsDef.java
+SHA1-Digest: QYxrNB6Y8BPx8BuPGdlruKsPenE=
+
+Name: testresources/brkpt_missing.bkpt
+SHA1-Digest: JsFLZUSaQTzORCOYCDq7GFzwtqY=
+
+Name: testprograms/bug329294.java
+SHA1-Digest: 41CQJ7P0Uw4e2dkLNBnBrgsMd/s=
+
+Name: testsource-j2se-1.5/a/b/c/bug329294WithGenerics.java
+SHA1-Digest: xbXafvamawXezAucx8nlTsdOvsc=
+
+Name: testprograms/ConditionalStepReturn.java
+SHA1-Digest: dkj2AYh2vVyYcXrlZDu23hjGi9M=
+
+Name: testprograms/MethodEntryRunner.java
+SHA1-Digest: Q/0PCrrXITdn7zr1iZluen6qHg4=
+
+Name: testprograms/org/eclipse/debug/tests/targets/StepIntoSelectionCl
+ ass.java
+SHA1-Digest: Aen1JtwKeaSSq9yGYyEILRciRC0=
+
+Name: testresources/JarProject/.project
+SHA1-Digest: 22VMQGR82j7xPvUIDCtPsPoL6U0=
+
+Name: testprograms/ArgumentPrinter.java
+SHA1-Digest: Gnt1FYJ2UCrxp0CLi0vaVC1klkk=
+
+Name: testresources/plist-snowleopard.xml
+SHA1-Digest: NRRZNVaw/R/iS9+WbvjSmRKilBI=
+
+Name: testprograms/OneToTen.java
+SHA1-Digest: GfbXq/dp9oDgYbtg2ErG2lpL85g=
+
+Name: testprograms/org/eclipse/debug/tests/targets/Looper.java
+SHA1-Digest: b06ZO2mfH6+q1bRCYi3uSnpguuk=
+
+Name: testprograms/EvalSimpleTests.java
+SHA1-Digest: vUWXAbC78+m/YG9GGsBSTnRoXTI=
+
+Name: testresources/test_resolver_index.index
+SHA1-Digest: flUo2Np3AKIuUrBrXEbzZw5znfQ=
+
+Name: testprograms/org/eclipse/debug/tests/targets/HelloLauncherWithAr
+ gs.java
+SHA1-Digest: 2oaP2VOynNZwSPGMVAjOn45pWS0=
+
+Name: testprograms/EvalTypeTests.java
+SHA1-Digest: J/PxXCTJ3qI7Xbx0fB2gXlM1a9U=
+
+Name: testprograms/Console80Chars.java
+SHA1-Digest: Gy0EugqEjHuXGMwWmRKfOz7z948=
+
+Name: testprograms/MultiThreadedException.java
+SHA1-Digest: Y9g7sN81QAIyn4gWzynFyYQzeFo=
+
+Name: testprograms/InspectTests.java
+SHA1-Digest: YP4vcWAzHJHUqEzsCKndyK2Nutc=
+
+Name: testprograms/org/eclipse/debug/tests/targets/HelloLauncher.java
+SHA1-Digest: xDekNiQHzkhsPtoBOzpDOWmWsmg=
+
+Name: testprograms/PrintConcatenation.java
+SHA1-Digest: zmXJmEHKaoceyb9fNgTjgG+K4BQ=
+
+Name: testprograms/VariableDetails.java
+SHA1-Digest: 2iTsbQYHoEKenCDIcbeM19/HMOo=
+
+Name: testprograms/LabelTest.java
+SHA1-Digest: 0joBa6kr5SzWjI7Y3/UqjFFmaQg=
+
+Name: testresources/JarRefProject/.classpath
+SHA1-Digest: QpGUzMIZ3yycFhFJhE9jL9je8oQ=
+
+Name: testprograms/Breakpoints.java
+SHA1-Digest: xwjLYoEcNqZ0kkPsXRjb08iMn6w=
+
+Name: testprograms/GotNewName.java
+SHA1-Digest: 560cI7SXW7lv+zdAx+SBAWl7pi4=
+
+Name: testprograms/StepFilterThree.java
+SHA1-Digest: zzWB7gDFuMkuACe7dO6+eYwwAmY=
+
+Name: testprograms/ConsoleStackTrace.java
+SHA1-Digest: R8StsOYeOcGlm4Ho6/do3pmO2aE=
+
+Name: testprograms/org/eclipse/debug/tests/targets/HitCountLooper.java
+SHA1-Digest: lzHFX3yWlSD0M20vcnA+XxQnSIE=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: testfiles/test-jre/bin/test-resolver2.ee
+SHA1-Digest: pcd6Mu9/2na+u4IPeZRzJhddnKE=
+
+Name: testprograms/WorkingDirectoryTest.java
+SHA1-Digest: GPMLZnXJr4fz6X7YV/SHogUQW2I=
+
+Name: testprograms/org/eclipse/debug/tests/targets/Watchpoint.java
+SHA1-Digest: ZdgAGI8ZHtXoVNMHlRLl/QQCQRU=
+
+Name: testprograms/VariableChanges.java
+SHA1-Digest: 2TKSTWkDTXYtokiG+M1t5mHQUOU=
+
+Name: testfiles/test-jre/lib/ext/ext1.jar
+SHA1-Digest: BmXodV+Af0IlnqvASB9OwuHSN1E=
+
+Name: testfiles/test-jre/lib/endorsed/end.jar
+SHA1-Digest: zM/v1mC82O8AiAomnSBmxjP0FtA=
+
+Name: testprograms/ForceReturnTests.java
+SHA1-Digest: QKJ6IzhFxNB1CBl9uRLt3+2qf0I=
+
+Name: testprograms/ThrowsException.java
+SHA1-Digest: derUjmH8eBEaEa/CNydMqu/VyR4=
+
+Name: javadebugtests.jar
+SHA1-Digest: bn+uBpMEnpsxNN3J5j/P2Qn6i+o=
+
+Name: testprograms/MigrationTests2.java
+SHA1-Digest: q71fZcFKGqneNcsVzGy9q2rtFHM=
+
+Name: testprograms/TestException.java
+SHA1-Digest: 62sxyOgjEp/YCCx2EzIxIDkgUmM=
+
+Name: testprograms/org/eclipse/debug/non-java.txt
+SHA1-Digest: +epgdqwngmzsFn7hA3JsKX/pErM=
+
+Name: testprograms/LaunchHistoryTest2.java
+SHA1-Digest: FTu6VlehGJEGVV90kev/tiyGlW8=
+
+Name: testprograms/NativeDropTests.java
+SHA1-Digest: NcoF1xFU0Vqt4x1U70m2mA8AiZQ=
+
+Name: testfiles/test-jre/bin/test-resolver-win32.ee
+SHA1-Digest: TgRgxYTfA+84mXgwe4fU+KqCuGo=
+
+Name: testprograms/LaunchHistoryTest.java
+SHA1-Digest: e0hruHGYgYipNJ5y4i2mLJufz+Y=
+
+Name: testprograms/BreakpointListenerTest.java
+SHA1-Digest: BC09Gm8rW/lAMUWEceXdTZ9BV4A=
+
+Name: testsource-j2se-1.5/a/b/c/ConditionalsNearGenerics.java
+SHA1-Digest: xHCjOWwmEt22r45jaffJi42W6dM=
+
+Name: testresources/JarRefProject/.settings/org.eclipse.jdt.core.prefs
+SHA1-Digest: NM7QW9Okp1nayIFMyLDabzj7DCQ=
+
+Name: testprograms/org/eclipse/debug/tests/targets/Source_$_Lookup.jav
+ a
+SHA1-Digest: f/gwjmuPYwYEE3uCccG9+QS/Cq8=
+
+Name: testresources/plist-bad1.xml
+SHA1-Digest: kp9azaMUeWzWqMehpzW816x7dsE=
+
+Name: testfiles/test-jre/lib/others.txt
+SHA1-Digest: f9c1L9A+XrfuJG2/i0SBZwy8er0=
+
+Name: testresources/plist-bad3.xml
+SHA1-Digest: vVGWIBBkhymv2mhz2t6uEtcVV6A=
+
+Name: testprograms/a/MoveeSource
+SHA1-Digest: Y4ytbpjOcfmBSym2e0SrFouuNUo=
+
+Name: testfiles/test-jre/lib/additional/add.jar
+SHA1-Digest: 02ELqC/LTPKUNjrzUvE3tRV67sw=
+
+Name: testfiles/test-jre/bin/jre.txt
+SHA1-Digest: ET3ptP93catESnnz8pRuQAIoh64=
+
+Name: testprograms/HitCountLooper.java
+SHA1-Digest: jD+NdIIalegY7nx74W+Tp+Cphn0=
+
+Name: testprograms/PerfLoop.java
+SHA1-Digest: RcYz/HYaAobBmLuKQ0zlQnG6HG4=
+
+Name: testprograms/LogicalStructures.java
+SHA1-Digest: kHIhV4wzO0Jfba1KXFyKu9VcWJ4=
+
+Name: testfiles/test-jre/lib/source/end.txt
+SHA1-Digest: uhAILRg/DhKWjSaMOkzbiZv2Y5w=
+
+Name: testprograms/ArgumentsTests.java
+SHA1-Digest: fC2dkuJxAE89zOg04YHYMEHw8jg=
+
+Name: testprograms/EvaluationTests.java
+SHA1-Digest: 61X1DL1GK5L8FLTYQzOwuM1wmxU=
+
+Name: testresources/JarRefProject/src/a/RunJar.java
+SHA1-Digest: +ft0ZzcB0/g4tKcwtd7kSDiaQy4=
+
+Name: testprograms/EvalArrayTests.java
+SHA1-Digest: oFCwH8YurvoTjk9gYcTAFh4zF4U=
+
+Name: testprograms/ArgumentCounter.java
+SHA1-Digest: 4yHuJMtAt7MoH3fD2KDbiiAqJ78=
+
+Name: testresources/test_resolver_javadoc.zip
+SHA1-Digest: Vi9tqA14DZpofh5fs7km32wP2Y4=
+
+Name: testprograms/org/eclipse/debug/tests/targets/SourceLookup.java
+SHA1-Digest: 2neTbjEDnK9dbEKxdrWfZ7RsbWI=
+
+Name: testprograms/FooPropertyPrinter.java
+SHA1-Digest: 6wNs60S6SbTVMysodC34hwlUMUM=
+
+Name: testprograms/InstanceVariablesTests.java
+SHA1-Digest: ms/GITnCs9b6EuKfGY3xMf6Evz0=
+
+Name: testprograms/LocalVariableTests2.java
+SHA1-Digest: tkeSH+AOfNtpeQefMyVjyNJ1Dfw=
+
+Name: testprograms/BreakpointsLocation.java
+SHA1-Digest: 7GKsWkOnu4rt36g4dPU6pPQWSSQ=
+
+Name: testfiles/test-jre/bin/jrew.txt
+SHA1-Digest: QQdlqlyL4tj1gka6UPHlGT6YieM=
+
+Name: testprograms/ThrowsNPE.java
+SHA1-Digest: YigT4+Ufm7nslYJVvs/OP6g1DT0=
+
+Name: testprograms/LocalVariablesTests.java
+SHA1-Digest: 6+LD+WAqqWWInDhnZN3d79ltHoM=
+
+Name: testprograms/EvalNestedTypeTests.java
+SHA1-Digest: VVaDSNoiD1C63f3fmDA8MbAATKM=
+
+Name: testprograms/StaticVariablesTests.java
+SHA1-Digest: 61nrwTrYkfLXDZzRa10F4MXUVFI=
+
+Name: testprograms/HitCountException.java
+SHA1-Digest: dIKNseXkBNKI3/L5/HAJ7UEhCZE=
+
+Name: testprograms/OneToTenPrint.java
+SHA1-Digest: Gt/EoBassMQpgaCECKa089nfEnE=
+
+Name: testresources/test_resolver_src.zip
+SHA1-Digest: qj9/qD4dQsHL0INLh4IAgq7IuGc=
+
+Name: testprograms/ThrowsException2.java
+SHA1-Digest: hJkCFr7pbJ0o4mPXpaoNGqFdEEw=
+
+Name: testprograms/ByteArrayTests.java
+SHA1-Digest: ebOTKAuo0XnyXDf1zUI2Qn++neM=
+
+Name: testprograms/bug401270.java
+SHA1-Digest: PkzJS9tXNhaNeh+29OvUnbF+tGI=
+
+Name: testresources/systempackage.profile
+SHA1-Digest: yuvQFYz1do/As5MD364IVJTE8bM=
+
+Name: testprograms/org/eclipse/debug/tests/targets/HcrClass.java
+SHA1-Digest: xCGmLme/kDe8BdRsTBHu+BhDMu8=
+
+Name: testprograms/StepFilterFour.java
+SHA1-Digest: rMQ5DD4gNHos4ZzKo3hAbDbCFQo=
+
+Name: testprograms/MultiThreadedLoop.java
+SHA1-Digest: UrUHDrpd4oV9vwWfE4sos6/6/iY=
+
+Name: test.xml
+SHA1-Digest: 58FysDrywaO+jsogxj/LPeO52X8=
+
+Name: testprograms/WatchItemTests.java
+SHA1-Digest: SYofU2SWkHV/BTwZIqZ7n4CN9tI=
+
+Name: testprograms/org/eclipse/debug/tests/targets/ClassTwo.java
+SHA1-Digest: FfZ45MV6Bry208ron6nSakqWHrI=
+
+Name: testfiles/test-jre/lib/source/source.txt
+SHA1-Digest: QGH15IlT990t+L4qxp3fbAWSWH8=
+
+Name: testfiles/test-jre/bin/test-resolver-win32-2.ee
+SHA1-Digest: mFaeUGTBbMqgAL5fQ89nd2xK5ZE=
+
+Name: testprograms/AppletImpl.java
+SHA1-Digest: vJyOca+HWNK2taBhukHVir+dTw0=
+
+Name: testprograms/FloodConsole.java
+SHA1-Digest: JghqPJ7LNLqtkB66Kyi+8b6MHAA=
+
+Name: testprograms/IBreakpoints.java
+SHA1-Digest: vsidESXou0AftEY65IMA4eAG6rY=
+
+Name: testprograms/org/eclipse/debug/tests/targets/ThreadStack.java
+SHA1-Digest: Zmv/hJuZqEwfWVo4kq3TzYdBALw=
+
+Name: testfiles/test-jre/bin/test-foundation11.ee
+SHA1-Digest: D33W7Xzb6oegZ527d888+fLTV1s=
+
+Name: plugin.properties
+SHA1-Digest: lueBibP7AVewfs1K1/ekyejS2L8=
+
+Name: testprograms/ConsoleInput.java
+SHA1-Digest: XkaBMkNa/zXP0h7zaQOFZOPk8CU=
+
+Name: testprograms/DefPkgReturnType.java
+SHA1-Digest: HnFmrJENsN6DVR/YN5Kj4v65Jgs=
+
+Name: testresources/JarRefProject/.project
+SHA1-Digest: qyJlAIOMtGB2V0BZeHG82bL1iTQ=
+
+Name: testresources/TestSource.jar
+SHA1-Digest: FS2Rtw781mFU2Fxvcw3yOlpYUJg=
+
+Name: testprograms/ArrayTests.java
+SHA1-Digest: BbUWeuJZkjWCM0pJfG//xd8t3Sk=
+
+Name: plugin.xml
+SHA1-Digest: EdESvK/AIeVkkRaE/VCxKO7AKjU=
+
+Name: testprograms/a/MoveeChildSource
+SHA1-Digest: NDFsLrNDc+urcNAAczW5COWIvkQ=
+
+Name: testresources/plist-lion.xml
+SHA1-Digest: fqMrhYFCT34WFSqOhFfHjO5/2+0=
+
+Name: testprograms/EvalTypeHierarchyTests.java
+SHA1-Digest: siz12KKNv2vxp1wJ6UWVOafieCg=
+
+Name: testfiles/test-jre/lib/source/extra1-src.txt
+SHA1-Digest: 2zMpg1kJZOfblHOIpmvuDQIvBQY=
+
+Name: testfiles/test-jre/lib/source/extra2-src.txt
+SHA1-Digest: bm19zuMqLXJK6m88XlWrdaPFw3k=
+
+Name: testjars/A.jar
+SHA1-Digest: p1FNGaGGY88RUC+pZWQf1ijBQPk=
+
+Name: testprograms/TestIO.java
+SHA1-Digest: NmZiLDDv6xw+5U4bLMaKvhn9BrM=
+
+Name: testprograms/org/eclipse/debug/tests/targets/ClassOne.java
+SHA1-Digest: IXrfeWzMvfYlfUufytP9EQ/tJDo=
+
+Name: testprograms/RunnableAppletImpl.java
+SHA1-Digest: 7RQEda5x5YAvMFw5uXOc5mn28pM=
+
+Name: testprograms/FinalBreakpointLocations.java
+SHA1-Digest: 7Ci9hMwNzIXODakj0x56BRvT3i8=
+
+Name: java7/Literals17.java
+SHA1-Digest: Rtg1P3+o3fTcI84BJM8LXD/N4Po=
+
+Name: testsource-j2se-1.5/a/b/c/bug403028.java
+SHA1-Digest: oWMhKDNezfYFRibjoS/BvBWjUyA=
+
+Name: testresources/JarProject/lib/sample.jar
+SHA1-Digest: wPBjHuwCw7kyfRNEg7CHCGBN47Y=
+
+Name: testprograms/StepFilterTwo.java
+SHA1-Digest: NbmL5q7gMuCnl7/OgHBcdi+nHx8=
+
+Name: testprograms/ForceReturnTestsTwo.java
+SHA1-Digest: vexaxozFVxDW/WbW4mPdDIkZSik=
+
+Name: testfiles/test-jre/bin/test-resolver.ee
+SHA1-Digest: FigF/6AvoBSLH/sxoavME2vdEAI=
+
+Name: testfiles/test-jre/lib/ext/ext2.jar
+SHA1-Digest: Mu2+C3G1U7VN5lBVIZoz/2woRjw=
+
+Name: testprograms/org/eclipse/debug/tests/targets/HelloLauncherWithAr
+ g.java
+SHA1-Digest: OrW2L271VNWwgHkhzWOduh6hh5E=
+
+Name: testresources/source-test.zip
+SHA1-Digest: oyZUOFgySFI6yJAnChRNjfY0bfg=
+
+Name: testresources/plist.xml
+SHA1-Digest: pG8ZRS7AholGmcQgBckd8o2SMQQ=
+
+Name: testprograms/MultiThreadedList.java
+SHA1-Digest: gV5dwO25GnJLLFHAA4tFc0nn/g4=
+
+Name: testsource-j2se-1.5/a/b/c/IntegerAccess.java
+SHA1-Digest: TukerE/fsYjcQ+sA63KVFI3mHrA=
+

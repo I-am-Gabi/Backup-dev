@@ -1,0 +1,59 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Built-By: e4Build
+Bundle-SymbolicName: org.eclipse.jdt.core.tests.compiler
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/jdt/ec
+ lipse.jdt.core.git;path="org.eclipse.jdt.core.tests.compiler";tag="M2
+ 0131127-0800";commitId=f993e6f03cae8a4c4022c36ffb3938e24a284798
+Require-Bundle: org.junit;bundle-version="3.8.1",org.eclipse.jdt.debug
+ ;bundle-version="[3.2.0,4.0.0)",org.eclipse.jdt.core;bundle-version="
+ [3.7.0,4.0.0)",org.eclipse.core.runtime;bundle-version="[3.2.0,4.0.0)
+ ",org.eclipse.test.performance;bundle-version="[3.1.0,4.0.0)",org.ecl
+ ipse.core.resources;bundle-version="[3.2.0,4.0.0)",org.eclipse.jdt.an
+ notation;bundle-version="[1.0.0,2.0.0)"
+Bundle-Version: 3.9.2.v20131120-1433
+Export-Package: org.eclipse.jdt.core.tests.compiler.parser,org.eclipse
+ .jdt.core.tests.compiler.regression,org.eclipse.jdt.core.tests.eval,o
+ rg.eclipse.jdt.core.tests.eval.target,org.eclipse.jdt.core.tests.juni
+ t.extension,org.eclipse.jdt.core.tests.runtime,org.eclipse.jdt.core.t
+ ests.util
+Build-Jdk: 1.7.0_25
+Bundle-ClassPath: jdtcoretestscompiler.jar
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Eclipse-BundleShape: dir
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: workspace/Test380112.jar
+SHA1-Digest: BptBEi+98NrFFXj11JTZGCyoITQ=
+
+Name: workspace/Test374129.jar
+SHA1-Digest: Sj6OL3w2+Klmm8lY3FvaW1+C+cQ=
+
+Name: workspace/Test388281.jar
+SHA1-Digest: 2Ng5xPHBs2GR5mkTOFtFEjXTDes=
+
+Name: jdtcoretestscompiler.jar
+SHA1-Digest: Rx+zoL66k6saeeFqvUaiXvptpvk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: iY2zgyL0gDEVJN5Ggvxtfdgvmio=
+
+Name: workspace/TestBootstrapMethodAtt.class
+SHA1-Digest: i/dcAzZS0oL6iaaoIwS2iZcxmHk=
+
+Name: workspace/Test372011.jar
+SHA1-Digest: NWUzdRz/FqFuO1sNtBp3EbKJUsI=
+
+Name: test.xml
+SHA1-Digest: Qy0UrcHBEted/eS/gDJJduONosk=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: 3OGm0eMcNMsCrxyAWzVfo3XbAKw=
+

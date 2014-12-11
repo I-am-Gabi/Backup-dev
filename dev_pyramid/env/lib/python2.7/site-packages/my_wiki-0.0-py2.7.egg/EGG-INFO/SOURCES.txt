@@ -1,0 +1,16 @@
+README.txt
+setup.cfg
+setup.py
+my_wiki/__init__.py
+my_wiki/resources.py
+my_wiki/security.py
+my_wiki/tests.py
+my_wiki/views.py
+my_wiki.egg-info/PKG-INFO
+my_wiki.egg-info/SOURCES.txt
+my_wiki.egg-info/dependency_links.txt
+my_wiki.egg-info/entry_points.txt
+my_wiki.egg-info/not-zip-safe
+my_wiki.egg-info/paster_plugins.txt
+my_wiki.egg-info/requires.txt
+my_wiki.egg-info/top_level.txt

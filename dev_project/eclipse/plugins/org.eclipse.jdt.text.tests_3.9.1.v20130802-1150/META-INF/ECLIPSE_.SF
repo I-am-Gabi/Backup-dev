@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: cDqfDCvU2lPz+KrtImUICmAW/60=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: iZZsO9YNq50Ru6yCmH+Fq4i5qn4=
+
+Name: testResources/semanticHighlightingTest1/test/ExternalClass.java
+SHA1-Digest: 88lM+Qd/rL+aR6fTw2/f4Fadjsk=
+
+Name: testResources/typingInvocationCountTest1/Test.java
+SHA1-Digest: Ot0HYkZPD8cUNe/KVyfGOpS2AIg=
+
+Name: testResources/indentation/bug122261/Modified.java
+SHA1-Digest: rNI7pKT8Ca8YR+fXNOS7X1+9wYA=
+
+Name: jdttexttests.jar
+SHA1-Digest: 0nxgbwOsN5QDkqggx0jOvq0T1zM=
+
+Name: testResources/semanticHighlightingTest1/SHTest.java
+SHA1-Digest: wtuCHHlq1eRccMQCsBRK3IcaXOA=
+
+Name: testResources/semanticHighlightingTest1/Autoboxing.java
+SHA1-Digest: 92hEXMnrz3WO4rEIgkYnOUmfzlk=
+
+Name: about.html
+SHA1-Digest: n0e2bdZ9gHeEB83Y9UCylhmOHlQ=
+
+Name: plugin.properties
+SHA1-Digest: 90yph7yNiRPYzBXS1nB0sXlzoc0=
+
+Name: testResources/org.eclipse.swt-R3_0.zip
+SHA1-Digest: YKTCwaVLSItuyfErfOCMJarj9k8=
+
+Name: testResources/indentation/bug122261/Before.java
+SHA1-Digest: yy+mZISSX5YcKxILs1HqiaHrDYk=
+
+Name: testResources/indentation/emptySingleLineComment01/Modified.java
+SHA1-Digest: wxhT/uq9b0iA74btywo0pOLwm8E=
+
+Name: testResources/indentation/unchanged/Modified.java
+SHA1-Digest: ZMjkTF+Ju6oLQGuecBHEzvG3m8E=
+
+Name: testResources/indentation/emptySingleLineComment02/Modified.java
+SHA1-Digest: 64NghtLya+6/em48ELCQBb3wWz8=
+
+Name: testResources/indentation/emptySingleLineComment03/Modified.java
+SHA1-Digest: O8KlZe2v7BsmonQvgnMSipCJ5AM=
+
+Name: testResources/javaDocIndentStrategyTest1/Test.java
+SHA1-Digest: ScByIsm1WWHgGGbmxJanh6Nk4ko=
+
+Name: testResources/org.eclipse.text-R3_0.zip
+SHA1-Digest: e3QumuwGkQe2GRNT9pP/1pk/nyk=
+
+Name: testResources/indentation/unchanged/Before.java
+SHA1-Digest: A5603WKBnO4yzbsgKvtp56gNTyg=
+
+Name: test.xml
+SHA1-Digest: lCvJOkPQ81Jf6nWgGP1i8z1kJ7k=
+
+Name: testResources/indentation/emptySingleLineComment01/Before.java
+SHA1-Digest: /pb/GjoszfvExN536id9QsfmYiI=
+
+Name: testResources/indentation/emptySingleLineComment02/Before.java
+SHA1-Digest: q5NqtfWThvyxIUMjOX0K7YDMFyc=
+
+Name: testResources/indentation/emptySingleLineComment03/Before.java
+SHA1-Digest: U3FzdHbHvxLZr7wHncLPFpYhrig=
+
+Name: testResources/folderLinkTarget1/.project
+SHA1-Digest: 4buD42OixXr7cyqL/Z70xxrhGW4=
+
+Name: testResources/folderLinkTarget1/test1/test2/C.java
+SHA1-Digest: TAB5bM2NNqXgtM8p6yyhhOXqzJk=
+
